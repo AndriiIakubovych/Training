@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ProductsListControl.Models.Product>
+
+@{ ViewBag.Title = "Домашняя страница"; }
+
+<main>
+    <div class="table-caption">
+        <h1>Список товаров</h1>
+        <div class="operations">
+            <a href="@Url.Action("AddProduct")" class="btn btn-default show-add-product-dialog"><i class="fa fa-plus"></i> Добавить</a>
+            <a href="@Url.Action("EditProduct")" class="btn btn-default disabled show-edit-product-dialog"><i class="fa fa-edit"></i> Редактировать</a>
+            <a href="@Url.Action("DeleteProduct")" class="btn btn-default disabled show-delete-product-dialog"><i class="fa fa-remove"></i> Удалить</a>
+        </div>
+    </div>
+    <div class="table-content">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Идентификатор</th>
+                    <th>Название</th>
+                    <th>Дата изготовления</th>
+                    <th>Цена (грн.)</th>
+                    <th>Описание</th>
+                    <th>Гарантия (мес.)</th>
+                    <th>Скидка (%)</th>
+                    <th>Наличие</th>
+                    <th>Фото</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.HiddenFor(modelItem => item.ProductId)</td>
+                        <td>@item.ProductName</td>
+                        <td>@item.ManufactureDate.ToShortDateString()</td>
+                        <td>@item.Price</td>
+                        <td class="description">@item.Description</td>
+                        <td>@item.Warranty</td>
+                        <td>@item.Discount</td>
+                        @if (item.WarehouseAvailability)
+                        {
+                            <td>Есть</td>
+                        }
+                        else
+                        {
+                            <td>Нет</td>
+                        }
+                        <td>
+                            @if (item.Photo != null)
+                            {
+                                <img class="small-photo" src="../../Content/images/@item.Photo" alt="Фото"/>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</main>
+<div id="add-product-dialog" class="modal fade">
+    <div id="add-product-dialog-content" class="modal-dialog"></div>
+</div>
+<div id="edit-product-dialog" class="modal fade">
+    <div id="edit-product-dialog-content" class="modal-dialog"></div>
+</div>
+<div id="delete-product-dialog" class="modal fade">
+    <div id="delete-product-dialog-content" class="modal-dialog"></div>
+</div>
+<div id="photo-modal">
+    <span class="close-image">&times;</span>
+    <img id="big-photo" alt="Фото"/>
+</div>
+<div class="alert alert-success"><i class="fa fa-check"></i> Данные успешно обновлены!</div>

@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\bin\Debug\PointDescription.exe
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\bin\Debug\PointDescription.pdb
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\obj\Debug\PointDescription.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\obj\Debug\PointDescription.exe
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\obj\Debug\PointDescription.pdb
+C:\Подготовка\C#\Lesson 6\Task 4\PointDescription\obj\Debug\PointDescription.exe
+C:\Подготовка\C#\Lesson 6\Task 4\PointDescription\obj\Debug\PointDescription.pdb

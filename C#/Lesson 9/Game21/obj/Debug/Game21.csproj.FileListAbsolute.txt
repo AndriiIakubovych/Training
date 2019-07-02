@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Game21\Game21\bin\Debug\Game21.exe
+C:\Подготовка\C#\Game21\Game21\bin\Debug\Game21.pdb
+C:\Подготовка\C#\Game21\Game21\obj\Debug\Game21.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Game21\Game21\obj\Debug\Game21.exe
+C:\Подготовка\C#\Game21\Game21\obj\Debug\Game21.pdb
+C:\Подготовка\C#\Lesson 9\Game21\obj\Debug\Game21.exe
+C:\Подготовка\C#\Lesson 9\Game21\obj\Debug\Game21.pdb
+C:\Подготовка\C#\Lesson 9\Game21\bin\Debug\Game21.exe
+C:\Подготовка\C#\Lesson 9\Game21\bin\Debug\Game21.pdb
+C:\Подготовка\C#\Lesson 9\Game21\obj\Debug\Game21.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\bin\Debug\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\bin\Debug\CapitalsPopulation.pdb
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\obj\Debug\CapitalsPopulation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\obj\Debug\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\obj\Debug\CapitalsPopulation.pdb
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\bin\Debug\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\bin\Debug\CapitalsPopulation.pdb
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\obj\Debug\CapitalsPopulation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\obj\Debug\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\obj\Debug\CapitalsPopulation.pdb

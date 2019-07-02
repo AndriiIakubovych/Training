@@ -1,0 +1,13 @@
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\bin\Release\TextFilesViewing.exe.config
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\bin\Release\TextFilesViewing.exe
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\bin\Release\TextFilesViewing.pdb
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\App.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\MainWindow.baml
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing.g.resources
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing.exe
+C:\Подготовка\WPF\Lesson 3\Task 1\TextFilesViewing\obj\Release\TextFilesViewing.pdb

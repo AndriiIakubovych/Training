@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\bin\Release\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\bin\Release\SevenWorldWonders.pdb
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\obj\Release\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\obj\Release\SevenWorldWonders.pdb
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\bin\Release\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\bin\Release\SevenWorldWonders.pdb
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\obj\Release\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\obj\Release\SevenWorldWonders.pdb

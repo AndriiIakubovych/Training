@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\bin\Release\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\bin\Release\ColumnsSwapping.pdb
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\obj\Release\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\obj\Release\ColumnsSwapping.pdb
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\bin\Release\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\bin\Release\ColumnsSwapping.pdb
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\obj\Release\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\obj\Release\ColumnsSwapping.pdb

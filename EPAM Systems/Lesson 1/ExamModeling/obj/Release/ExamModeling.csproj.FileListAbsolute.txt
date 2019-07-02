@@ -1,0 +1,6 @@
+C:\Подготовка\EPAM Systems\Lesson 1\ExamModeling\bin\Release\ExamModeling.exe.config
+C:\Подготовка\EPAM Systems\Lesson 1\ExamModeling\bin\Release\ExamModeling.exe
+C:\Подготовка\EPAM Systems\Lesson 1\ExamModeling\bin\Release\ExamModeling.pdb
+C:\Подготовка\EPAM Systems\Lesson 1\ExamModeling\obj\Release\ExamModeling.exe
+C:\Подготовка\EPAM Systems\Lesson 1\ExamModeling\obj\Release\ExamModeling.pdb
+C:\Подготовка\EPAM Systems\Lesson 1\ExamModeling\obj\Release\ExamModeling.csprojResolveAssemblyReference.cache

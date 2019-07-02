@@ -1,0 +1,27 @@
+C:\Подготовка\C#\SalesViewing\SalesViewing\bin\Debug\SalesViewing.exe.config
+C:\Подготовка\C#\SalesViewing\SalesViewing\bin\Debug\SalesViewing.exe
+C:\Подготовка\C#\SalesViewing\SalesViewing\bin\Debug\SalesViewing.pdb
+C:\Подготовка\C#\SalesViewing\SalesViewing\obj\Debug\SalesViewing.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\SalesViewing\SalesViewing\obj\Debug\SalesViewing.MainForm.resources
+C:\Подготовка\C#\SalesViewing\SalesViewing\obj\Debug\SalesViewing.Properties.Resources.resources
+C:\Подготовка\C#\SalesViewing\SalesViewing\obj\Debug\SalesViewing.csproj.GenerateResource.Cache
+C:\Подготовка\C#\SalesViewing\SalesViewing\obj\Debug\SalesViewing.exe
+C:\Подготовка\C#\SalesViewing\SalesViewing\obj\Debug\SalesViewing.pdb
+C:\Подготовка\C#\Lesson 16\SalesViewing\bin\Debug\SalesViewing.exe.config
+C:\Подготовка\C#\Lesson 16\SalesViewing\bin\Debug\SalesViewing.exe
+C:\Подготовка\C#\Lesson 16\SalesViewing\bin\Debug\SalesViewing.pdb
+C:\Подготовка\C#\Lesson 16\SalesViewing\obj\Debug\SalesViewing.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 16\SalesViewing\obj\Debug\SalesViewing.MainForm.resources
+C:\Подготовка\C#\Lesson 16\SalesViewing\obj\Debug\SalesViewing.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 16\SalesViewing\obj\Debug\SalesViewing.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 16\SalesViewing\obj\Debug\SalesViewing.exe
+C:\Подготовка\C#\Lesson 16\SalesViewing\obj\Debug\SalesViewing.pdb
+C:\Подготовка\C#\Lesson 20\SalesViewing\bin\Debug\SalesViewing.exe.config
+C:\Подготовка\C#\Lesson 20\SalesViewing\obj\Debug\SalesViewing.exe
+C:\Подготовка\C#\Lesson 20\SalesViewing\obj\Debug\SalesViewing.pdb
+C:\Подготовка\C#\Lesson 20\SalesViewing\bin\Debug\SalesViewing.exe
+C:\Подготовка\C#\Lesson 20\SalesViewing\bin\Debug\SalesViewing.pdb
+C:\Подготовка\C#\Lesson 20\SalesViewing\obj\Debug\SalesViewing.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 20\SalesViewing\obj\Debug\SalesViewing.MainForm.resources
+C:\Подготовка\C#\Lesson 20\SalesViewing\obj\Debug\SalesViewing.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 20\SalesViewing\obj\Debug\SalesViewing.csproj.GenerateResource.Cache

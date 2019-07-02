@@ -1,0 +1,5 @@
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\bin\Release\FairyTail.exe.config
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\bin\Release\FairyTail.exe
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\bin\Release\FairyTail.pdb
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\obj\Release\FairyTail.exe
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\obj\Release\FairyTail.pdb

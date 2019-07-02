@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\bin\Debug\CountriesDictionary.exe
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\bin\Debug\CountriesDictionary.pdb
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\obj\Debug\CountriesDictionary.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\obj\Debug\CountriesDictionary.exe
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\obj\Debug\CountriesDictionary.pdb
+C:\Подготовка\C#\Lesson 6\Task 3\CountriesDictionary\obj\Debug\CountriesDictionary.exe
+C:\Подготовка\C#\Lesson 6\Task 3\CountriesDictionary\obj\Debug\CountriesDictionary.pdb

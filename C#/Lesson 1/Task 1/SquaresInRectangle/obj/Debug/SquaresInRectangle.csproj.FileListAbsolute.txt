@@ -1,0 +1,15 @@
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\bin\Debug\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\bin\Debug\SquaresInRectangle.pdb
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\obj\Debug\SquaresInRectangle.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\obj\Debug\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\obj\Debug\SquaresInRectangle.pdb
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Debug\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Debug\SquaresInRectangle.pdb
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Debug\SquaresInRectangle.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Debug\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Debug\SquaresInRectangle.pdb
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Debug\SquaresInRectangle.exe
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Debug\SquaresInRectangle.pdb
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Debug\SquaresInRectangle.exe
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Debug\SquaresInRectangle.pdb
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Debug\SquaresInRectangle.csprojResolveAssemblyReference.cache

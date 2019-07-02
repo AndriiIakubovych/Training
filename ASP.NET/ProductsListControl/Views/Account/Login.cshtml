@@ -1,0 +1,23 @@
+﻿@model ProductsListControl.Models.LoginModel
+
+@{ ViewBag.Title = "Вход"; }
+
+<main class="main-login">
+    <div class="login-content">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(false)
+            <input name="returnUrl" type="hidden" value="@ViewBag.returnUrl"/>
+            <div>
+                @Html.LabelFor(model => model.UserName, "Логин:")
+                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+            <div>
+                @Html.LabelFor(model => model.Password, "Пароль:")
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+            <button class="btn btn-success" type="submit">Войти</button>
+        }
+    </div>
+</main>

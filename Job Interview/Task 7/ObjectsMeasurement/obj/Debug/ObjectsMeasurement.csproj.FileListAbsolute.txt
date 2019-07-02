@@ -1,0 +1,41 @@
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe.config
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.pdb
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csprojResolveAssemblyReference.cache
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.MainForm.resources
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.Properties.Resources.resources
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csproj.GenerateResource.Cache
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.exe
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.pdb
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe.config
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.pdb
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csprojAssemblyReference.cache
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.MainForm.resources
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.Properties.Resources.resources
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csproj.GenerateResource.cache
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csproj.CoreCompileInputs.cache
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.exe
+H:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.pdb
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.ScreenForm.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe.config
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.exe
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.pdb
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.pdb
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csprojResolveAssemblyReference.cache
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.MainForm.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.Properties.Resources.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.ScreenForm.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csproj.GenerateResource.Cache
+F:\Work\Objects Measurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe.config
+F:\Work\Objects Measurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.exe
+F:\Work\Objects Measurement\ObjectsMeasurement\bin\Debug\ObjectsMeasurement.pdb
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csprojAssemblyReference.cache
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.MainForm.resources
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.Properties.Resources.resources
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.ScreenForm.resources
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csproj.GenerateResource.cache
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.csproj.CoreCompileInputs.cache
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.exe
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Debug\ObjectsMeasurement.pdb

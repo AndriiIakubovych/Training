@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\bin\Debug\TextParse.exe
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\bin\Debug\TextParse.pdb
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\obj\Debug\TextParse.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\obj\Debug\TextParse.exe
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\obj\Debug\TextParse.pdb
+C:\Подготовка\C#\Lesson 6\Task 6\TextParse\obj\Debug\TextParse.exe
+C:\Подготовка\C#\Lesson 6\Task 6\TextParse\obj\Debug\TextParse.pdb

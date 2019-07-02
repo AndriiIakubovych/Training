@@ -1,0 +1,94 @@
+﻿@model Blog.PresentationLayer.Models.TestResultViewModel
+
+@{ ViewBag.Title = "Questionnaire"; }
+
+<div class="content questionnaire-content">
+    <div class="content-header">
+        <h3 class="questionnaire-header">Questionnaire</h3>
+    </div>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <div>
+            @Html.LabelFor(model => model.RespondentName, "Your name:")
+        </div>
+        <div>
+            @Html.EditorFor(model => model.RespondentName, new { htmlAttributes = new { maxlength = 50 } })
+            @Html.ValidationMessageFor(model => model.RespondentName)
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Gender, "Gender:")
+        </div>
+        <div class="editor-field">
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Gender, "Male", new { @checked = true })<span>Male</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Gender, "Female")<span>Female</span></div>
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Age, "Age:")
+        </div>
+        <div class="editor-field">
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "Younger than 12", new { @checked = true })<span>Younger than 12</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "12-17")<span>12-17</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "18-23")<span>18-23</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "24-29")<span>24-29</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "30-35")<span>30-35</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "36-41")<span>36-41</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "42-47")<span>42-47</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "48-53")<span>48-53</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "54-59")<span>54-59</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "60-65")<span>60-65</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.Age, "Older than 65")<span>Older than 65</span></div>
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Country, "Country of residence:")
+        </div>
+        <div>
+            @Html.EditorFor(model => model.Country, new { htmlAttributes = new { maxlength = 50 } })
+            @Html.ValidationMessageFor(model => model.Country)
+        </div>
+        <div>
+            @Html.LabelFor(model => model.HasComputerEducation, "Do you have a computer education?")
+        </div>
+        <div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.HasComputerEducation, "Yes", new { @checked = true })<span>Yes</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.HasComputerEducation, "No")<span>No</span></div>
+        </div>
+        <div>
+            @Html.Label("How did you find out about this blog?")
+        </div>
+        <div>
+            <div class="test-variant">@Html.CheckBox("internet")<span>By searching the Internet</span></div>
+            <div class="test-variant">@Html.CheckBox("social")<span>Through social networks</span></div>
+            <div class="test-variant">@Html.CheckBox("author")<span>I know the author</span></div>
+            <div class="test-variant">@Html.CheckBox("otherway")<span>Other</span></div>
+        </div>
+        <div>
+            @Html.Label("What types of computer do you have?")
+        </div>
+        <div class="editor-field">
+            <div class="test-variant">@Html.CheckBox("pc")<span>PC</span></div>
+            <div class="test-variant">@Html.CheckBox("laptop")<span>Laptop</span></div>
+            <div class="test-variant">@Html.CheckBox("monoblock")<span>Monoblock</span></div>
+            <div class="test-variant">@Html.CheckBox("tablet")<span>Tablet PC</span></div>
+            <div class="test-variant">@Html.CheckBox("othercomputer")<span>Other</span></div>
+        </div>
+        <div>
+            @Html.Label("Which OS do you usually use?")
+        </div>
+        <div>
+            <div class="test-variant">@Html.CheckBox("windows")<span>Windows</span></div>
+            <div class="test-variant">@Html.CheckBox("macos")<span>Mac OS</span></div>
+            <div class="test-variant">@Html.CheckBox("linux")<span>Linux</span></div>
+            <div class="test-variant">@Html.CheckBox("unix")<span>Unix</span></div>
+            <div class="test-variant">@Html.CheckBox("otheros")<span>Other</span></div>
+        </div>
+        <div>
+            @Html.LabelFor(model => model.ReadsOtherBlogs, "Do you read other blogs about computer technology?")
+        </div>
+        <div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.ReadsOtherBlogs, "Yes", new { @checked = true })<span>Yes</span></div>
+            <div class="test-variant">@Html.RadioButtonFor(model => model.ReadsOtherBlogs, "No")<span>No</span></div>
+        </div>
+        <input type="submit" value="Send"/>
+    }
+</div>

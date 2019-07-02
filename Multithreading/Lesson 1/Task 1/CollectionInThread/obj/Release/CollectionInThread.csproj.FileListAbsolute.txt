@@ -1,0 +1,5 @@
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\bin\Release\CollectionInThread.exe.config
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\bin\Release\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\bin\Release\CollectionInThread.pdb
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\obj\Release\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\obj\Release\CollectionInThread.pdb

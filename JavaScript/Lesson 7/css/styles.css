@@ -1,0 +1,71 @@
+﻿body
+{
+    min-width: 920px;
+    justify-content: space-around;
+    display: flex;
+}
+
+#input-data label
+{
+    font-size: 12px;
+    display: block;
+}
+
+#input-data input
+{
+    font-size: 12px;
+    display: block;
+}
+
+#input-data input[type="number"]
+{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+#input-data input[type="button"]
+{
+    width: 204px;
+    margin-bottom: 10px;
+}
+
+#coffee-machine
+{
+    width: 350px;
+    justify-content: space-between;
+    display: none;
+}
+
+.buttons
+{
+    width: 100px;
+}
+
+.buttons input[type="button"]
+{
+    width: 100px;
+    height: 35px;
+    background-image: url(../images/action-button.png);
+    border: none;
+    font-size: 10px;
+    cursor: pointer;
+    outline: none;
+    margin-bottom: 5px;
+}
+
+.buttons input[type="button"]:hover
+{
+    color: white;
+}
+
+#fridge
+{
+    width: 350px;
+    justify-content: space-between;
+    display: none;
+}
+
+#fridge .buttons
+{
+    padding-top: 85px;
+}

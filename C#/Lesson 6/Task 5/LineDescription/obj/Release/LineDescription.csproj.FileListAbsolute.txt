@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\bin\Release\LineDescription.exe
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\bin\Release\LineDescription.pdb
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\obj\Release\LineDescription.exe
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\obj\Release\LineDescription.pdb

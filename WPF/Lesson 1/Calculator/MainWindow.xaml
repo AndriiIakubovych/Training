@@ -1,0 +1,58 @@
+﻿<Window x:Class="Calculator.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:Calculator" Title="Калькулятор" Width="300" Height="350" Background="#354d79" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="icon.ico" KeyUp="Window_KeyUp">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Segoe UI Symbol"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Margin" Value="2"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="resultView" Grid.ColumnSpan="5" IsReadOnly="True" FontSize="19" Text="0" SelectionOpacity="0" VerticalAlignment="Stretch" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="2"/>
+        <Button Name="mcButton" Grid.Row="1" BorderBrush="#738ebd" Background="#29456d" Content="MC" Click="MCButton_Click"/>
+        <Button Name="mrButton" Grid.Row="1" Grid.Column="1" BorderBrush="#738ebd" Background="#29456d" Content="MR" Click="MRButton_Click"/>
+        <Button Name="msButton" Grid.Row="1" Grid.Column="2" BorderBrush="#738ebd" Background="#29456d" Content="MS" Click="MSButton_Click"/>
+        <Button Name="mPlusButton" Grid.Row="1" Grid.Column="3" BorderBrush="#738ebd" Background="#29456d" Content="M+" Click="MPlusButton_Click"/>
+        <Button Name="mMinusButton" Grid.Row="1" Grid.Column="4" BorderBrush="#738ebd" Background="#29456d" Content="M-" Click="MMinusButton_Click"/>
+        <Button Name="backspaceButton" Grid.Row="2" BorderBrush="#cd8d8e" Background="#a3472e" Content="&#x2190;" Click="BackspaceButton_Click"/>
+        <Button Name="ceButton" Grid.Row="2" Grid.Column="1" BorderBrush="#cd8d8e" Background="#a3472e" Content="CE" Click="CEButton_Click"/>
+        <Button Name="cButton" Grid.Row="2" Grid.Column="2" BorderBrush="#cd8d8e" Background="#a3472e" Content="C" Click="CButton_Click"/>
+        <Button Name="powButton" Grid.Row="2" Grid.Column="3" BorderBrush="#d6ecf7" Background="#6681ac" Content="x&#x00b2;" Click="PowButton_Click"/>
+        <Button Name="sqrtButton" Grid.Row="2" Grid.Column="4" BorderBrush="#d6ecf7" Background="#6681ac" Content="&#x221a;" Click="SqrtButton_Click"/>
+        <Button Grid.Row="3" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="7" Click="NumberButton_Click"/>
+        <Button Grid.Row="3" Grid.Column="1" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="8" Click="NumberButton_Click"/>
+        <Button Grid.Row="3" Grid.Column="2" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="9" Click="NumberButton_Click"/>
+        <Button Name="oneFractionNumberButton" Grid.Row="3" Grid.Column="3" BorderBrush="#d6ecf7" Background="#6681ac" Content="1/x" Click="OneFractionNumberButton_Click"/>
+        <Button Name="divisionRemainderButton" Grid.Row="3" Grid.Column="4" BorderBrush="#d6ecf7" Background="#6681ac" Content="%" Click="DivisionRemainderButton_Click"/>
+        <Button Grid.Row="4" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="4" Click="NumberButton_Click"/>
+        <Button Grid.Row="4" BorderBrush="#d6ecf7" Grid.Column="1" Background="#afafaf" Foreground="Black" Content="5" Click="NumberButton_Click"/>
+        <Button Grid.Row="4" BorderBrush="#d6ecf7" Grid.Column="2" Background="#afafaf" Foreground="Black" Content="6" Click="NumberButton_Click"/>
+        <Button Name="divisionButton" Grid.Row="4" Grid.Column="3" BorderBrush="#d6ecf7" Background="#6681ac" Content="&#x00f7;" Click="DivisionButton_Click"/>
+        <Button Name="multiplicationButton" Grid.Row="4" Grid.Column="4" BorderBrush="#d6ecf7" Background="#6681ac" Content="&#x00d7;" Click="MultiplicationButton_Click"/>
+        <Button Grid.Row="5" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="1" Click="NumberButton_Click"/>
+        <Button Grid.Row="5" BorderBrush="#d6ecf7" Grid.Column="1" Background="#afafaf" Foreground="Black" Content="2" Click="NumberButton_Click"/>
+        <Button Grid.Row="5" BorderBrush="#d6ecf7" Grid.Column="2" Background="#afafaf" Foreground="Black" Content="3" Click="NumberButton_Click"/>
+        <Button Name="minusButton" Grid.Row="5" Grid.Column="3" BorderBrush="#d6ecf7" Background="#6681ac" Content="-" Click="MinusButton_Click"/>
+        <Button x:Name="resultButton" Grid.Row="5" Grid.Column="4" BorderBrush="#d6ecf7" Grid.RowSpan="2" Background="#6681ac" Content="=" Click="ResultButton_Click"/>
+        <Button Grid.Row="6" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="0" Click="NumberButton_Click"/>
+        <Button Name="commaButton" Grid.Row="6" Grid.Column="1" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="," Click="CommaButton_Click"/>
+        <Button Name="changeSignButton" Grid.Row="6" Grid.Column="2" BorderBrush="#d6ecf7" Background="#afafaf" Foreground="Black" Content="&#x00b1;" Click="ChangeSignButton_Click"/>
+        <Button Name="plusButton" Grid.Row="6" Grid.Column="3" BorderBrush="#d6ecf7" Background="#6681ac" Content="+" Click="PlusButton_Click"/>
+    </Grid>
+</Window>

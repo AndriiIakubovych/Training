@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\bin\Debug\TagsCleaner.exe
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\bin\Debug\TagsCleaner.pdb
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\obj\Debug\TagsCleaner.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\obj\Debug\TagsCleaner.exe
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\obj\Debug\TagsCleaner.pdb
+C:\Подготовка\C#\Lesson 7\Task 2\TagsCleaner\obj\Debug\TagsCleaner.exe
+C:\Подготовка\C#\Lesson 7\Task 2\TagsCleaner\obj\Debug\TagsCleaner.pdb

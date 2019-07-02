@@ -1,0 +1,276 @@
+﻿<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta charset="utf-8">
+        <title>Object</title>
+        <style>
+            body
+            {
+                min-width: 500px;
+                font-family: Arial;
+                text-align: justify;
+            }
+
+            .main
+            {
+                font-size: 16px;
+            }
+
+            .child
+            {
+                font-size: 12px;
+            }
+
+            .attribute
+            {
+                color: gray;
+            }
+
+            .attribute-link
+            {
+                text-decoration: none;
+            }
+
+            .syntax
+            {
+                background-color: #fafafa;
+                border: 1px solid #e3e3e3;
+                margin: 30px 0 30px 0;
+            }
+
+            .language
+            {
+                background-color: #f2f2f2;
+                border-bottom: 1px solid #e3e3e3;
+                padding: 5px 10px 5px 10px;
+            }
+
+            .data
+            {
+                padding: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Object Class</h1>
+        <div class="main"><span class="attribute">namespace: </span><a class="attribute-link" href="#">System</a></div>
+        <p class="main">Supports all classes in the .NET Framework class hierarchy and provides low-level services to derived classes. This is the ultimate base class of all classes in the .NET Framework; it is the root of the type hierarchy.</p>
+        <h2>Constructors</h2>
+        <div><span class="attribute">access: </span><a class="attribute-link" href="#">public</a></div>
+        <div class="syntax">
+            <div class="language">C#</div>
+            <div class="data">public Object()</div>
+        </div>
+        <div class="syntax">
+            <div class="language">C++</div>
+            <div class="data">public: Object()</div>
+        </div>
+        <div class="syntax">
+            <div class="language">J#</div>
+            <div class="data">public Object()</div>
+        </div>
+        <h2>Methods</h2>
+        <h3>Equals</h3>
+        <div><span class="attribute">access: </span><a class="attribute-link" href="#">public</a></div>
+        <div><span class="attribute">returns: </span><a class="attribute-link" href="#">bool</a></div>
+        <div class="syntax">
+            <div class="language">C#</div>
+            <div class="data">public virtual bool Equals(Object obj)</div>
+        </div>
+        <div class="syntax">
+            <div class="language">C++</div>
+            <div class="data">public: virtual bool Equals(Object^ obj)</div>
+        </div>
+        <div class="syntax">
+            <div class="language">J#</div>
+            <div class="data">public boolean Equals(Object obj)</div>
+        </div>
+        <p>Determines whether the specified Object is equal to the current Object.</p>
+        <h4>Parameters</h4>
+        <h5>obj</h5>
+        <div class="child"><span class="attribute">type: </span><a class="attribute-link" href="#">Object</a></div>
+        <p class="child">The Object to compare with the current Object.</p>
+        <h4>Return Value</h4>
+        <p class="child">
+            true if the specified Object is equal to the current Object; otherwise, false.
+        </p>
+        <h4>Remarks</h4>
+        <p class="child">The default implementation of Equals supports reference equality only, but derived classes can override this method to support value equality.</p>
+        <p class="child">For reference types, equality is defined as object equality; that is, whether the references refer to the same object. For value types, equality is defined as bitwise equality. The ValueType class supports value types.</p>
+        <p class="child">Notes to Implementers This method can be overridden by a derived class. For example, many of the base data types return true if both objects represent the same value; otherwise, false. This method only compares primitives and objects. It must be overridden to compare more complex structures, such as arrays of objects. The following statements must be true for all implementations of the Equals method. In the list, x, y, and z represent object references that are not a null reference (nothing in Visual Basic).</p>
+        <p class="child">x.Equals(x) returns true, except in cases that involve floating-point types. See IEC 60559:1989, Binary Floating-point Arithmetic for Microprocessor Systems.</p>
+        <p class="child">x.Equals(y) returns the same value as y.Equals(x).</p>
+        <p class="child">x.Equals(y) returns true if both x and y are NaN.</p>
+        <p class="child">(x.Equals(y) &amp; &amp; y.Equals(z)) returns true if and only if x.Equals(z) returns true.</p>
+        <p class="child">Successive calls to x.Equals(y) return the same value as long as the objects referenced by x and y are not modified.</p>
+        <p class="child">x.Equals(a null reference (Nothing in Visual Basic)) returns false.</p>
+        <p class="child">See GetHashCode for additional required behaviors pertaining to the Equals method. Implementations of Equals must not throw exceptions. For some kinds of objects, it is desirable to have Equals test for value equality instead of referential equality. Such implementations of Equals return true if the two objects have the same "value", even if they are not the same instance. The type's implementer decides what constitutes an object's "value", but it is typically some or all the data stored in the instance variables of the object. For example, the value of a String is based on the characters of the string; the Equals method of the String class returns true for any two string instances that contain exactly the same characters in the same order. Types that implement IComparable must override Equals. Types that override Equals must also override GetHashCode; otherwise, Hashtable might not work correctly. If your programming language supports operator overloading and if you choose to overload the equality operator for a given type, that type must override the Equals method. Such implementations of the Equals method must return the same results as the equality operator. Following this guideline will help ensure that class library code using Equals (such as ArrayList and Hashtable) behaves in a manner that is consistent with the way the equality operator is used by application code. The following guidelines are for implementing a value type:</p>
+        <ul class="child">
+            <li>Consider overriding Equals to gain increased performance over that provided by the default implementation of Equals on ValueType.</li>
+            <li>If you override Equals and the language supports operator overloading, you must overload the equality operator for your value type.</li>
+        </ul>
+        <p class="child">The following guidelines are for implementing a reference type:</p>
+        <ul class="child">
+            <li>Consider overriding Equals on a reference type if the semantics of the type are based on the fact that the type represents some value(s).</li>
+            <li>Most reference types must not overload the equality operator, even if they override Equals. However, if you are implementing a reference type that is intended to have value semantics, such as a complex number type, you must override the equality operator.</li>
+        </ul>
+        <h4>Examples</h4>
+        <div class="syntax">
+            <div class="language">C#</div>
+            <div class="data">
+                <div></div>
+                <div></div>
+                <div>using System;</div>
+                <div></div>
+                <div>public class Sample</div>
+                <div>{</div>
+                <div>void Method()</div>
+                <div>{</div>
+                <div>Object Obj1 = new Object();</div>
+                <div>Object Obj2 = new Object();</div>
+                <div>Console.WriteLine(Obj1.Equals(Obj2)); //===&gt; false</div>
+                <div>Obj2 = Obj1;</div>
+                <div>Console.WriteLine(Obj1.Equals(Obj2)); //===&gt; true</div>
+                <div>}</div>
+                <div>}</div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+        <div class="syntax">
+            <div class="language">C++</div>
+            <div class="data">
+                <div></div>
+                <div></div>
+                <div>#using &lt;System.DLL&gt;</div>
+                <div></div>
+                <div>using namespace System;</div>
+                <div>ref class Sample</div>
+                <div>{</div>
+                <div>private:</div>
+                <div>void Method()</div>
+                <div>{</div>
+                <div>Object^ Obj1 = gcnew Object;</div>
+                <div>Object^ Obj2 = gcnew Object;</div>
+                <div>Console::WriteLine(Obj1-&gt;Equals(Obj2)); //===&gt; false</div>
+                <div>Obj2 = Obj1;</div>
+                <div>Console::WriteLine(Obj1-&gt;Equals(Obj2)); //===&gt; true</div>
+                <div>}</div>
+                <div>};</div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+        <div class="syntax">
+            <div class="language">J#</div>
+            <div class="data">
+                <div></div>
+                <div></div>
+                <div>import System.*;</div>
+                <div></div>
+                <div>public class Sample</div>
+                <div>{</div>
+                <div>void Method()</div>
+                <div>{</div>
+                <div>Object obj1 = new Object();</div>
+                <div>Object obj2 = new Object();</div>
+                <div>Console.WriteLine(obj1.Equals(obj2)); //===&gt; false</div>
+                <div>obj2 = obj1;</div>
+                <div>Console.WriteLine(obj1.Equals(obj2)); //===&gt; true</div>
+                <div>} //Method</div>
+                <div>} //Sample</div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+        <h3>ToString</h3>
+        <div><span class="attribute">access: </span><a class="attribute-link" href="#">public</a></div>
+        <div><span class="attribute">returns: </span><a class="attribute-link" href="#">string</a></div>
+        <div class="syntax">
+            <div class="language">C#</div>
+            <div class="data">public virtual string ToString()</div>
+        </div>
+        <div class="syntax">
+            <div class="language">C++</div>
+            <div class="data">
+                public:
+                virtual String^ ToString ()
+            </div>
+        </div>
+        <div class="syntax">
+            <div class="language">J#</div>
+            <div class="data">public String ToString()</div>
+        </div>
+        <p></p>
+        <h4></h4>
+        <h4>Return Value</h4>
+        <p class="child">A String that represents the current Object.</p>
+        <h4>Remarks</h4>
+        <p class="child">This method returns a human-readable string that is culture-sensitive. For example, for an instance of the Double class whose value is zero, the implementation of Double.ToString might return "0.00" or "0,00" depending on the current UI culture.</p>
+        <p class="child">The default implementation returns the fully qualified name of the type of the Object.</p>
+        <p class="child">Notes to Implementers This method can be overridden in a derived class to return values that are meaningful for that type. For example, the base data types, such as Int32, implement ToString so that it returns the string form of the value that the object represents. Derived classes that require more control over the formatting of strings than ToString provides must implement IFormattable, whose ToString method uses the current thread's CurrentCulture property.</p>
+        <h4>Examples</h4>
+        <div class="syntax">
+            <div class="language">C#</div>
+            <div class="data">
+                <div></div>
+                <div></div>
+                <div>using System;</div>
+                <div></div>
+                <div>public class Sample</div>
+                <div>{</div>
+                <div>void Method() </div>
+                <div>{</div>
+                <div>// Prints out: "System.Object"</div>
+                <div>Object o = new Object();</div>
+                <div>Console.WriteLine (o.ToString());</div>
+                <div>}</div>
+                <div>}</div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+        <div class="syntax">
+            <div class="language">C++</div>
+            <div class="data">
+                <div></div>
+                <div></div>
+                <div>#using &lt;System.DLL&gt;</div>
+                <div></div>
+                <div>using namespace System;</div>
+                <div>ref class Sample</div>
+                <div>{</div>
+                <div>private:</div>
+                <div>void Method()</div>
+                <div>{</div>
+                <div>// Prints out: "System.Object"</div>
+                <div>Object^ o = gcnew Object;</div>
+                <div>Console::WriteLine(o-&gt;ToString());</div>
+                <div>}</div>
+                <div>};</div>
+                <div>          </div>
+                <div>          </div>
+            </div>
+        </div>
+        <div class="syntax">
+            <div class="language">J#</div>
+            <div class="data">
+                <div></div>
+                <div></div>
+                <div>import System.*;</div>
+                <div></div>
+                <div>public class Sample</div>
+                <div>{</div>
+                <div>void Method()</div>
+                <div>{</div>
+                <div>// Prints out: "System.Object"</div>
+                <div>Object o = new Object();</div>
+                <div>Console.WriteLine(o.ToString());</div>
+                <div>} //Method </div>
+                <div>} //Sample</div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </body>
+</html>

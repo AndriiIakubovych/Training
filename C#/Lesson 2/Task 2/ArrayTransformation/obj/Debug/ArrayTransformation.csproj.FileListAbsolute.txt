@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\bin\Debug\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\bin\Debug\ArrayTransformation.pdb
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\obj\Debug\ArrayTransformation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\obj\Debug\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\obj\Debug\ArrayTransformation.pdb
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\bin\Debug\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\bin\Debug\ArrayTransformation.pdb
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\obj\Debug\ArrayTransformation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\obj\Debug\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\obj\Debug\ArrayTransformation.pdb

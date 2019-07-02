@@ -1,0 +1,17 @@
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\bin\Debug\TemperatureDataInput.exe.config
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\obj\Debug\TemperatureDataInput.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\obj\Debug\TemperatureDataInput.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\bin\Debug\TemperatureDataInput.exe
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\bin\Debug\TemperatureDataInput.pdb
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\obj\Debug\TemperatureDataInput.exe
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\obj\Debug\TemperatureDataInput.pdb
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\obj\Debug\TemperatureDataInput.MainForm.resources
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureDataInput\obj\Debug\TemperatureDataInput.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\bin\Debug\TemperatureDataInput.exe.config
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\bin\Debug\TemperatureDataInput.exe
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\bin\Debug\TemperatureDataInput.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Debug\TemperatureDataInput.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Debug\TemperatureDataInput.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Debug\TemperatureDataInput.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Debug\TemperatureDataInput.exe
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Debug\TemperatureDataInput.pdb

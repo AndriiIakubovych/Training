@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\bin\Release\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\bin\Release\IntegersInRange.pdb
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\obj\Release\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\obj\Release\IntegersInRange.pdb
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\bin\Release\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\bin\Release\IntegersInRange.pdb
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\obj\Release\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\obj\Release\IntegersInRange.pdb

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<training xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="academy.xsd">
+  <groups>
+    <group name="5С9-1адм" specialization="администрирование">
+      <student>
+        <name first-name="Андрей" last-name="Иванов" patronymic="Петрович"/>
+        <address country="Украина" city="Харьков" street="ул. Плехановская" house="139" telephone="+38 (067) 351-42-13" e-mail="ivanov1987@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Дмитрий" last-name="Гордеев" patronymic="Николаевич"/>
+        <address country="Украина" city="Харьков" street="пр. Героев Сталинграда" house="41" telephone="+38 (067) 675-11-78" e-mail="gordeev_d@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Анна" last-name="Колонтаевская" patronymic="Васильевна"/>
+        <address country="Украина" city="Харьков" street="ул. Пушкинская" house="28" telephone="+38 (093) 110-21-71" e-mail="anna_kissa@yandex.ru"/>
+        <scholarship>320</scholarship>
+      </student>
+    </group>
+    <group name="5С9-2адм" specialization="администрирование">
+      <student>
+        <name first-name="Анатолий" last-name="Степанов" patronymic="Иванович"/>
+        <address country="Украина" city="Харьков" street="ул. Клочковская" house="112" telephone="+38 (067) 737-45-12" e-mail="tolik12@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Елена" last-name="Чураева" patronymic="Алексеевна"/>
+        <address country="Украина" city="Харьков" street="пр. Героев Сталинграда" house="188" telephone="+38 (063) 431-44-09" e-mail="lenchik@rambler.ru"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Виталий" last-name="Попов" patronymic="Григорьевич"/>
+        <address country="Украина" city="Харьков" street="ул. Академика Павлова" house="11" telephone="+38 (097) 225-38-95" e-mail="popov_gr@gmail.com"/>
+        <scholarship>320</scholarship>
+      </student>
+      <student>
+        <name first-name="Наталья" last-name="Кутепова" patronymic="Игоревна"/>
+        <address country="Украина" city="Харьков" street="пр. Ленина" house="24" telephone="+38 (097) 232-10-02" e-mail="natasha_k@mail.ru"/>
+        <scholarship>300</scholarship>
+      </student>
+    </group>
+    <group name="5С9-3адм" specialization="администрирование">
+      <student>
+        <name first-name="Василий" last-name="Куликов" patronymic="Анатольевич"/>
+        <address country="Украина" city="Харьков" street="пр. Тракторостроителей" house="91" telephone="+38 (067) 116-10-98" e-mail="kulik@mail.ru"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Сергей" last-name="Василевский" patronymic="Филиппович"/>
+        <address country="Украина" city="Харьков" street="ул. Мироносицкая" house="74" telephone="+38 (067) 712-65-43" e-mail="sergey_v@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Ольга" last-name="Корнилова" patronymic="Петровна"/>
+        <address country="Украина" city="Харьков" street="ул. Танкопия" house="25" telephone="+38 (067) 222-78-01" e-mail="olgalove@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+    </group>
+    <group name="6НС9-4пр" specialization="программирование">
+      <student>
+        <name first-name="Андрей" last-name="Герасимов" patronymic="Валерьевич"/>
+        <address country="Украина" city="Харьков" street="ул. Киевская" house="102" telephone="+38 (067) 565-28-80" e-mail="android@mail.ru"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Пётр" last-name="Овчаров" patronymic="Филиппович"/>
+        <address country="Украина" city="Харьков" street="ул. Маршала Жукова" house="62" telephone="+38 (067) 976-06-55" e-mail="ovcharov@gmail.com"/>
+        <scholarship>320</scholarship>
+      </student>
+      <student>
+        <name first-name="Денис" last-name="Третьяк" patronymic="Алексеевич"/>
+        <address country="Украина" city="Харьков" street="ул. Танкопия" house="28" telephone="+38 (067) 674-81-23" e-mail="denis_tretiak@yandex.ru"/>
+        <scholarship>300</scholarship>
+      </student>
+    </group>
+    <group name="6НС9-5пр" specialization="программирование">     
+      <student>
+        <name first-name="Павел" last-name="Поляков" patronymic="Данилович"/>
+        <address country="Украина" city="Харьков" street="ул. 23-го Августа" house="39" telephone="+38 (097) 342-87-87" e-mail="pasha_p@mail.ru"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Виктория" last-name="Ковалёва" patronymic="Андреевна"/>
+        <address country="Украина" city="Харьков" street="ул. Ивана Камышева" house="80" telephone="+38 (067) 444-28-95" e-mail="vika_prelest@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Дмитрий" last-name="Кудинов" patronymic="Вячеславович"/>
+        <address country="Украина" city="Харьков" street="пр. Московский" house="96" telephone="+38 (067) 533-83-49" e-mail="dima_techno@mail.ru"/>
+        <scholarship>300</scholarship>
+      </student>  
+    </group>
+    <group name="7НС12-6д" specialization="дизайн">
+      <student>
+        <name first-name="Александра" last-name="Крикунова" patronymic="Валентиновна"/>
+        <address country="Украина" city="Киев" street="ул. Крещатик" house="24" telephone="+38 (067) 654-98-91" e-mail="sasha_detka@gmail.com"/>
+        <scholarship>300</scholarship>
+      </student>
+      <student>
+        <name first-name="Виталий" last-name="Найдёнов" patronymic="Артёмович"/>
+        <address country="Украина" city="Харьков" street="пр. Победы" house="9" telephone="+38 (095) 650-87-05" e-mail="nay_den@mail.ru"/>
+        <scholarship>300</scholarship>
+      </student>  
+    </group>
+  </groups>
+  <subjects>
+    <subject>
+      <name>Системы счисленияя</name>
+      <plan>numeral-systems.doc</plan>
+    </subject>
+    <subject>
+      <name>Основы программирования</name>
+      <plan>programming.doc</plan>
+    </subject>
+    <subject>
+      <name>Вёрстка web-страниц</name>
+      <plan>markup.doc</plan>
+    </subject>
+    <subject>
+      <name>Язык JavaScript</name>
+      <plan>js.doc</plan>
+    </subject>
+    <subject>
+      <name>Web-дизайн</name>
+      <plan>web-design.doc</plan>
+    </subject>
+    <subject>
+      <name>Компьютерные сети</name>
+      <plan>networks.doc</plan>
+    </subject>
+  </subjects>
+  <teachers>
+    <teacher>
+      <name first-name="Виктор" last-name="Свиридов" patronymic="Михайлович"/>
+      <subjects>
+        <subject>Системы счисления</subject>
+        <subject>Основы программирования</subject>
+      </subjects>
+      <groups-count>3</groups-count>
+    </teacher>
+    <teacher>
+      <name first-name="Олег" last-name="Прибылов" patronymic="Викторович"/>
+      <subjects>
+        <subject>Вёрстка web-страниц</subject>
+        <subject>Язык JavaScript</subject>
+      </subjects>
+      <groups-count>4</groups-count>
+    </teacher>   
+    <teacher>
+      <name first-name="Татьяна" last-name="Денисова" patronymic="Петровна"/>
+      <subjects>
+        <subject>Системы счисления</subject>
+        <subject>Вёрстка web-страниц</subject>
+        <subject>Язык JavaScript</subject>
+        <subject>Язык C++</subject>
+      </subjects>
+      <groups-count>3</groups-count>
+    </teacher>
+    <teacher>
+      <name first-name="Игорь" last-name="Валеев" patronymic="Тарасович"/>
+      <subjects>
+        <subject>Основы программирования</subject>
+        <subject>Web-дизайн</subject>
+        <subject>Компьютерные сети</subject>
+      </subjects>
+      <groups-count>4</groups-count>
+    </teacher>
+  </teachers>
+</training>

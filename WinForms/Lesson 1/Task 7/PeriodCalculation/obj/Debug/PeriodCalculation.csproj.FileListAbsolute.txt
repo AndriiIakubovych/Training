@@ -1,0 +1,16 @@
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\bin\Debug\PeriodCalculation.exe
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\bin\Debug\PeriodCalculation.pdb
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\obj\Debug\PeriodCalculation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\obj\Debug\PeriodCalculation.MainForm.resources
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\obj\Debug\PeriodCalculation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\obj\Debug\PeriodCalculation.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\obj\Debug\PeriodCalculation.exe
+C:\Подготовка\C#\Lesson 10\PeriodCalculation\PeriodCalculation\obj\Debug\PeriodCalculation.pdb
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\obj\Debug\PeriodCalculation.exe
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\obj\Debug\PeriodCalculation.pdb
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\bin\Debug\PeriodCalculation.exe
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\bin\Debug\PeriodCalculation.pdb
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\obj\Debug\PeriodCalculation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\obj\Debug\PeriodCalculation.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\obj\Debug\PeriodCalculation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 7\PeriodCalculation\obj\Debug\PeriodCalculation.csproj.GenerateResource.Cache

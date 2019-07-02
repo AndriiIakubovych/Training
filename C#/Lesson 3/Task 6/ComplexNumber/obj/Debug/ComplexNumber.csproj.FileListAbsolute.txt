@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\bin\Debug\ComplexNumber.pdb
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\obj\Debug\ComplexNumber.pdb
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\bin\Debug\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\bin\Debug\ComplexNumber.pdb
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\obj\Debug\ComplexNumber.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\obj\Debug\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\obj\Debug\ComplexNumber.pdb

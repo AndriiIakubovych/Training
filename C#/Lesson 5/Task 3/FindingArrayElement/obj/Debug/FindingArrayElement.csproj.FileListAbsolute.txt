@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\bin\Debug\FindingArrayElement.exe
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\bin\Debug\FindingArrayElement.pdb
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\obj\Debug\FindingArrayElement.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\obj\Debug\FindingArrayElement.exe
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\obj\Debug\FindingArrayElement.pdb
+C:\Подготовка\C#\Lesson 5\Task 3\FindingArrayElement\obj\Debug\FindingArrayElement.exe
+C:\Подготовка\C#\Lesson 5\Task 3\FindingArrayElement\obj\Debug\FindingArrayElement.pdb

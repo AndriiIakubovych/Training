@@ -1,0 +1,116 @@
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\bin\Release\EducationalInstitution.exe.config
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\bin\Release\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\bin\Release\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddAudienceForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddGroupForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddRingForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddStudentForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddSubjectForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddTeacherForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AddTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.AudiencesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.CurriculumsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditAudienceForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditGroupForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditRingForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditStudentForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditSubjectForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditTeacherForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.EditTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.GroupsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.GroupsSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.RingsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.SpecialtiesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.StudentsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.SubjectsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.TeachersForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.TeachersSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Release\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\bin\Release\EducationalInstitution.exe.config
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\bin\Release\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\bin\Release\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddGroupForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddStudentForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddSubjectForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddTeacherForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.CurriculumsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditGroupForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditStudentForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditSubjectForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditTeacherForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.GroupsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.GroupsSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.SpecialtiesForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.StudentsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.SubjectsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.TeachersForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.TeachersSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AddBellForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.AuditoriumsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.EditBellForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Release\EducationalInstitution.BellsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\bin\Release\EducationalInstitution.exe.config
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\bin\Release\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\bin\Release\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddCurriculumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddGroupForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddBellForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddStudentForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddSubjectForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddTeacherForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AddTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.AuditoriumsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.CurriculumsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditCurriculumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditGroupForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditBellForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditStudentForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditSubjectForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditTeacherForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.EditTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.GroupsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.GroupsSchedulesForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.BellsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.SpecialtiesForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.StudentsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.SubjectsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.TeachersForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.TeachersSchedulesForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Release\EducationalInstitution.csproj.GenerateResource.Cache

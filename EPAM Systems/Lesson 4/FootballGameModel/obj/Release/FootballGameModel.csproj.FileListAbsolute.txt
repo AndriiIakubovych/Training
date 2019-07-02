@@ -1,0 +1,5 @@
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\bin\Release\FootballGameModel.exe.config
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\bin\Release\FootballGameModel.exe
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\bin\Release\FootballGameModel.pdb
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\obj\Release\FootballGameModel.exe
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\obj\Release\FootballGameModel.pdb

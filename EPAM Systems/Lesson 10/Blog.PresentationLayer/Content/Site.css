@@ -1,0 +1,814 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    height: 100%;
+    min-width: 982px;
+    margin: 0;
+}
+
+a
+{
+    text-decoration: none;
+    outline: none;
+}
+
+ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+menu
+{
+    margin: 0;
+}
+
+header
+{
+    width: 100%;
+    height: 84px;
+    background-image: url(images/header.png);
+    justify-content: center;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+header .logo
+{
+    text-align: center;
+    padding-top: 5px;
+    margin: 0 116px 0 20px;
+}
+
+header .logo-text
+{
+    font-family: Trebuchet MS, Arial, Sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: -2px;
+    margin: 0;
+}
+
+header .gray
+{
+    color: #cccccc;
+}
+
+header .slogan
+{
+    font-family: Trebuchet MS, Arial, sans-serif;
+    font-size: 12px;
+    color: white;
+    margin: 0;
+}
+
+main
+{
+    min-height: calc(100% - 164px);
+    justify-content: center;
+    display: flex;
+}
+
+main .main-body
+{
+    width: 60%;
+}
+
+main .main-body .tag-name
+{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 12px 0;
+}
+
+main .main-body .content .content-header
+{
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #f6f6f6;
+    border-bottom: 1px solid #cccccc;
+    line-height: 25px;
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+    display: flex;
+}
+
+main .main-body .content .content-header h3
+{
+    font-size: 16px;
+    color: #667f99;
+    margin: 0;
+    padding-left: 25px;
+}
+
+main .main-body .content .content-header .article-content-header
+{
+    background: url(images/article-header.png) no-repeat;
+    background-position-y: 4px;
+}
+
+main .main-body .content .content-header .comments-content-header
+{
+    background: url(images/comments-header.png) no-repeat;
+    background-position-y: 4px;
+}
+
+main .main-body .content .content-header .leave-comment-content-header
+{
+    background: url(images/leave-comment-header.png) no-repeat;
+    background-position-y: 4px;
+}
+
+main .main-body .content .content-header .questionnaire-header
+{
+    background: url(images/questionnaire-header.png) no-repeat;
+    background-position-y: 4px;
+}
+
+main .main-body .content .content-header time
+{
+    background: url(images/date.png) no-repeat;
+    background-position-y: 5px;
+    font-size: 11px;
+    padding-left: 22px;
+}
+
+main .main-body .content .content-text
+{
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 0 10px 0 10px;
+}
+
+main .main-body .content .content-text p
+{
+    font-size: 11px;
+    line-height: 16px;
+    overflow: hidden;
+    display: block;
+}
+
+main .main-body .content .content-text .bottom-info
+{
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+    line-height: 25px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 0 10px 0 10px;
+    display: flex;
+}
+
+main .main-body .content .content-text .bottom-info a
+{
+    background: url(images/read-more.png) no-repeat;
+    background-position-y: 5px;
+    font-size: 11px;
+    color: #667f99;
+    padding-left: 20px;
+}
+
+main .main-body .content .content-text .bottom-info a:hover
+{
+    color: #99684e;
+}
+
+main .main-body .content .content-text time
+{
+    background: url(images/date.png) no-repeat;
+    background-position-y: 5px;
+    font-size: 11px;
+    padding-left: 22px;
+}
+
+main .main-body .content .content-text .top-info
+{
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+    line-height: 25px;
+    justify-content: space-between;
+    padding: 0 10px 0 10px;
+    margin-top: 15px;
+    display: flex;
+}
+
+main .main-body .content .content-text .top-info span
+{
+    background: url(images/guest.png) no-repeat;
+    background-position-y: 3px;
+    font-size: 11px;
+    padding-left: 28px;
+}
+
+main .main-body .content .content-text h4
+{
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+main .main-body .content .content-text .tags
+{
+    flex-flow: wrap;
+    margin-bottom: 15px;
+    display: flex;
+}
+
+main .main-body .content .content-text .tags a
+{
+    background-color: #dfeaf1;
+    font-size: 11px;
+    color: #3e85be;
+    margin: 0 5px 5px 0;
+    padding: 5px;
+    display: block;
+}
+
+.space
+{
+    height: 15px;
+}
+
+main .main-body .content form
+{
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 11px;
+    position: relative;
+    margin: 15px 10px 20px 10px;
+    padding: 15px;
+}
+
+main .main-body .content form .test-variant
+{
+    align-items: center;
+    margin-top: 2px;
+    display: flex;
+}
+
+main .main-body .content form .test-variant:last-child
+{
+    margin-bottom: 15px;
+}
+
+main .main-body .content form label
+{
+    font-weight: bold;
+}
+
+main .main-body .content form input[type="text"]
+{
+    width: 400px;
+    margin: 2px 0 15px 0;
+}
+
+main .main-body .content form input[type="checkbox"]
+{
+    margin-left: 0;
+}
+
+main .main-body .content form input[type="radio"]
+{
+    margin-left: 0;
+}
+
+main .main-body .content form input[type="submit"]
+{
+    width: 150px;
+    margin-top: 2px;
+}
+
+main .main-body .content form textarea
+{
+    width: 400px;
+    height: 104px;
+    resize: none;
+    overflow: auto;
+    margin: 2px 0 15px 0;
+}
+
+main .main-body .content form .group
+{
+    margin: 2px 0 15px 0;
+}
+
+.field-validation-error
+{
+    color: red;
+    line-height: 22px;
+    position: absolute;
+    left: 425px;
+}
+ 
+.input-validation-error
+{
+    border: 1px solid red;
+    background-color: #ffeeee;
+}
+
+main .main-body .content .results-list
+{
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 11px;
+    position: relative;
+    margin: 15px 10px 20px 10px;
+    padding: 15px;
+}
+
+main .right-sidebar
+{
+    width: 20%;
+}
+
+main .right-sidebar .menu-header
+{
+    background-color: #b6b8bb;
+    line-height: 25px;
+    margin-left: 20px;
+}
+
+main .right-sidebar .menu-header h3
+{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    color: white;
+    margin: 0;
+    padding-left: 15px;
+}
+
+main .right-sidebar .menu-list
+{
+    margin: 0 5px 0 8px;
+    padding-left: 15px;
+}
+
+main .right-sidebar .menu-list ul li
+{
+    border-bottom: 1px solid #f2f2f2;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+main .right-sidebar .menu-list ul li a
+{
+    background: url(images/menu-item.png) no-repeat;
+    color: #667f99;
+    line-height: 35px;
+    margin-left: 12px;
+    padding-left: 20px;
+}
+
+main .right-sidebar .menu-list ul li a:hover
+{
+    color: #99684e;
+}
+
+main .right-sidebar .poll
+{
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 40px 0 0 40px;
+}
+
+main .right-sidebar .poll-header
+{
+    background-color: #b6b8bb;
+    line-height: 25px;
+    margin-left: 20px;
+}
+
+main .right-sidebar .poll-header h3
+{
+    font-size: 16px;
+    color: white;
+    margin: 0;
+    padding-left: 15px;
+}
+
+main .right-sidebar form
+{
+    background-color: #fafafa;
+    border: 1px solid #f2f2f2;
+    font-size: 11px;
+    margin: 0 1px 0 20px;
+}
+
+main .right-sidebar form .poll-question
+{
+    border-bottom: 1px solid #cccccc;
+    font-weight: bold;
+    margin: 8px 15px 0 15px;
+    padding-bottom: 10px;
+}
+
+main .right-sidebar form .actions
+{
+    display: block;
+}
+
+main .right-sidebar form .actions .poll-variants
+{
+    height: 168px;
+    border-bottom: 1px solid #cccccc;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0 15px 0 15px;
+    display: flex;
+}
+
+main .right-sidebar form .actions .poll-variants .poll-variant
+{
+    align-items: center;
+    display: flex;
+}
+
+main .right-sidebar form .actions input[type="submit"]
+{
+    width: 80px;
+    margin: 10px auto 12px auto;
+    display: block;
+}
+
+main .right-sidebar form .results
+{
+    display: none;
+}
+
+main .right-sidebar form .results .poll-answers
+{
+    height: 176px;
+    border-bottom: 1px solid #cccccc;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0 15px 0 15px;
+    padding: 3px 0 3px 0;
+    display: flex;
+}
+
+main .right-sidebar form .results .poll-answers p
+{
+    margin: 0 0 3px 0;
+}
+
+main .right-sidebar form .results .poll-answers .poll-answer
+{
+    align-items: center;
+    display: flex;
+}
+
+main .right-sidebar form .results .poll-answers .poll-answer .line
+{
+    height: 15px;
+    background-color: #5a97ff;
+    margin-right: 3px;
+}
+
+main .right-sidebar form .results .total
+{
+    font-weight: bold;
+    margin: 8px 15px 8px 15px;
+}
+
+main .right-sidebar .poll-view
+{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+    cursor: pointer;
+    margin: 5px 0 0 20px;
+}
+
+main .right-sidebar .poll-view:hover
+{
+    color: #99684e;
+}
+
+footer
+{
+    background-image: url(images/footer.png);
+    font-family: Trebuchet MS, Arial, sans-serif;
+    text-align: center;
+    line-height: 60px;
+    justify-content: space-around;
+    display: flex;
+}
+
+footer p
+{
+    color: #cccccc;
+    margin: 0;
+}
+
+footer a
+{
+    color: #cccccc;
+}
+
+.login
+{
+    height: 100%;
+    background-color: #f8f9fe;
+    font-family: Verdana, Tahoma, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.login form
+{
+    width: 500px;
+    background-color: white;
+    border: 1px solid #d1d5e1;
+    border-radius: 10px;
+}
+
+.login form .login-header
+{
+    background-color: #5e9ea0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.login form fieldset
+{
+    border: none;
+    margin: 0;
+    padding: 20px;
+}
+
+.login form fieldset .validation-summary-errors
+{
+    color: red;
+    margin-bottom: 20px;
+}
+
+.login form fieldset label
+{
+    font-weight: bold;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.login form fieldset input
+{
+    height: 30px;
+    border: 1px solid #a8a8a8;
+    border-radius: 4px;
+    font-size: 18px;
+    display: block;
+}
+
+.login form fieldset input[type="text"]
+{
+    width: calc(100% - 4px);
+    margin-bottom: 20px;
+}
+
+.login form fieldset input[type="password"]
+{
+    width: calc(100% - 4px);
+    margin-bottom: 20px;
+}
+
+.login form fieldset input[type="submit"]
+{
+    width: 150px;
+    background-color: #5e9ea0;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    margin: 0 auto 0 auto;
+}
+
+.login form fieldset input[type="submit"]::-moz-focus-inner
+{
+    border: 0;
+}
+
+.admin-panel
+{
+    height: 100%;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.admin-panel .admin-header
+{
+    line-height: 70px;
+    background-color: #339886;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px 0 50px;
+    display: flex;
+}
+
+.admin-panel .admin-header .user-info p
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+}
+
+.admin-panel .admin-header .logo
+{
+    width: 370px;
+    align-items: center;
+    margin-right: 60px;
+    display: flex;
+}
+
+.admin-panel .admin-header .logo .logo-image
+{
+    width: 71px;
+    height: 62px;
+    background-color: transparent;
+    margin-right: 20px;
+}
+
+.admin-panel .admin-header .logo .logo-text
+{
+    background-color: transparent;
+    font-family: Trebuchet MS, Arial, Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    display: block;
+}
+
+.admin-panel .admin-header .logo .logo-text span
+{
+    color: #314d5b;
+}
+
+.admin-panel .admin-header a
+{
+    width: 100px;
+    background-color: #45b8a9;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    display: block;
+}
+
+.admin-panel .admin-main
+{
+    min-height: calc(100% - 130px);
+    background-color: #eeeeee;
+}
+
+.admin-panel .admin-main form
+{
+    width: 600px;
+    font-size: 11px;
+    position: relative;
+    margin: 0 auto 0 auto;
+    padding: 15px;
+}
+
+.admin-panel .admin-main form label
+{
+    font-weight: bold;
+    margin: 15px 0 4px 0;
+    display: block;
+}
+
+.admin-panel .admin-main form input[type="text"]
+{
+    width: calc(100% - 4px);
+}
+
+.admin-panel .admin-main form input[type="submit"]
+{
+    width: 200px;
+    font-size: 15px;
+    margin: 15px auto 15px auto;
+    display: block;
+}
+
+.admin-panel .admin-main form textarea
+{
+    width: calc(100% - 5px);
+    height: 495px;
+    resize: none;
+}
+
+.admin-panel .admin-main form .field-validation-error
+{
+    position: initial;
+    display: block;
+}
+
+.admin-panel .admin-main form .tags
+{
+    width: 100%;
+    height: 207px;
+    justify-content: space-between;
+    margin-top: 15px;
+    display: flex;
+}
+
+.admin-panel .admin-main form .tags .existing-tags
+{
+    width: 50%;
+    margin-right: 7px;
+}
+
+.admin-panel .admin-main form .tags .existing-tags label
+{
+    margin-top: 0;
+}
+
+.admin-panel .admin-main form .tags .existing-tags select
+{
+    width: 100%;
+    height: calc(100% - 19px);
+}
+
+.admin-panel .admin-main form .tags .new-tags
+{
+    width: 50%;
+    margin-left: 7px;
+}
+
+.admin-panel .admin-main form .tags .new-tags label:first-child
+{
+    margin-top: 0;
+}
+
+.admin-panel .admin-main form .tags .new-tags .new-tags-label
+{
+    margin-top: 13px;
+}
+
+.admin-panel .admin-main form .tags .new-tags .add-tag
+{
+    display: flex;
+}
+
+.admin-panel .admin-main form .tags .new-tags .add-tag input[type="text"]
+{
+    margin-right: 8px;
+}
+
+.admin-panel .admin-main form .tags .new-tags select
+{
+    width: 100%;
+    height: calc(100% - 70px);
+}
+
+.admin-panel .admin-footer
+{
+    height: 60px;
+    background-color: #314d5b;
+    color: #cccccc;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+@-moz-document url-prefix()
+{
+    .admin-panel .admin-main form .tags .new-tags select
+    {
+        height: calc(100% - 74px);
+    }
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)
+{
+    main .right-sidebar form .results .poll-answers
+    {
+        height: 178px;
+    }
+    
+    main .main-body .questionnaire-content form
+    {
+        height: 980px;
+    }
+
+    .admin-panel .admin-main form
+    {
+        height: 875px;
+    }
+
+    .admin-panel .admin-main form .tags .new-tags select
+    {
+        height: calc(100% - 73px);
+    }
+}

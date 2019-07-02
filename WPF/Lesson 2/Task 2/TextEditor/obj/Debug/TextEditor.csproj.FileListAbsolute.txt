@@ -1,0 +1,41 @@
+C:\Подготовка\WPF\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\bin\Debug\TextEditor.exe
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\bin\Debug\TextEditor.pdb
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor.exe
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\TextEditor.pdb
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\YesNoCancelWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\YesNoCancelWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\FindWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\FindWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\ParagraphWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2\TextEditor\obj\Debug\ParagraphWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor.exe
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor.pdb
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\bin\Debug\TextEditor.exe
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\bin\Debug\TextEditor.pdb
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\FindWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\ParagraphWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\YesNoCancelWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\FindWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\ParagraphWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\YesNoCancelWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 2 — копия\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache

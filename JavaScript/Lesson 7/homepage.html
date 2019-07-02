@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="js/main.js"></script>
+        <title>Кофеварка и холодильник</title>
+    </head>
+    <body>
+        <form id="input-data">
+            <label>Введите мощность кофеварки (Вт):</label>
+            <input name="coffee-machine-power" type="number" min="1"/>
+            <label>Введите ёмкость кофеварки (мл):</label>
+            <input name="coffee-machine-capacity" type="number" min="1"/>
+            <label>Введите мощность холодильника (Вт):</label>
+            <input name="fridge-power" type="number" min="1"/>
+            <input type="button" value="Создать" onclick="createMachine()"/>
+        </form>
+        <form id="coffee-machine">
+            <img src="images/coffee-machine.png" alt="Кофеварка"/>
+            <div class="buttons">
+                <input type="button" value="Включить" onclick="coffeeMachine.enable()"/>
+                <input type="button" value="Запустить" onclick="coffeeMachine.run()"/>
+                <input type="button" value="Мощность" onclick="alert(coffeeMachine.getPower() + ' Вт')"/>
+                <input type="button" value="Количество воды" onclick="alert(coffeeMachine.getWaterAmount() + ' мл')"/>
+                <input type="button" value="Налить воды" onclick="setCoffeeMachineWaterAmount()"/>
+                <input type="button" value="Добавить воды" onclick="addCoffeeMachineWater()"/>
+                <input type="button" value="Остановить" onclick="coffeeMachine.stop(true)"/>
+                <input type="button" value="Выключить" onclick="coffeeMachine.disable()"/>
+                <input type="button" value="Состояние" onclick="coffeeMachine.isRunning() ? alert('Процесс приготовления запущен!') : alert('Процесс приготовления не запущен!')"/>
+            </div>
+        </form>
+        <form id="fridge">
+            <img src="images/fridge.png" alt="Холодильник"/>
+            <div class="buttons">
+                <input type="button" value="Включить" onclick="fridge.enable()"/>
+                <input type="button" value="Еда" onclick="alert(getFridgeFood())"/>
+                <input type="button" value="Добавить еды" onclick="addFridgeFood()"/>
+                <input type="button" value="Убрать еду" onclick="removeFridgeFood()"/>
+                <input type="button" value="Выключить" onclick="fridge.disable()"/>
+            </div>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\bin\Release\PointDescription.exe
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\bin\Release\PointDescription.pdb
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\obj\Release\PointDescription.exe
+C:\Подготовка\C#\Lesson 6\PointDescription\PointDescription\obj\Release\PointDescription.pdb

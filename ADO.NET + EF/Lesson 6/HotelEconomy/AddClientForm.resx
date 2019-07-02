@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="clientNameText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="clientNameText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 9</value>
+  </data>
+  <data name="clientNameText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 13</value>
+  </data>
+  <data name="clientNameText.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="clientNameText.Text" xml:space="preserve">
+    <value>Введите ФИО клиента:</value>
+  </data>
+  <data name="&gt;&gt;clientNameText.Name" xml:space="preserve">
+    <value>clientNameText</value>
+  </data>
+  <data name="&gt;&gt;clientNameText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;clientNameText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;clientNameText.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="clientName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 25</value>
+  </data>
+  <data name="clientName.MaxLength" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="clientName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 20</value>
+  </data>
+  <data name="clientName.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;clientName.Name" xml:space="preserve">
+    <value>clientName</value>
+  </data>
+  <data name="&gt;&gt;clientName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;clientName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;clientName.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="sexChoiceText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="sexChoiceText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 57</value>
+  </data>
+  <data name="sexChoiceText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 13</value>
+  </data>
+  <data name="sexChoiceText.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="sexChoiceText.Text" xml:space="preserve">
+    <value>Выберите пол:</value>
+  </data>
+  <data name="&gt;&gt;sexChoiceText.Name" xml:space="preserve">
+    <value>sexChoiceText</value>
+  </data>
+  <data name="&gt;&gt;sexChoiceText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sexChoiceText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;sexChoiceText.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="sexChoice.Items" xml:space="preserve">
+    <value>Мужской</value>
+  </data>
+  <data name="sexChoice.Items1" xml:space="preserve">
+    <value>Женский</value>
+  </data>
+  <data name="sexChoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 73</value>
+  </data>
+  <data name="sexChoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 21</value>
+  </data>
+  <data name="sexChoice.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;sexChoice.Name" xml:space="preserve">
+    <value>sexChoice</value>
+  </data>
+  <data name="&gt;&gt;sexChoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sexChoice.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;sexChoice.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="birthdateText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="birthdateText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 107</value>
+  </data>
+  <data name="birthdateText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 13</value>
+  </data>
+  <data name="birthdateText.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="birthdateText.Text" xml:space="preserve">
+    <value>Укажите дату рождения:</value>
+  </data>
+  <data name="&gt;&gt;birthdateText.Name" xml:space="preserve">
+    <value>birthdateText</value>
+  </data>
+  <data name="&gt;&gt;birthdateText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;birthdateText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;birthdateText.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="birthdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 123</value>
+  </data>
+  <data name="birthdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 20</value>
+  </data>
+  <data name="birthdate.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;birthdate.Name" xml:space="preserve">
+    <value>birthdate</value>
+  </data>
+  <data name="&gt;&gt;birthdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;birthdate.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;birthdate.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="passportDataText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="passportDataText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 156</value>
+  </data>
+  <data name="passportDataText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 13</value>
+  </data>
+  <data name="passportDataText.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="passportDataText.Text" xml:space="preserve">
+    <value>Введите паспортные данные:</value>
+  </data>
+  <data name="&gt;&gt;passportDataText.Name" xml:space="preserve">
+    <value>passportDataText</value>
+  </data>
+  <data name="&gt;&gt;passportDataText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;passportDataText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;passportDataText.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="passportData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 172</value>
+  </data>
+  <data name="passportData.MaxLength" type="System.Int32, mscorlib">
+    <value>255</value>
+  </data>
+  <data name="passportData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 20</value>
+  </data>
+  <data name="passportData.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;passportData.Name" xml:space="preserve">
+    <value>passportData</value>
+  </data>
+  <data name="&gt;&gt;passportData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;passportData.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;passportData.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="addressText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="addressText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 205</value>
+  </data>
+  <data name="addressText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 13</value>
+  </data>
+  <data name="addressText.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="addressText.Text" xml:space="preserve">
+    <value>Введите домашний адрес:</value>
+  </data>
+  <data name="&gt;&gt;addressText.Name" xml:space="preserve">
+    <value>addressText</value>
+  </data>
+  <data name="&gt;&gt;addressText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;addressText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;addressText.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="address.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 221</value>
+  </data>
+  <data name="address.MaxLength" type="System.Int32, mscorlib">
+    <value>255</value>
+  </data>
+  <data name="address.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 20</value>
+  </data>
+  <data name="address.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;address.Name" xml:space="preserve">
+    <value>address</value>
+  </data>
+  <data name="&gt;&gt;address.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;address.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;address.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="telephoneText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="telephoneText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 253</value>
+  </data>
+  <data name="telephoneText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 13</value>
+  </data>
+  <data name="telephoneText.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="telephoneText.Text" xml:space="preserve">
+    <value>Введите телефон:</value>
+  </data>
+  <data name="&gt;&gt;telephoneText.Name" xml:space="preserve">
+    <value>telephoneText</value>
+  </data>
+  <data name="&gt;&gt;telephoneText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;telephoneText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;telephoneText.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="telephone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 269</value>
+  </data>
+  <data name="telephone.Mask" xml:space="preserve">
+    <value>+00 (000) 000-00-00</value>
+  </data>
+  <data name="telephone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 20</value>
+  </data>
+  <data name="telephone.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;telephone.Name" xml:space="preserve">
+    <value>telephone</value>
+  </data>
+  <data name="&gt;&gt;telephone.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;telephone.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;telephone.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="nationalityText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="nationalityText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 301</value>
+  </data>
+  <data name="nationalityText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 13</value>
+  </data>
+  <data name="nationalityText.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="nationalityText.Text" xml:space="preserve">
+    <value>Введите национальность:</value>
+  </data>
+  <data name="&gt;&gt;nationalityText.Name" xml:space="preserve">
+    <value>nationalityText</value>
+  </data>
+  <data name="&gt;&gt;nationalityText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nationalityText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nationalityText.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="nationality.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 317</value>
+  </data>
+  <data name="nationality.MaxLength" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="nationality.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 20</value>
+  </data>
+  <data name="nationality.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;nationality.Name" xml:space="preserve">
+    <value>nationality</value>
+  </data>
+  <data name="&gt;&gt;nationality.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nationality.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nationality.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ok.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="ok.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAGlSURBVChTlZFNTxpRGEaflStX
+        1b+if6DbrmzSxq5IbARnGgQcBYdhGBggQKB+NE2w9YNIgcColHtr6mDUxoVik6bGpLXBgLUrF912/fYS
+        o0kTa+Li2Z1z3txcENG9hkZ7E7s/bRS+LkHjU5iqehHlIUSYBoOpMOthJLg5+KT0qLjczGXvEIIwmQ7D
+        0vsnbfli4tRBvsYo3SpEuCbgMIyq1q9syefTLSc9P3xMOgsw7HZsHP06QPl4FSpXhOBBnEdEOfRA2ZI6
+        astF0udhcuYdvLD9DmCttYeL3199yjXnhswPOgKWgqgV7lNs6fwa9pTGWKIYw8reEvD2dJ7Sl9OU/hYi
+        vaYOKHlfj3/bfaGeXcHeklSfsV7CtHQs7iyICz/Ws6GTcXr9O06BffefF2ykrbVkko66ZYnNCjjDkghX
+        VCG8AfbP9uDdkD3al3GKdXzUhV2HT0VZ5t1yhqWQfB+DUQleCd1HGzwIbcPv9h6MkNR8Rp6yKK/NIFNP
+        CjiOlNiNsNO2oX/0I7uZhrvsSjmLjuJcbbY3y9JI1mICTvwr3Pb9/x/hL6bWRCJk8WUsAAAAAElFTkSu
+        QmCC
+</value>
+  </data>
+  <data name="ok.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 352</value>
+  </data>
+  <data name="ok.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 23</value>
+  </data>
+  <data name="ok.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="ok.Text" xml:space="preserve">
+    <value>Подтвердить</value>
+  </data>
+  <data name="ok.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ok.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;ok.Name" xml:space="preserve">
+    <value>ok</value>
+  </data>
+  <data name="&gt;&gt;ok.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ok.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ok.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cancel.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAI4SURBVChTJZFPSJpxHMZ/Cybi
+        2FZEC4tik/5QYYcKYlIJQSj5D0GMOSSpSxJ0UkgKD1sQ7KSnnbsWXfRQ1GHQqVzMZlnp+2rvq77WXnv3
+        bu/rf+397tVdvnwPz/Pw4XmQUCohAEC1qyuU39pyc05niNfrIW8yAe9w/OA3Njyl/f0WgeeRwHGoKRZY
+        Vv5nZSXKTEwAPTsLpFYLGZ0OaJUKmJERYG222zpBKBpaVM9kEOt0xn719QEzNQWMyxWmTk4k4c3NN9H1
+        dWt2cTH50NMD7NJStpZItCDO51u9HxqCzNwcUGJiTqV6qh0crJbKZUQGgyiH4zJ6be2OamsDzu//hHIO
+        x016YADo42PTvc/3NdXVBdToKNTPzz82EPIsi3JHR9qUSJCz23OImplpphcuLlBVFJB2O0V0dEB6fByE
+        x8f39UoF0Ts7z7JWa61BgEjxZI1GKASDrxuNFTjuLa5WQ7K9HSijsQjForQaiSDKYKiSk5OAiIUFLNnb
+        C3wgYKgzTLO1vziuiQ0OAt7aCrTXGyienhpJEfNufp5G5Pa260YmA8pmI0qRiIQ/PGyamLOzD7GxsXJC
+        qQRiehqw7m4gvN4v6DeGPY9ZLOlbqRRSZnM863ZbSqHQK0E0JZeXv+HDwxDv7ISYXs8VGObFf4R0+t2l
+        Vpu8FqvDFQpIm82QEZdOihhRuRwianWWxTBlczhBbOFJfOJ7e5LvNtvnS43m+qe4bri/H6I6HXbj8fix
+        3d2XlYauWkX/ADawZxVPdsmGAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="cancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>180, 352</value>
+  </data>
+  <data name="cancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 23</value>
+  </data>
+  <data name="cancel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="cancel.Text" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="cancel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="cancel.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;cancel.Name" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="&gt;&gt;cancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cancel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>ru</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>347, 387</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Добавление данных</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>AddClientForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

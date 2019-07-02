@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="js/main.js"></script>
+        <title>Погода в Украине</title>
+    </head>
+    <body>
+        <div class="main">
+            <header>
+                <div class="left">
+                    <a href="#"><img src="images/compass.png" alt="Компас"/></a>
+                </div>
+                <div class="center">
+                    <div>
+                        <h1>Информационный сайт погоды в Украине</h1>
+                        <p class="days-count"></p>
+                    </div>
+                    <img src="images/coat.png" alt="Герб"/>
+                </div>
+                <div class="right">
+                    <div>
+                        <p>Украина является членом ВМО</p>
+                    </div>
+                    <img src="images/wmo.png" alt="ВМО"/>
+                </div>
+            </header>
+            <div class="content">
+                <div class="left">
+                    <div class="city"></div>
+                    <select onchange="onCityChange()">
+                        <option value="Другой город" disabled selected hidden>Другой город</option>
+                    </select>
+                    <div class="current-date"></div>
+                    <div class="weather-image"></div>
+                </div>
+                <div class="center">
+                    <div class="current-weather">Текущая погода</div>
+                    <div class="current-time"></div>
+                    <div class="equal">=</div>
+                    <div class="current-temperature"></div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Ветер</td>
+                                <td class="current-wind"></td>
+                            </tr>
+                            <tr>
+                                <td>Влажность</td>
+                                <td class="current-humidity"></td>
+                            </tr>
+                            <tr>
+                                <td>Давление</td>
+                                <td class="current-pressure"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="right">
+                    <table class="forecast-table">
+                        <tbody>
+                            <tr>
+                                <td rowspan="2">Прогноз погоды</td>
+                            </tr>
+                            <tr></tr>
+                            <tr class="future-weather">
+                                <td>Влажность и осадки</td>
+                            </tr>
+                            <tr class="future-temperature">
+                                <td>Температура (°С)</td>
+                            </tr>
+                            <tr class="future-wind">
+                                <td>Ветер (м/с)</td>
+                            </tr>
+                            <tr class="future-pressure">
+                                <td>Давление (мм рт. ст.)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="map-header">
+                <h2>Карта страны</h2>
+            </div>
+            <div class="map"></div>
+        </div>
+    </body>
+</html>

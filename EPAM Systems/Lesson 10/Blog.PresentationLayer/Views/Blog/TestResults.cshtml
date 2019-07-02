@@ -1,0 +1,10 @@
+﻿@using Blog.PresentationLayer.Helpers
+
+@{ ViewBag.Title = "Questionnaire"; }
+
+<div class="content">
+    <div class="content-header">
+        <h3 class="questionnaire-header">Test results</h3>
+    </div>
+    @Html.CreateList(@ViewBag.ResultsList as List<string>, new { @class = "results-list" })
+</div>

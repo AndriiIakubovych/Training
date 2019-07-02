@@ -1,0 +1,9 @@
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\bin\Release\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\bin\Release\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\obj\Release\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\obj\Release\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\obj\Release\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\obj\Release\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\bin\Release\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\bin\Release\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\obj\Release\FilesWork.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\ArrayCompression\ArrayCompression\bin\Debug\ArrayCompression.exe
+C:\Подготовка\C#\Lesson 2\ArrayCompression\ArrayCompression\bin\Debug\ArrayCompression.pdb
+C:\Подготовка\C#\Lesson 2\ArrayCompression\ArrayCompression\obj\Debug\ArrayCompression.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\ArrayCompression\ArrayCompression\obj\Debug\ArrayCompression.exe
+C:\Подготовка\C#\Lesson 2\ArrayCompression\ArrayCompression\obj\Debug\ArrayCompression.pdb
+C:\Подготовка\C#\Lesson 2\Task 1\ArrayCompression\bin\Debug\ArrayCompression.exe
+C:\Подготовка\C#\Lesson 2\Task 1\ArrayCompression\bin\Debug\ArrayCompression.pdb
+C:\Подготовка\C#\Lesson 2\Task 1\ArrayCompression\obj\Debug\ArrayCompression.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 1\ArrayCompression\obj\Debug\ArrayCompression.exe
+C:\Подготовка\C#\Lesson 2\Task 1\ArrayCompression\obj\Debug\ArrayCompression.pdb

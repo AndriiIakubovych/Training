@@ -1,0 +1,128 @@
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\HotelEconomy.exe.config
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\HotelEconomy.exe
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.MainForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.Properties.Resources.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.csproj.GenerateResource.Cache
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.exe
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\EntityFramework.dll
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\EntityFramework.xml
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.ClientsForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AddClientForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EditClientForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EmployeesForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AddEmployeeForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EditEmployeeForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.RoomsForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AddRoomForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EditRoomForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.RoomsHiringOutForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AddHiringOutForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EditHiringOutForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.ExpensesForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AddExpenseForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EditExpenseForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.UsersForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AddUserForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.EditUserForm.resources
+C:\Подготовка\C#\HotelEconomy\HotelEconomy\obj\Debug\HotelEconomy.AuthorizationForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\HotelEconomy.exe.config
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.exe
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\HotelEconomy.exe
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\EntityFramework.dll
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\EntityFramework.xml
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AddClientForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AddEmployeeForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AddExpenseForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AddHiringOutForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AddRoomForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AddUserForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.ClientsForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EditClientForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EditEmployeeForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EditExpenseForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EditHiringOutForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EditRoomForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EditUserForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.EmployeesForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.ExpensesForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.MainForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.Properties.Resources.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.RoomsForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.RoomsHiringOutForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.UsersForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.AuthorizationForm.resources
+C:\Подготовка\C#\HotelEconomy — копия\HotelEconomy\obj\Debug\HotelEconomy.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\HotelEconomy.exe.config
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.exe
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\HotelEconomy.exe
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\EntityFramework.dll
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\EntityFramework.xml
+C:\Подготовка\C#\Lesson 21\HotelEconomy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AddClientForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AddEmployeeForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AddExpenseForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AddHiringOutForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AddRoomForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AddUserForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.ClientsForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EditClientForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EditEmployeeForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EditExpenseForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EditHiringOutForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EditRoomForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EditUserForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.EmployeesForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.ExpensesForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.MainForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.RoomsForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.RoomsHiringOutForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.UsersForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.AuthorizationForm.resources
+C:\Подготовка\C#\Lesson 21\HotelEconomy\obj\Debug\HotelEconomy.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\HotelEconomy.exe.config
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.exe
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\HotelEconomy.exe
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\HotelEconomy.pdb
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\EntityFramework.dll
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\EntityFramework.xml
+C:\Подготовка\C#\Lesson 25\HotelEconomy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AddClientForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AddEmployeeForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AddExpenseForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AddHiringOutForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AddRoomForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AddUserForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.ClientsForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EditClientForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EditEmployeeForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EditExpenseForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EditHiringOutForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EditRoomForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EditUserForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.EmployeesForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.ExpensesForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.MainForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.RoomsForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.RoomsHiringOutForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.UsersForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.AuthorizationForm.resources
+C:\Подготовка\C#\Lesson 25\HotelEconomy\obj\Debug\HotelEconomy.csproj.GenerateResource.Cache

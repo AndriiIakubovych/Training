@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <script type="text/javascript" src="js/main.js"></script>
+        <title>Определение наличия класса у элемента</title>
+    </head>
+    <body>
+        <div id="element" class="class-1 class-2 class-3 class-4 class-5"></div>
+        <form name="form">
+            <label>Введите имя класса:</label>
+            <input name="name" type="text"/>
+            <input type="button" value="Определить" onclick="determine(form.name.value) ? alert('Искомый класс присутствует в элементе!') : alert('Искомый класс отсутствует в элементе!')"/>
+        </form>
+    </body>
+</html>

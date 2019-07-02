@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title</title>
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @Scripts.Render("~/bundles/custom")
+    </head>
+    <body>
+        <header>
+            <menu>
+                <div class="left-menu">
+                    <a href="@Url.Action("Index", "Home")">Домашняя страница</a>
+                </div>
+                <div class="right-menu">
+                    @if (ViewBag.UserName != null)
+                    {
+                        <span class="user-welcome">Приветствуем, @ViewBag.UserName! <i class="fa fa-angle-down"></i></span>
+                        <div class="user-popup-menu">
+                            @if (@ViewBag.IsAdmin)
+                            {
+                                @Html.ActionLink("Панель управления", "ControlPanel", "Home")
+                                @Html.ActionLink("Выйти", "Logout", "Account")
+                            }
+                            else
+                            {
+                                @Html.ActionLink("Выйти", "Logout", "Account")
+                            }
+                        </div>
+                    }
+                    else
+                    {
+                        @Html.ActionLink("Регистрация", "Register", "Account")
+                        <a href="@Url.Action("Login", "Account")" class="login-link">Выполнить вход</a>
+                    }
+                </div>
+            </menu>
+        </header>
+        @RenderBody()
+        @RenderSection("scripts", required: false)
+        <footer>
+            <p>© 2017 Все права защищены</p>
+        </footer>
+    </body>
+</html>

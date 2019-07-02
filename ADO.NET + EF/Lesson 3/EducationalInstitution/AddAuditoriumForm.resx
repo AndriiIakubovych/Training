@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;auditoriumNumberText.Name" xml:space="preserve">
+    <value>auditoriumNumberText</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ok.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cancel.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="auditoriumNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 25</value>
+  </data>
+  <data name="&gt;&gt;ok.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumberText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ok.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumberText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="auditoriumNumberText.Text" xml:space="preserve">
+    <value>Введите номер аудитории:</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>230, 95</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>AddAuditoriumForm</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumberText.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ok.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 23</value>
+  </data>
+  <data name="ok.Text" xml:space="preserve">
+    <value>Подтвердить</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ok.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;cancel.Name" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="cancel.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAACw4AAAsOAUC+4UEAAAIfSURBVDhPfVBdSJNhGH0+A6OB
+        3QQyIVGEoQafzWH4gwtlOkpkzpVkwqwQ11hD2GJ2YdQSTapJlDQQFiGDlRdeJKk0cKZOFGeIojHsRykc
+        it4EFYQXp/d9NyL6ogcOz/e97znPOc9LABSYHRzEX1Bw6IHZLHC/oYGeWK3nRru7EXQ6FfC3trZzzj2T
+        SXDJ19hIffX11G+x3I0MDPxTxMGdHzY1DfXW1QkjumM0kre21hRyubC1sIDPsZhCtDU/j8TqKl56vWBc
+        BwORp7JSzRyXhxwOrI+NCeGH6enfok/RqBDys5DbDRZ194Zer6PrFRVtTIjHLS14arMhHg7j48wM3k9N
+        CTLv/J8PYVHB9gMz6yRXaWnvLYMBbFew/HjU3CxcNiIRbExO4svSEp7Z7bhdUwP2DqK7y8r6yaHVdnXq
+        9WD2YO544/djc25OxOM78yGxUEjcu8vLRXfqdH3ULssGdvDTJssI+3zYjceFy7uJCSyPjGB7ZUU8zGIw
+        iGvFxdwNV2XZSumSRMbMzMDN6mrsrK3h296ecOuqquKTsT4+jq+JBL7v74sdz6jVr4+lpR2mVKnN2dkH
+        LzwevB0eFnEu5uXhUn4+7EVFiAYCeNXTA6tGg0NEJ1OaZB2RpNPMGZcLCsDio6OkRIALrxQW4mxWFo5K
+        0oUUXVHHtSrVc0tOzg/uxnE+N/fgVEbGKLvTJCn/r3QW6QSDzL5VyaM/i+gXJUh9sVakmTIAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="auditoriumNumberText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cancel.Text" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="cancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 60</value>
+  </data>
+  <data name="auditoriumNumberText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 9</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumber.Name" xml:space="preserve">
+    <value>auditoriumNumber</value>
+  </data>
+  <data name="ok.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 60</value>
+  </data>
+  <data name="&gt;&gt;cancel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="auditoriumNumberText.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumber.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="ok.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAACw0AAAsNAe0HwCwAAAKrSURBVDhPXZBrSNNRHIZP6lze
+        lk7zwvC2qbnUlmMqqVNn6iy0aTMvOGzONWVeWLOLaV5SKHWFpk40Mhg2DQszw0TRshTFDCUaBlFfJIIC
+        6Srkl97+myOqB17O4cf7HM45xCk4jDiHRhDP2CTiFhlN6KxA4h4d783OkIo5x6RHmYI4X0LohObFIk4h
+        YZaV5kONzOKecD4lcIh7VGyQoqPHYHi6uPVs/S3mX7+DcX55W9Gpv8vg8XmEwp7ltyO6cA+SXXQGJcUL
+        h+dXYNr4iMm1dYwsvsAdKo9WTVjf+ITxFRM8DsUfN8s0SiZ2Ht7Egb3Pv3diDqNLL9HxYBrXH85QmbWk
+        Z+IJmofGMTC9iJGFNThxw3mERjf7hKRoau8ZZ1ZQc2sE9YbRP2m8PQalbgB9U3OYemXCjcklZNZdXrZI
+        dkwvhvxKL7T6Iah0N3GKSum1Aag7DcisbkOTcQxft3+g/f4kFG0D0OiHYefpzTb/aGJhUzck51ohUtUh
+        pkALcWULeFkVON03iJ+/tlHdb4RQcRG59V0o1Q3CLTIm3/yryUeoYmiaHMaFJXSOT8HFNR7Kq/0wU9ze
+        B266ynJYiroZ0gtdYIQLZMTWlekRJ9eCJynFiYZ2vP+yidHnq/jw7TOKWrsRJCpCEnWTBGUtkssakVbR
+        Alvm3gjLOznp0tnUsnr4RGZArGnA5tZ3KHR6sPgSxCnOIFa+kwxtO7iSojcWyYw9y/dAovIsovIrEJSc
+        B44oFyFiGaJlVYgqrISgsArCkhqkll8Czcs31art4Bgcmh9XrEEMVdyfcRLhWcXgSZXg56mRQEnCkvNw
+        ZHO11vq/0P0CRGxx9mNeTgkE+WoICsrBy1Eh4HD2sr0XK9ta+w8bG+uGEFsmk+sQGFyw2z9IZuPsGmkd
+        /wUhvwEvIEKRdKdzKgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="ok.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;cancel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="auditoriumNumber.MaxLength" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="cancel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="cancel.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;auditoriumNumber.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;cancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="ok.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="auditoriumNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 20</value>
+  </data>
+  <data name="auditoriumNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="cancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 23</value>
+  </data>
+  <data name="&gt;&gt;ok.Name" xml:space="preserve">
+    <value>ok</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ok.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Добавление данных</value>
+  </data>
+  <data name="auditoriumNumberText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 13</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

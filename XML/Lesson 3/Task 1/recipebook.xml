@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recipes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="recipebook.xsd">
+  <recipe id="cheesecakes">
+    <title>Сырники</title>
+    <photo>images\cheesecakes.jpg</photo>
+    <ingredients>
+      <ingredient>
+        <item>Творог (домашний, покупной)</item>
+        <quantity unit="кг">0.5</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Яйцо</item>
+        <quantity unit="шт.">1</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Сахар</item>
+        <quantity unit="стакан">0.5</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Ванилин</item>
+        <quantity unit="г">2</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Мука</item>
+        <quantity unit="ст. л.">3</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Масло сливочное</item>
+        <quantity unit="г">60</quantity>
+      </ingredient>
+    </ingredients>
+    <preparation complexity="для_начинающих" preparation-time="30">
+      Творог размять вилкой. Добавить 3-4 полные столовые ложки сахара, ванилин, яйцо. Очень тщательно размять до однородной массы.
+      Попробовать смесь. Если надо – добавить сахара, ванилина. Ещё раз размять. Добавить 3 полные столовые ложки муки.
+      Перемешать до однородного состояния. Получится творожное тесто. Если творог был не слишком плотный, добавить ещё муки. По желанию – горсть предварительно замоченного изюма.
+      На обильно посыпанную мукой разделочную доску выложить тесто. Не вымешивая, сформировать из теста такую себе "колбасу", диаметром 6-7 см. Обсыпать тесто мукой со всех сторон.
+      Нарезать острым ножом на одинаковые кусочки. Количество – чтобы влезло на сковородку. Руками сформировать лепёшки и щедро обсыпать их мукой. Выложить на тарелку.
+      На хорошо раскалённую сковородку бросить сливочное масло. Как только оно растопится, сразу же выложить все сырники и жарить их на среднем огне до подрумянивания.
+      Затем сырники перевернуть и жарить до готовности под крышкой на небольшом огне до готовности.
+    </preparation>
+    <serving>5</serving>
+    <energy>
+      <proteins>18.6</proteins>
+      <fats>3.6</fats>
+      <carbs>18.2</carbs>
+    </energy>
+  </recipe>
+  <recipe id="buckwheat">
+    <title>Варёная гречка</title>
+    <photo>images\buckwheat.jpg</photo>
+    <ingredients>
+      <ingredient>
+        <item>Крупа гречневая</item>
+        <quantity unit="г">100</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Вода</item>
+        <quantity unit="мл">250</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Соль поваренная</item>
+        <quantity unit="ч. л.">0.5</quantity>
+      </ingredient>
+    </ingredients>
+    <preparation complexity="для_начинающих" preparation-time="20">
+      Перед варкой гречку обязательно перебрать. Среди крупы могут оказаться камушки, очень опасные для зубов в случае попадания в пищу.
+      Наливаем в кастрюлю воду, можно сразу посолить чуть-чуть. Промываем гречневую крупу и засыпаем в воду.
+      Быстро доводим гречку до кипения. Потом оставляем на медленном огне на 15-20 минут. Гречка готова. При варке гречневую крупу не мешают.
+    </preparation>
+    <energy>
+      <proteins>4.5</proteins>
+      <fats>2.3</fats>
+      <carbs>25</carbs>
+    </energy>
+  </recipe>
+  <recipe id="dietetic-chocolate">
+    <title>Диетический шоколад</title>
+    <photo>images\chocolate.jpg</photo>
+    <ingredients>
+      <ingredient>
+        <item>Какао-порошок</item>
+        <quantity unit="чашка">0.5</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Масло кокосовое</item>
+        <quantity unit="чашка">0.25</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Экстракт ванильный</item>
+        <quantity unit="ч. л.">0.125</quantity>
+      </ingredient>
+      <ingredient>
+        <item>Соль</item>
+        <quantity unit="ч. л.">0.25</quantity>
+      </ingredient>
+    </ingredients>
+    <preparation complexity="для_начинающих" preparation-time="40" additional-characteristics="для_диабетиков">
+      Кокосовое масло растопить, перемешивая, на водяной бане, а затем дать остыть до комнатной температуры.
+      Вмешать кокосовое масло в какао-порошок, постепенно, по 1-й столовой ложке за один раз. Периодически соскребать смесь по бокам и дну чаши, чтобы всё хорошо перемешалось.
+      Добавит ваниль, подсластитель, соль и хорошо перемешать. Силиконовую формочку для конфет слегка смазать маслом и выложить полученную смесь в ячейки.
+      Оставить конфеты при комнатной температуре на 30 минут, а затем положить в холодильник, где хранить до употребления, потому что при комнатной температуре конфеты могут растаять.
+    </preparation>
+    <serving>10</serving>
+  </recipe>
+</recipes>

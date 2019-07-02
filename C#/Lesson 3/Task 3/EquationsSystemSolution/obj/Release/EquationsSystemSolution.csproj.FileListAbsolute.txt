@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\bin\Release\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\bin\Release\EquationsSystemSolution.pdb
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\obj\Release\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\obj\Release\EquationsSystemSolution.pdb
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\bin\Release\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\bin\Release\EquationsSystemSolution.pdb
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\obj\Release\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\obj\Release\EquationsSystemSolution.pdb

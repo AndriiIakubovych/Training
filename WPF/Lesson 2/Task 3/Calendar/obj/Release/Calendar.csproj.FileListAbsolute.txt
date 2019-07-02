@@ -1,0 +1,13 @@
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\bin\Release\Calendar.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\bin\Release\Calendar.exe
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\bin\Release\Calendar.pdb
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar.exe
+C:\Подготовка\WPF\Lesson 2\Task 3\Calendar\obj\Release\Calendar.pdb

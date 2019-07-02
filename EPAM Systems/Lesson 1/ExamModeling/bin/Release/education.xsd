@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="groupType">
+    <xs:sequence>
+      <xs:element name="group" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="student" type="xs:string" maxOccurs="unbounded"/>
+          </xs:sequence>
+          <xs:attribute name="name" type="xs:string" use="required"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="subjectType">
+    <xs:sequence>
+      <xs:element name="subject" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="teacherType">
+    <xs:sequence>
+      <xs:element name="teacher" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="referenceKeyType">
+    <xs:sequence>
+      <xs:element name="group" type="xs:string" maxOccurs="1"/>
+      <xs:element name="subject" type="xs:string" maxOccurs="1"/>
+      <xs:element name="teacher" type="xs:string" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="process">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="groups" type="groupType"/>
+        <xs:element name="subjects" type="subjectType"/>
+        <xs:element name="teachers" type="teacherType"/>
+        <xs:element name="classes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="class" type="referenceKeyType" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:key name="groupId">
+      <xs:selector xpath="./groups/group"/>
+      <xs:field xpath="@name"/>
+    </xs:key>
+    <xs:keyref name="referenceGroupId" refer="groupId">
+      <xs:selector xpath="./classes/class/group"/>
+      <xs:field xpath="."/>
+    </xs:keyref>
+    <xs:key name="subjectId">
+      <xs:selector xpath="./subjects/subject"/>
+      <xs:field xpath="."/>
+    </xs:key>
+    <xs:keyref name="referenceSubjectId" refer="subjectId">
+      <xs:selector xpath="./classes/class/subject"/>
+      <xs:field xpath="."/>
+    </xs:keyref>
+    <xs:key name="teacherId">
+      <xs:selector xpath="./teachers/teacher"/>
+      <xs:field xpath="."/>
+    </xs:key>
+    <xs:keyref name="referenceTeacherId" refer="teacherId">
+      <xs:selector xpath="./classes/class/teacher"/>
+      <xs:field xpath="."/>
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

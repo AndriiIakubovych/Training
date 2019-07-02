@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\bin\Debug\ApplicationSettings.exe
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\bin\Debug\ApplicationSettings.pdb
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\obj\Debug\ApplicationSettings.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\obj\Debug\ApplicationSettings.exe
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\obj\Debug\ApplicationSettings.pdb
+C:\Подготовка\C#\Lesson 7\Task 3\ApplicationSettings\obj\Debug\ApplicationSettings.exe
+C:\Подготовка\C#\Lesson 7\Task 3\ApplicationSettings\obj\Debug\ApplicationSettings.pdb

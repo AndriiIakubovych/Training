@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\obj\Debug\FilesWork.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\bin\Debug\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\bin\Debug\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\obj\Debug\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\FilesWork\FilesWork\obj\Debug\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\obj\Debug\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\obj\Debug\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\bin\Debug\FilesWork.exe
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\bin\Debug\FilesWork.pdb
+C:\Подготовка\C#\Lesson 7\Task 1\FilesWork\obj\Debug\FilesWork.csprojResolveAssemblyReference.cache

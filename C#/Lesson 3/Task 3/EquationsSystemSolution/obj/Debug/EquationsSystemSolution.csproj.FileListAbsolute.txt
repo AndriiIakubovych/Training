@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\bin\Debug\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\bin\Debug\EquationsSystemSolution.pdb
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\obj\Debug\EquationsSystemSolution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\obj\Debug\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\EquationsSystemSolution\EquationsSystemSolution\obj\Debug\EquationsSystemSolution.pdb
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\bin\Debug\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\bin\Debug\EquationsSystemSolution.pdb
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\obj\Debug\EquationsSystemSolution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\obj\Debug\EquationsSystemSolution.exe
+C:\Подготовка\C#\Lesson 3\Task 3\EquationsSystemSolution\obj\Debug\EquationsSystemSolution.pdb

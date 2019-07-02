@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\bin\Release\Statics.exe
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\bin\Release\Statics.pdb
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Release\Statics.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Release\Statics.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Release\Statics.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Release\Statics.exe
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Release\Statics.pdb

@@ -1,0 +1,15 @@
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\bin\Debug\AirTemperatureChange.exe.config
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\bin\Debug\AirTemperatureChange.exe
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\bin\Debug\AirTemperatureChange.pdb
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\obj\Debug\AirTemperatureChange.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\obj\Debug\AirTemperatureChange.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\obj\Debug\AirTemperatureChange.exe
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\obj\Debug\AirTemperatureChange.pdb
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\AirTemperatureChange\obj\Debug\AirTemperatureChange.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\bin\Debug\AirTemperatureChange.exe.config
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\obj\Debug\AirTemperatureChange.exe
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\obj\Debug\AirTemperatureChange.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\bin\Debug\AirTemperatureChange.exe
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\bin\Debug\AirTemperatureChange.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\obj\Debug\AirTemperatureChange.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 5\AirTemperatureChange\obj\Debug\AirTemperatureChange.csproj.GenerateResource.Cache

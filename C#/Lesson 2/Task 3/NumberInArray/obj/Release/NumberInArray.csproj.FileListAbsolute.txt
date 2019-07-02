@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\bin\Release\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\bin\Release\NumberInArray.pdb
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\obj\Release\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\obj\Release\NumberInArray.pdb
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\bin\Release\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\bin\Release\NumberInArray.pdb
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\obj\Release\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\obj\Release\NumberInArray.pdb

@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\bin\Release\TextParse.exe
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\bin\Release\TextParse.pdb
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\obj\Release\TextParse.exe
+C:\Подготовка\C#\Lesson 6\TextParse\TextParse\obj\Release\TextParse.pdb

@@ -1,0 +1,207 @@
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\csc.exe
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\vbc.exe
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\VBCSCompiler.exe
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\ProductsListControl.dll.config
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\ProductsListControl.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\ProductsListControl.pdb
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Antlr3.Runtime.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\EntityFramework.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Newtonsoft.Json.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Owin.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Helpers.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Mvc.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Optimization.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Razor.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.WebPages.Deployment.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.WebPages.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.WebPages.Razor.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\WebGrease.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Helpers.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Mvc.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Optimization.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.Razor.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.WebPages.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.WebPages.Deployment.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\System.Web.WebPages.Razor.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Antlr3.Runtime.pdb
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Newtonsoft.Json.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\EntityFramework.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\obj\Debug\ProductsListControl.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\obj\Debug\ProductsListControl.dll
+C:\Подготовка\C#\ProductsListControl\ProductsListControl\obj\Debug\ProductsListControl.pdb
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\csc.exe
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\vbc.exe
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\VBCSCompiler.exe
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\ProductsListControl.dll.config
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\ProductsListControl.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\ProductsListControl.pdb
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Antlr3.Runtime.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\EntityFramework.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Newtonsoft.Json.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Owin.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Helpers.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Mvc.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Optimization.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Razor.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.WebPages.Deployment.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.WebPages.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.WebPages.Razor.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\WebGrease.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Helpers.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Mvc.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Optimization.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.Razor.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.WebPages.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.WebPages.Deployment.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\System.Web.WebPages.Razor.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Antlr3.Runtime.pdb
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Newtonsoft.Json.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\EntityFramework.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\obj\Debug\ProductsListControl.dll
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\obj\Debug\ProductsListControl.pdb
+C:\Подготовка\C#\ProductsListControl — копия (3)\ProductsListControl\obj\Debug\ProductsListControl.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\csc.exe
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\System.Collections.Immutable.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\vbc.exe
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\VBCSCompiler.exe
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\roslyn\VBCSCompiler.exe.config
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\ProductsListControl.dll.config
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\ProductsListControl.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\ProductsListControl.pdb
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Antlr3.Runtime.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\EntityFramework.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Google.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Web.Infrastructure.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Newtonsoft.Json.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Owin.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Helpers.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Mvc.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Optimization.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Razor.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.WebPages.Deployment.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.WebPages.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.WebPages.Razor.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\WebGrease.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Helpers.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Mvc.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Optimization.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.Razor.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.WebPages.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.WebPages.Deployment.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\System.Web.WebPages.Razor.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Antlr3.Runtime.pdb
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Newtonsoft.Json.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\EntityFramework.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Google.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Подготовка\C#\Lesson 37\ProductsListControl\obj\Debug\ProductsListControl.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 37\ProductsListControl\obj\Debug\ProductsListControl.dll
+C:\Подготовка\C#\Lesson 37\ProductsListControl\obj\Debug\ProductsListControl.pdb

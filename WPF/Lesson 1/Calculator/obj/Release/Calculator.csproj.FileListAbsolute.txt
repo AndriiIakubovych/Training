@@ -1,0 +1,13 @@
+C:\Подготовка\WPF\Lesson 1\Calculator\bin\Release\Calculator.exe.config
+C:\Подготовка\WPF\Lesson 1\Calculator\bin\Release\Calculator.exe
+C:\Подготовка\WPF\Lesson 1\Calculator\bin\Release\Calculator.pdb
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\App.g.cs
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\MainWindow.baml
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator.g.resources
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator.exe
+C:\Подготовка\WPF\Lesson 1\Calculator\obj\Release\Calculator.pdb

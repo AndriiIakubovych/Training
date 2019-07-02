@@ -1,0 +1,60 @@
+2019-05-11 11:47:15.023 EEST [4620] СООБЩЕНИЕ:  система БД была выключена: 2019-05-11 03:25:58 EEST
+2019-05-11 11:47:15.243 EEST [3892] СООБЩЕНИЕ:  система БД готова принимать подключения
+2019-05-11 17:03:22.739 EEST [9688] РћРЁРР‘РљРђ:  РЅРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РґР»СЏ С†РµР»РѕРіРѕ С‡РёСЃР»Р°: "13.9" (СЃРёРјРІРѕР» 320)
+2019-05-11 17:03:22.739 EEST [9688] РћРџР•Р РђРўРћР :  INSERT INTO dbo."Cars" (
+	"Car_id", "Car_name", "Car_photo", "Engine_type", "Engine_volume", "Power", "Acceleration", "Max_speed", "Fuel_tank_capacity", "Transmission", "Drive", "Weight", "Price") VALUES (
+	'1'::integer, 'Brilliance V5 1.5T'::text, 'car-1.png'::text, 'Р‘РµРЅР·РёРЅРѕРІС‹Р№'::text, '1498'::integer, '143'::integer, '13.9'::integer, '175'::integer, '55'::integer, 'РђРІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ'::text, 'РџРµСЂРµРґРЅРёР№'::text, '1955'::double precision, '133960'::integer)
+	 returning "Car_id";
+2019-05-11 17:03:22.793 EEST [9688] РћРЁРР‘РљРђ:  С‚РµРєСѓС‰Р°СЏ С‚СЂР°РЅР·Р°РєС†РёСЏ РїСЂРµСЂРІР°РЅР°, РєРѕРјР°РЅРґС‹ РґРѕ РєРѕРЅС†Р° Р±Р»РѕРєР° С‚СЂР°РЅР·Р°РєС†РёРё РёРіРЅРѕСЂРёСЂСѓСЋС‚СЃСЏ
+2019-05-11 17:03:22.793 EEST [9688] РћРџР•Р РђРўРћР :  /*pga4dash*/
+	SELECT 'session_stats' AS chart_name, row_to_json(t) AS chart_data
+	FROM (SELECT
+	   (SELECT count(*) FROM pg_stat_activity WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Total",
+	   (SELECT count(*) FROM pg_stat_activity WHERE state = 'active' AND datname = (SELECT datname FROM pg_database WHERE oid = 16443))  AS "Active",
+	   (SELECT count(*) FROM pg_stat_activity WHERE state = 'idle' AND datname = (SELECT datname FROM pg_database WHERE oid = 16443))  AS "Idle"
+	) t
+	UNION ALL
+	SELECT 'tps_stats' AS chart_name, row_to_json(t) AS chart_data
+	FROM (SELECT
+	   (SELECT sum(xact_commit) + sum(xact_rollback) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Transactions",
+	   (SELECT sum(xact_commit) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Commits",
+	   (SELECT sum(xact_rollback) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Rollbacks"
+	) t
+	UNION ALL
+	SELECT 'ti_stats' AS chart_name, row_to_json(t) AS chart_data
+	FROM (SELECT
+	   (SELECT sum(tup_inserted) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Inserts",
+	   (SELECT sum(tup_updated) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Updates",
+	   (SELECT sum(tup_deleted) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Deletes"
+	) t
+	UNION ALL
+	SELECT 'to_stats' AS chart_name, row_to_json(t) AS chart_data
+	FROM (SELECT
+	   (SELECT sum(tup_fetched) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Fetched",
+	   (SELECT sum(tup_returned) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Returned"
+	) t
+	UNION ALL
+	SELECT 'bio_stats' AS chart_name, row_to_json(t) AS chart_data
+	FROM (SELECT
+	   (SELECT sum(blks_read) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Reads",
+	   (SELECT sum(blks_hit) FROM pg_stat_database WHERE datname = (SELECT datname FROM pg_database WHERE oid = 16443)) AS "Hits"
+	) t
+	
+2019-05-11 17:30:00.793 EEST [9688] РћРЁРР‘РљРђ:  РЅРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РґР»СЏ С†РµР»РѕРіРѕ С‡РёСЃР»Р°: "13.9" (СЃРёРјРІРѕР» 211)
+2019-05-11 17:30:00.793 EEST [9688] РћРџР•Р РђРўРћР :  UPDATE dbo."Cars" SET
+	"Car_name" = 'Brilliance V5 1.5T'::text, "Car_photo" = 'car-1.png'::text, "Engine_type" = 'Р‘РµРЅР·РёРЅРѕРІС‹Р№'::text, "Engine_volume" = '1498'::integer, "Power" = '143'::integer, "Acceleration" = '13.9'::integer, "Max_speed" = '175'::integer, "Fuel_tank_capacity" = '55'::integer, "Transmission" = 'РђРІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ'::text, "Drive" = 'РџРµСЂРµРґРЅРёР№'::text, "Weight" = '1955'::double precision, "Price" = '133960'::integer WHERE
+	"Car_id" = 1;
+2019-05-11 17:32:29.362 EEST [9688] РћРЁРР‘РљРђ:  РЅРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РґР»СЏ С†РµР»РѕРіРѕ С‡РёСЃР»Р°: "13.9" (СЃРёРјРІРѕР» 40)
+2019-05-11 17:32:29.362 EEST [9688] РћРџР•Р РђРўРћР :  UPDATE dbo."Cars" SET
+	"Acceleration" = '13.9'::integer WHERE
+	"Car_id" = 1;
+2019-05-11 18:28:33.460 EEST [9016] РЎРћРћР‘Р©Р•РќРР•:  РЅРµ СѓРґР°Р»РѕСЃСЊ РїРѕР»СѓС‡РёС‚СЊ РґР°РЅРЅС‹Рµ РѕС‚ РєР»РёРµРЅС‚Р°: An existing connection was forcibly closed by the remote host.
+	
+2019-05-11 18:28:33.461 EEST [9688] РЎРћРћР‘Р©Р•РќРР•:  РЅРµ СѓРґР°Р»РѕСЃСЊ РїРѕР»СѓС‡РёС‚СЊ РґР°РЅРЅС‹Рµ РѕС‚ РєР»РёРµРЅС‚Р°: An existing connection was forcibly closed by the remote host.
+	
+2019-05-11 18:28:55.229 EEST [3892] СООБЩЕНИЕ:  получен запрос на быстрое выключение
+2019-05-11 18:28:55.434 EEST [4796] ОШИБКА:  выполнение оператора отменено по запросу пользователя
+2019-05-11 18:28:55.741 EEST [3892] СООБЩЕНИЕ:  прерывание всех активных транзакций
+2019-05-11 18:28:55.751 EEST [3892] СООБЩЕНИЕ:  фоновый процесс "logical replication launcher" (PID 4796) завершился с кодом выхода 1
+2019-05-11 18:28:55.753 EEST [4752] СООБЩЕНИЕ:  выключение
+2019-05-11 18:29:01.762 EEST [3892] СООБЩЕНИЕ:  система БД выключена

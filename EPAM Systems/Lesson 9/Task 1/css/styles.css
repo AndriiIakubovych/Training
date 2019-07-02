@@ -1,0 +1,214 @@
+﻿body
+{
+    min-width: 770px;
+    background-color: #cccccc;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 15px;
+    font-weight: normal;
+    margin: 0 0 10px 0;
+}
+
+header
+{
+    border: 2px solid red;
+    background-color: #ececec;
+    padding: 10px;
+}
+
+header .header-content
+{
+    justify-content: space-between;
+    display: flex;
+}
+
+header .header-content .logo
+{
+    width: 180px;
+    height: 60px;
+    border: 2px solid red;
+    background-color: #acc5eb;
+    padding: 10px;
+}
+
+header .header-content .right-content
+{
+    justify-content: space-between;
+    display: flex;
+}
+
+header .header-content .right-content .contact-information
+{
+    width: 180px;
+    height: 60px;
+    border: 2px solid red;
+    background-color: #fff7a0;
+    padding: 10px;
+}
+
+header .header-content .right-content .authorization
+{
+    width: 180px;
+    height: 60px;
+    border: 2px solid red;
+    background-color: #cbfbbe;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+main
+{
+    margin: 5px 0 5px 0;
+}
+
+main .menu
+{
+    height: 20px;
+    border: 2px solid red;
+    background-color: #ebacac;
+    padding: 10px;
+}
+
+main .main-content
+{
+    justify-content: space-between;
+    margin: 5px 0 5px 0;
+    display: flex;
+}
+
+main .main-content .left-block
+{
+    width: 220px;
+    border: 2px solid red;
+    background-color: #ececec;
+    padding: 10px;
+}
+
+main .main-content .left-block .menu-catalog
+{
+    height: 350px;
+    border: 2px solid red;
+    background-color: #ebacac;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+main .main-content .left-block .poll
+{
+    height: 60px;
+    border: 2px solid red;
+    background-color: #cbfbbe;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+main .main-content .left-block .informer
+{
+    height: 60px;
+    border: 2px solid red;
+    background-color: #cbfbbe;
+    padding: 10px;
+}
+
+main .main-content .center-block
+{
+    width: calc(100% - 540px);
+    border: 2px solid red;
+    background-color: #ececec;
+    margin: 0 10px 0 10px;
+    padding: 10px;
+}
+
+main .main-content .center-block .banner
+{
+    height: 100px;
+    border: 2px solid red;
+    background-color: #acc5eb;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+main .main-content .center-block .center-top-content
+{
+    justify-content: space-between;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+main .main-content .center-block .center-top-content .picture
+{
+    width: 180px;
+    height: 60px;
+    border: 2px solid red;
+    background-color: #acc5eb;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+main .main-content .center-block .center-top-content .text
+{
+    width: calc(100% - 200px);
+    height: 60px;
+    border: 2px solid red;
+    background-color: #fff7a0;
+    padding: 10px;
+}
+
+main .main-content .center-block .text
+{
+    height: 310px;
+    border: 2px solid red;
+    background-color: #fff7a0;
+    padding: 10px;
+}
+
+main .main-content .right-block
+{
+    width: 280px;
+    border: 2px solid red;
+    background-color: #ececec;
+    padding: 10px;
+}
+
+main .main-content .right-block .text
+{
+    height: 350px;
+    border: 2px solid red;
+    background-color: #fff7a0;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+main .main-content .right-block .informer
+{
+    height: 153px;
+    border: 2px solid red;
+    background-color: #cbfbbe;
+    padding: 10px;
+}
+
+footer
+{
+    border: 2px solid red;
+    background-color: #ececec;
+    padding: 10px;
+}
+
+footer .footer-content
+{
+    justify-content: flex-end;
+    display: flex;
+}
+
+footer .contact-information
+{
+    width: 180px;
+    height: 40px;
+    border: 2px solid red;
+    background-color: #fff7a0;
+    padding: 10px;
+}

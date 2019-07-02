@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\obj\Debug\Reverse.pdb
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\bin\Debug\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\bin\Debug\Reverse.pdb
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\obj\Debug\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\obj\Debug\Reverse.pdb

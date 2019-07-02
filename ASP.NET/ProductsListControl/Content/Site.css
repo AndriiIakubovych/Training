@@ -1,0 +1,655 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    min-width: 700px;
+    height: 100%;
+    background-color: #f7f7f7;
+}
+
+header
+{
+    height: 52px;
+    background-color: #222222;
+}
+
+header menu
+{
+    width: 85%;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    display: flex;
+}
+
+header menu a
+{
+    font-size: 18px;
+    color: #999999;
+    transition: all 0.30s ease-in-out;
+}
+
+header menu a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+
+header menu .right-menu .login-link
+{
+    margin-left: 20px;
+}
+
+header menu .right-menu
+{
+    position: relative;
+}
+
+header menu .right-menu .user-welcome
+{
+    font-size: 18px;
+    color: #999999;
+    transition: all 0.30s ease-in-out;
+    cursor: pointer;
+}
+
+header menu .right-menu .user-welcome:hover
+{
+    color: white;
+}
+
+header menu .right-menu .user-popup-menu
+{
+    width: 210px;
+    border: 1px solid #999999;
+    border-bottom: none;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 30px;
+    display: none;
+    z-index: 1;
+}
+
+header menu .right-menu .user-popup-menu a
+{
+    background-color: #222222;
+    border-bottom: 1px solid #999999;
+    text-align: center;
+    line-height: 35px;
+    display: block;
+}
+
+main
+{
+    width: 85%;
+    min-height: calc(100% - 104px);
+    margin: 0 auto 0 auto;
+    padding: 50px 0 50px 0;
+}
+
+.main-register, .main-login
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+main .table-caption
+{
+    height: 65px;
+    background-color: #495165;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px 0 30px;
+    display: flex;
+}
+
+main .table-caption h1
+{
+    font-size: 25px;
+    color: white;
+    margin: 0;
+}
+
+main .table-caption .operations a
+{
+    width: 142px;
+    height: 35px;
+    background-color: white;
+    font-size: 14px;
+    transition: all 0.30s ease-in-out;
+    margin-right: 5px;
+}
+
+main .table-caption .operations a:hover
+{
+    background-color: #00aaf7;
+    color: white;
+}
+
+main .table-caption .operations a:last-child
+{
+    margin-right: 0;
+}
+
+main .table-content
+{
+    background-color: white;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    padding: 15px 30px 15px 30px;
+    display: none;
+}
+
+main .table-content table
+{
+    min-width: 100%;
+}
+
+main .table-content table tr
+{
+    cursor: pointer;
+}
+
+main .table-content table tr th:first-child
+{
+    display: none;
+}
+
+main .table-content table tr td
+{
+    vertical-align: middle;
+}
+
+main .table-content table tr td:first-child
+{
+    display: none;
+}
+
+main .table-content table tr .description
+{
+    width: 20%;
+}
+
+main .table-content table tr td .small-photo
+{
+    width: 100px;
+    cursor: pointer;
+}
+
+main .table-content table tr td .small-photo:hover
+{
+    opacity: 0.7;
+}
+
+main .table-content table .selected td
+{
+    background-color: #ececec;
+}
+
+main .table-content .page-link
+{
+    border: none;
+    border-radius: 3px;
+    color: #00aaf7;
+    margin-left: 5px;
+}
+
+main .table-content .page-item.active .page-link
+{
+    background-color: #00aaf7;
+}
+
+main .control-panel
+{
+    width: 350px;
+}
+
+main .control-panel .panel-caption
+{
+    background-color: #495165;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    padding: 0 30px 0 30px;
+}
+
+main .control-panel .panel-caption h1
+{
+    font-size: 25px;
+    color: white;
+    line-height: 65px;
+    margin: 0;
+}
+
+main .control-panel form
+{
+    border: 1px solid #d3e2e6;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    padding: 20px 30px 30px 30px;
+}
+
+main .control-panel form .form-control
+{
+    width: auto;
+}
+
+main .control-panel form input[type="checkbox"]
+{
+    width: 20px;
+    box-shadow: none;
+    margin-right: 5px;
+}
+
+main .control-panel form .has-field
+{
+    align-items: center;
+    display: flex;
+}
+
+main .control-panel form .operations
+{
+    justify-content: space-between;
+    margin-top: 10px;
+    display: flex;
+}
+
+main .control-panel form .operations input[type="submit"]
+{
+    width: 140px;
+}
+
+main .control-panel form .operations input[type="button"]
+{
+    width: 140px;
+}
+
+#add-product-dialog .modal-dialog
+{
+    width: 500px;
+}
+
+#add-product-dialog form
+{
+    font-size: 14px;
+}
+
+#add-product-dialog form .modal-header
+{
+    font-weight: bold;
+}
+
+#add-product-dialog form .modal-header .close
+{
+    outline: none;
+}
+
+#add-product-dialog form label
+{
+    margin: 10px 0 2px 0;
+    display: block;
+}
+
+#add-product-dialog form label:first-child
+{
+    margin-top: 0;
+}
+
+#add-product-dialog form .choose-file label
+{
+    margin-top: 0;
+}
+
+#add-product-dialog form input
+{
+    width: 100%;
+}
+
+#add-product-dialog form input[type="text"]
+{
+    height: 30px;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+
+#add-product-dialog form input[type="datetime"]
+{
+    height: 30px;
+    background-color: white;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+
+#add-product-dialog form input[type="number"]
+{
+    height: 30px;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+
+#add-product-dialog form input[type="checkbox"]
+{
+    width: 15px;
+    outline: none !important;
+    box-shadow: none;
+    margin: 2px 5px 0 0;
+    display: initial;
+}
+
+#add-product-dialog form select
+{
+    height: 30px;
+    font-size: 14px;
+    padding: 0 3px 0 3px;
+}
+
+#add-product-dialog form textarea
+{
+    width: 100%;
+    height: 80px;
+    font-size: 14px;
+    resize: none;
+    padding: 8px;
+}
+
+#add-product-dialog form .availability
+{
+    height: 20px;
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+}
+
+#add-product-dialog form .choose-file
+{
+    margin-top: 10px;
+}
+
+#add-product-dialog .modal-footer button
+{
+    width: 142px;
+}
+
+.field-validation-error
+{
+    color: red;
+}
+
+#edit-product-dialog .modal-dialog
+{
+    width: 500px;
+}
+
+#edit-product-dialog form
+{
+    font-size: 14px;
+}
+
+#edit-product-dialog form .modal-header
+{
+    font-weight: bold;
+}
+
+#edit-product-dialog form .modal-header .close
+{
+    outline: none;
+}
+
+#edit-product-dialog form label
+{
+    margin: 10px 0 2px 0;
+    display: block;
+}
+
+#edit-product-dialog form .edit-name label
+{
+    margin-top: 0;
+}
+
+#edit-product-dialog form .choose-file label
+{
+    margin-top: 0;
+}
+
+#edit-product-dialog form input
+{
+    width: 100%;
+}
+
+#edit-product-dialog form input[type="text"]
+{
+    height: 30px;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+
+#edit-product-dialog form input[type="datetime"]
+{
+    height: 30px;
+    background-color: white;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+
+#edit-product-dialog form input[type="number"]
+{
+    height: 30px;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+
+#edit-product-dialog form input[type="checkbox"]
+{
+    width: 15px;
+    outline: none;
+    box-shadow: none;
+    margin: 2px 5px 0 0;
+    display: initial;
+}
+
+#edit-product-dialog form select
+{
+    height: 30px;
+    font-size: 14px;
+    padding: 0 3px 0 3px;
+}
+
+#edit-product-dialog form textarea
+{
+    width: 100%;
+    height: 80px;
+    font-size: 14px;
+    resize: none;
+    padding: 8px;
+}
+
+#edit-product-dialog form .availability
+{
+    height: 20px;
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+}
+
+#edit-product-dialog form .choose-file
+{
+    margin-top: 10px;
+}
+
+#edit-product-dialog .modal-footer button
+{
+    width: 142px;
+}
+
+#delete-product-dialog .modal-dialog
+{
+    width: 500px;
+}
+
+#delete-product-dialog .modal-header
+{
+    font-weight: bold;
+}
+
+#delete-product-dialog .modal-header .close
+{
+    outline: none;
+}
+
+#delete-product-dialog .modal-footer button
+{
+    width: 142px;
+}
+
+#photo-modal
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding-top: 100px;
+    display: none;
+    z-index: 1;
+}
+
+#photo-modal .close-image
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: #f1f1f1;
+    transition: 0.3s;
+    cursor: pointer;
+    position: absolute;
+    top: 15px;
+    right: 35px;
+}
+
+#photo-modal .close-image:hover
+{
+    color: darkgrey;
+}
+
+#photo-modal #big-photo 
+{
+    width: 80%;
+    max-width: 800px;
+    animation-name: zoom;
+    -webkit-animation-name: zoom;
+    animation-duration: 0.6s;
+    -webkit-animation-duration: 0.6s;
+    margin: auto;
+    display: block;
+}
+
+@keyframes zoom
+{
+    from { transform: scale(0); }
+    to { transform: scale(1); }
+}
+
+@-webkit-keyframes zoom
+{
+    from { -webkit-transform: scale(0); }
+    to { -webkit-transform: scale(1); }
+}
+
+.alert
+{
+    transition: all 0.40s ease-in-out;
+    position: fixed;
+    right: 0;
+    bottom: -100px;
+    margin: 0;
+}
+
+footer
+{
+    width: 100%;
+    background-color: #222222;
+    line-height: 52px;
+}
+
+footer p
+{
+    font-size: 16px;
+    color: #999999;
+    text-align: center;
+    margin: 0;
+}
+
+.register-content form
+{
+    width: 370px;
+    background-color: white;
+    border-radius: 3px;
+    padding: 20px;
+}
+
+.register-content form .validation-summary-errors
+{
+    color: red;
+}
+
+.register-content form label
+{
+    margin-bottom: 2px;
+    display: block;
+}
+
+.register-content form input
+{
+    width: 100%;
+    height: 30px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    padding: 0 8px 0 8px;
+}
+
+.register-content form button
+{
+    margin: 20px auto 0 auto;
+    display: block;
+}
+
+.login-content form
+{
+    width: 370px;
+    background-color: white;
+    border-radius: 3px;
+    padding: 20px;
+}
+
+.login-content form .validation-summary-errors
+{
+    color: red;
+}
+
+.login-content form label
+{
+    margin-bottom: 2px;
+    display: block;
+}
+
+.login-content form input
+{
+    width: 100%;
+    height: 30px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    padding: 0 8px 0 8px;
+}
+
+.login-content form button
+{
+    margin: 20px auto 0 auto;
+    display: block;
+}

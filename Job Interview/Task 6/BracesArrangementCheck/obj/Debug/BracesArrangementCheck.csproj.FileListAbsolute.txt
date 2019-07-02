@@ -1,0 +1,9 @@
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\bin\Debug\BracesArrangementCheck.exe.config
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\obj\Debug\BracesArrangementCheck.csprojResolveAssemblyReference.cache
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\bin\Debug\BracesArrangementCheck.exe
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\bin\Debug\BracesArrangementCheck.pdb
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\obj\Debug\BracesArrangementCheck.exe
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\obj\Debug\BracesArrangementCheck.pdb
+C:\Подготовка\Job Interview\Task 6\BracesArrangementCheck\bin\Debug\BracesArrangementCheck.exe.config
+C:\Подготовка\Job Interview\Task 6\BracesArrangementCheck\obj\Debug\BracesArrangementCheck.exe
+C:\Подготовка\Job Interview\Task 6\BracesArrangementCheck\obj\Debug\BracesArrangementCheck.pdb

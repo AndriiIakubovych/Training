@@ -1,0 +1,44 @@
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\StudentsActivity.exe.config
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\StudentsActivity.exe
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\StudentsActivity.pdb
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\EntityFramework.dll
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\JetEntityFrameworkProvider.dll
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\EntityFramework.xml
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.Properties.Resources.resources
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.csproj.GenerateResource.Cache
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.exe
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.pdb
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.MainForm.resources
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.csprojResolveAssemblyReference.cache
+C:\Подготовка\EPAM Systems\StudentsActivity\StudentsActivity\obj\Debug\StudentsActivity.StudentsForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\StudentsActivity.exe.config
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.exe
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.pdb
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\StudentsActivity.exe
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\StudentsActivity.pdb
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\EntityFramework.dll
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\JetEntityFrameworkProvider.dll
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\EntityFramework.xml
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.MainForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.Properties.Resources.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.StudentsForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.csproj.GenerateResource.Cache
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.AddStudentForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.EditStudentForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.OlympiadsForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.AddOlympiadForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.EditOlympiadForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.AddCompetitionForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.CompetitionsForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.EditCompetitionForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.OlympiadStudentParticipationsForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.AddOlympiadStudentParticipationForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.EditOlympiadStudentParticipationForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.csprojResolveAssemblyReference.cache
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.CompetitionStudentParticipationsForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.AddCompetitionStudentParticipationForm.resources
+C:\Подготовка\EPAM Systems\Lesson 3\StudentsActivity\obj\Debug\StudentsActivity.EditCompetitionStudentParticipationForm.resources

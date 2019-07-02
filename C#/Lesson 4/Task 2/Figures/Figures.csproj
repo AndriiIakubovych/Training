@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77369E28-34E6-4CC9-8FD7-57E347D0E7AF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Figures</RootNamespace>
+    <AssemblyName>Figures</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Circle.cs" />
+    <Compile Include="CompoundFigure.cs" />
+    <Compile Include="ConsoleFont.cs" />
+    <Compile Include="Ellipse.cs" />
+    <Compile Include="EqualBasesException.cs" />
+    <Compile Include="GeometricalFigure.cs" />
+    <Compile Include="ISimplePolygon.cs" />
+    <Compile Include="NegativeHeightException.cs" />
+    <Compile Include="NegativeRadiusException.cs" />
+    <Compile Include="NegativeSemiaxisesException.cs" />
+    <Compile Include="NegativeSidesException.cs" />
+    <Compile Include="NotSimplePolygonException.cs" />
+    <Compile Include="Parallelogram.cs" />
+    <Compile Include="Point.cs" />
+    <Compile Include="Polygon.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Rhombus.cs" />
+    <Compile Include="SetFigureImpossibilityException.cs" />
+    <Compile Include="SideLessThanHeightException.cs" />
+    <Compile Include="Square.cs" />
+    <Compile Include="Trapezium.cs" />
+    <Compile Include="Triangle.cs" />
+    <Compile Include="WrongBasisException.cs" />
+    <Compile Include="WrongCoordinatesException.cs" />
+    <Compile Include="WrongCountException.cs" />
+    <Compile Include="WrongSemiaxisesException.cs" />
+    <Compile Include="WrongSidesException.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

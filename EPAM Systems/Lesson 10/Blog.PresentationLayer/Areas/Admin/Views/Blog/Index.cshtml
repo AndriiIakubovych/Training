@@ -1,0 +1,55 @@
+﻿@model Blog.PresentationLayer.Models.ArticleViewModel
+
+@{ Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Admin Panel"; }
+
+<div class="admin-panel">
+    <div class="admin-header">
+        <div class="user-info">
+            <p><i class="fa fa-user"></i> User: @ViewBag.UserName</p>
+        </div>
+        <div class="logo">
+            <a class="logo-image" href="@Url.Action("Index")"><img src="../../Content/Images/admin-logo.png" alt="Logo"/></a>
+            <a class="logo-text" href="@Url.Action("Index")">Admin<span>Panel</span></a>
+        </div>
+        @Html.ActionLink("Log Out", "Logout", "Account")
+    </div>
+    <div class="admin-main">
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true)
+            <div>
+                @Html.LabelFor(model => model.ArticleName, "Enter the article name:")
+            </div>
+            <div>
+                @Html.EditorFor(model => model.ArticleName, new { htmlAttributes = new { maxlength = 100 } })
+                @Html.ValidationMessageFor(model => model.ArticleName)
+            </div>
+            <div>
+                @Html.LabelFor(model => model.ArticleContent, "Enter the article text:")
+            </div>
+            <div>
+                @Html.TextAreaFor(model => model.ArticleContent)
+                @Html.ValidationMessageFor(model => model.ArticleContent)
+            </div>
+            <div class="tags">
+                <div class="existing-tags">
+                    @Html.Label("Select existing tags:")
+                    @Html.ListBox("existingtags", new SelectList(ViewBag.Tags))
+                </div>
+                <div class="new-tags">
+                    @Html.Label("Add new tag:")
+                    <div class="add-tag">
+                        @Html.TextBox("tag", "", new { maxlength = 20 })
+                        <input class="add" type="button" value="+"/>
+                    </div>
+                    @Html.Label("Select new tags:", new { @class = "new-tags-label" })
+                    @Html.ListBox("newtags", new SelectList(new List<string> { }))
+                </div>
+            </div>
+            <input type="submit" value="Send"/>
+        }
+    </div>
+    <div class="admin-footer">
+        <p>&copy; 2017 Software Development Inc.</p>
+    </div>
+</div>

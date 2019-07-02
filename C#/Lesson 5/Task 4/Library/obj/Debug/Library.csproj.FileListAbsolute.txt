@@ -1,0 +1,6 @@
+C:\Подготовка\C#\Lesson 5\Task 4\Library\bin\Debug\Library.exe.config
+C:\Подготовка\C#\Lesson 5\Task 4\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 5\Task 4\Library\bin\Debug\Library.exe
+C:\Подготовка\C#\Lesson 5\Task 4\Library\bin\Debug\Library.pdb
+C:\Подготовка\C#\Lesson 5\Task 4\Library\obj\Debug\Library.exe
+C:\Подготовка\C#\Lesson 5\Task 4\Library\obj\Debug\Library.pdb

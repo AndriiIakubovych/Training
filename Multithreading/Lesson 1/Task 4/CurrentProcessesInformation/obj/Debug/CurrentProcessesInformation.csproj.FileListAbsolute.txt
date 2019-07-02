@@ -1,0 +1,18 @@
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\bin\Debug\CurrentProcessesInformation.exe.config
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\bin\Debug\CurrentProcessesInformation.exe
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\bin\Debug\CurrentProcessesInformation.pdb
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.exe
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.pdb
+C:\Подготовка\C#\Lesson 26\CurrentProcessesInformation\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\bin\Debug\CurrentProcessesInformation.exe.config
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.exe
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.pdb
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\bin\Debug\CurrentProcessesInformation.exe
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\bin\Debug\CurrentProcessesInformation.pdb
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Debug\CurrentProcessesInformation.csproj.GenerateResource.Cache

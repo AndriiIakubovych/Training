@@ -1,0 +1,29 @@
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.MainForm.resources
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Подготовка\C#\Lesson 20\Phonebook\Phonebook\obj\Debug\Phonebook.AddRowForm.resources
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.exe
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.pdb
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\bin\Debug\Phonebook.exe
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\bin\Debug\Phonebook.pdb
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.AddRowForm.resources
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.MainForm.resources
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 20\Task 3\Phonebook\obj\Debug\Phonebook.EditRowForm.resources
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.exe
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.pdb
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\bin\Debug\Phonebook.exe
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\bin\Debug\Phonebook.pdb
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.AddRowForm.resources
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.EditRowForm.resources
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.MainForm.resources
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 24\Task 3\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache

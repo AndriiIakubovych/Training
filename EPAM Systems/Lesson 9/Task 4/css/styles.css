@@ -1,0 +1,9 @@
+﻿input[type="date"]
+{
+    width: 125px;
+}
+
+input[type="button"]
+{
+    height: 24px;
+}

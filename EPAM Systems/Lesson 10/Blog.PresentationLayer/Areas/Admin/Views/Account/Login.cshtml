@@ -1,0 +1,28 @@
+﻿@model Blog.PresentationLayer.Areas.Admin.Models.LoginModel
+
+@{ Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Login"; }
+
+<div class="login">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="login-header">
+            <span>Authentication</span>
+        </div>
+        <fieldset>
+            @Html.ValidationSummary(false)
+            <input name="returnUrl" type="hidden" value="@ViewBag.returnUrl"/>
+            <div>
+                @Html.LabelFor(model => model.UserName, "Login:")
+                @Html.EditorFor(model => model.UserName)
+            </div>
+            <div>
+                @Html.LabelFor(model => model.Password, "Password:")
+                @Html.EditorFor(model => model.Password)
+            </div>
+            <div>
+                <input type="submit" value="Log In"/>
+            </div>
+        </fieldset>
+    }
+</div>

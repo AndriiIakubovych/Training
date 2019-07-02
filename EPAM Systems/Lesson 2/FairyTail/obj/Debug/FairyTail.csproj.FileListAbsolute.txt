@@ -1,0 +1,18 @@
+C:\Users\Valentin\Desktop\FairyTail\FairyTail\bin\Debug\FairyTail.exe.config
+C:\Users\Valentin\Desktop\FairyTail\FairyTail\bin\Debug\FairyTail.exe
+C:\Users\Valentin\Desktop\FairyTail\FairyTail\bin\Debug\FairyTail.pdb
+C:\Users\Valentin\Desktop\FairyTail\FairyTail\obj\Debug\FairyTail.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\FairyTail\FairyTail\obj\Debug\FairyTail.exe
+C:\Users\Valentin\Desktop\FairyTail\FairyTail\obj\Debug\FairyTail.pdb
+C:\Подготовка\EPAM Systems\FairyTail\FairyTail\bin\Debug\FairyTail.exe.config
+C:\Подготовка\EPAM Systems\FairyTail\FairyTail\obj\Debug\FairyTail.exe
+C:\Подготовка\EPAM Systems\FairyTail\FairyTail\obj\Debug\FairyTail.pdb
+C:\Подготовка\EPAM Systems\FairyTail\FairyTail\bin\Debug\FairyTail.exe
+C:\Подготовка\EPAM Systems\FairyTail\FairyTail\bin\Debug\FairyTail.pdb
+C:\Подготовка\EPAM Systems\FairyTail\FairyTail\obj\Debug\FairyTail.csprojResolveAssemblyReference.cache
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\bin\Debug\FairyTail.exe.config
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\obj\Debug\FairyTail.exe
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\obj\Debug\FairyTail.pdb
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\bin\Debug\FairyTail.exe
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\bin\Debug\FairyTail.pdb
+C:\Подготовка\EPAM Systems\Lesson 2\FairyTail\obj\Debug\FairyTail.csprojResolveAssemblyReference.cache

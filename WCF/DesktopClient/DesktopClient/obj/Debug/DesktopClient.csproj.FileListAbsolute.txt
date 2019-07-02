@@ -1,0 +1,12 @@
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Debug\DesktopClient.exe.config
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Debug\DesktopClient.exe
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Debug\DesktopClient.pdb
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.exe
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.pdb
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.MainForm.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Debug\WindowsFormsCalendar.dll
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.AddNoteForm.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.EditNoteForm.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Debug\DesktopClient.csprojResolveAssemblyReference.cache

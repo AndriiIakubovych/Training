@@ -1,0 +1,3 @@
+﻿<Window Name="fullScreenPreviewWindow" x:Class="GraphicFilesView.FullScreenPreviewWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:GraphicFilesView" mc:Ignorable="d" Background="#1e1e1e" WindowState="Maximized" WindowStyle="None" ShowInTaskbar="False" Loaded="FullScreenPreviewWindow_Loaded" KeyUp="Window_KeyUp" MouseDown="FullScreenPreviewWindow_MouseDown">
+    <Grid Name="grid"/>
+</Window>

@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\bin\Debug\LineDescription.exe
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\bin\Debug\LineDescription.pdb
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\obj\Debug\LineDescription.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\obj\Debug\LineDescription.exe
+C:\Подготовка\C#\Lesson 6\LineDescription\LineDescription\obj\Debug\LineDescription.pdb
+C:\Подготовка\C#\Lesson 6\Task 5\LineDescription\obj\Debug\LineDescription.exe
+C:\Подготовка\C#\Lesson 6\Task 5\LineDescription\obj\Debug\LineDescription.pdb

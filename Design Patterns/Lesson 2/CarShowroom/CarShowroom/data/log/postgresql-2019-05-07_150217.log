@@ -1,0 +1,54 @@
+2019-05-07 15:02:20.166 EEST [6676] ���������:  ������� �� ���� ���������: 2019-05-07 04:12:32 EEST
+2019-05-07 15:02:21.149 EEST [5584] ���������:  ������� �� ������ ��������� �����������
+2019-05-07 15:57:47.980 EEST [5204] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 15:57:47.980 EEST [5204] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 15:57:48.260 EEST [5204] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 15:57:48.260 EEST [5204] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 15:57:48.501 EEST [5204] ОШИБКА:  отношение "dbo.EdmMetadata" не существует (символ 51)
+2019-05-07 15:57:48.501 EEST [5204] ОПЕРАТОР:  SELECT "Extent1"."Id", "Extent1"."ModelHash" FROM "dbo"."EdmMetadata" AS "Extent1" ORDER BY "Extent1"."Id" DESC  LIMIT 1
+2019-05-07 15:57:48.536 EEST [5204] ОШИБКА:  отношение "dbo.Cars" не существует (символ 52)
+2019-05-07 15:57:48.536 EEST [5204] ОПЕРАТОР:  SELECT "Extent1"."CarId", "Extent1"."CarName" FROM "dbo"."Cars" AS "Extent1"
+2019-05-07 16:00:17.391 EEST [8568] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:00:17.391 EEST [8568] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:00:17.501 EEST [8568] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:00:17.501 EEST [8568] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:00:17.713 EEST [8568] ОШИБКА:  отношение "dbo.EdmMetadata" не существует (символ 51)
+2019-05-07 16:00:17.713 EEST [8568] ОПЕРАТОР:  SELECT "Extent1"."Id", "Extent1"."ModelHash" FROM "dbo"."EdmMetadata" AS "Extent1" ORDER BY "Extent1"."Id" DESC  LIMIT 1
+2019-05-07 16:00:17.743 EEST [8568] ОШИБКА:  отношение "dbo.Cars" не существует (символ 52)
+2019-05-07 16:00:17.743 EEST [8568] ОПЕРАТОР:  SELECT "Extent1"."CarId", "Extent1"."CarName" FROM "dbo"."Cars" AS "Extent1"
+2019-05-07 16:02:08.509 EEST [2508] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:02:08.509 EEST [2508] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:02:08.626 EEST [2508] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:02:08.626 EEST [2508] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:02:08.846 EEST [2508] ОШИБКА:  отношение "dbo.EdmMetadata" не существует (символ 51)
+2019-05-07 16:02:08.846 EEST [2508] ОПЕРАТОР:  SELECT "Extent1"."Id", "Extent1"."ModelHash" FROM "dbo"."EdmMetadata" AS "Extent1" ORDER BY "Extent1"."Id" DESC  LIMIT 1
+2019-05-07 16:02:08.929 EEST [2508] ОШИБКА:  отношение "dbo.Cars" не существует (символ 52)
+2019-05-07 16:02:08.929 EEST [2508] ОПЕРАТОР:  SELECT "Extent1"."CarId", "Extent1"."CarName" FROM "dbo"."Cars" AS "Extent1"
+2019-05-07 16:17:09.967 EEST [5620] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:17:09.967 EEST [5620] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:17:10.187 EEST [5620] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:17:10.187 EEST [5620] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:17:10.372 EEST [5620] ОШИБКА:  отношение "dbo.EdmMetadata" не существует (символ 51)
+2019-05-07 16:17:10.372 EEST [5620] ОПЕРАТОР:  SELECT "Extent1"."Id", "Extent1"."ModelHash" FROM "dbo"."EdmMetadata" AS "Extent1" ORDER BY "Extent1"."Id" DESC  LIMIT 1
+2019-05-07 16:17:10.430 EEST [5620] ОШИБКА:  отношение "dbo.Cars" не существует (символ 52)
+2019-05-07 16:17:10.430 EEST [5620] ОПЕРАТОР:  SELECT "Extent1"."CarId", "Extent1"."CarName" FROM "dbo"."Cars" AS "Extent1"
+2019-05-07 16:18:22.160 EEST [8560] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:18:22.160 EEST [8560] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:18:22.248 EEST [8560] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:18:22.248 EEST [8560] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:18:22.486 EEST [8560] ОШИБКА:  отношение "dbo.EdmMetadata" не существует (символ 51)
+2019-05-07 16:18:22.486 EEST [8560] ОПЕРАТОР:  SELECT "Extent1"."Id", "Extent1"."ModelHash" FROM "dbo"."EdmMetadata" AS "Extent1" ORDER BY "Extent1"."Id" DESC  LIMIT 1
+2019-05-07 16:18:22.568 EEST [8560] ОШИБКА:  отношение "dbo.Cars" не существует (символ 52)
+2019-05-07 16:18:22.568 EEST [8560] ОПЕРАТОР:  SELECT "Extent1"."CarId", "Extent1"."CarName" FROM "dbo"."Cars" AS "Extent1"
+2019-05-07 16:24:39.363 EEST [8688] ОШИБКА:  отношение "dbo.__MigrationHistory" не существует (символ 82)
+2019-05-07 16:24:39.363 EEST [8688] ОПЕРАТОР:  SELECT "GroupBy1"."A1" AS "C1" FROM (SELECT CAST (count(1) AS int4) AS "A1" FROM "dbo"."__MigrationHistory" AS "Extent1") AS "GroupBy1"
+2019-05-07 16:51:39.201 EEST [2128] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2019-05-07 16:51:39.201 EEST [7048] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2019-05-07 16:51:46.396 EEST [5584] ���������:  ������� ������ �� ������� ����������
+2019-05-07 16:51:46.429 EEST [6888] ������:  ���������� ��������� �������� �� ������� ������������
+2019-05-07 16:51:46.570 EEST [5584] ���������:  ���������� ���� �������� ����������
+2019-05-07 16:51:46.571 EEST [5584] ���������:  ������� ������� "logical replication launcher" (PID 6888) ���������� � ����� ������ 1
+2019-05-07 16:51:46.578 EEST [6848] ���������:  ����������
+2019-05-07 16:51:51.822 EEST [5584] ���������:  ������� �� ���������

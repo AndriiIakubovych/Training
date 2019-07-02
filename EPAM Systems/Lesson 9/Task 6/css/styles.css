@@ -1,0 +1,23 @@
+﻿ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li input[type="radio"]
+{
+    width: 27px;
+    height: 17px;
+    vertical-align: middle;
+}
+
+ul li span
+{
+    font-size: 11px;
+}
+
+input[type="button"]
+{
+    margin-top: 20px;
+}

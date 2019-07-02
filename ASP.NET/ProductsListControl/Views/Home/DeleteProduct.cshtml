@@ -1,0 +1,20 @@
+﻿@model ProductsListControl.Models.Product
+
+@using (Ajax.BeginForm("DeleteProduct", null, new AjaxOptions { OnSuccess = "onDeleteProductSuccess" }, new { enctype = "multipart/form-data" }))
+{
+    <div class="modal-content">
+        <div class="modal-header">
+            <span>Удаление товара</span>
+            <button class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            <span>Данные о товаре будут безвозвратно удалены!</span>
+            @Html.HiddenFor(model => model.ProductId)
+            @Html.HiddenFor(model => model.Photo)
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-success ok" type="submit"><i class="fa fa-check"></i> Подтвердить</button>
+            <button class="btn btn-danger" data-dismiss="modal"><i class="fa fa-close"></i> Отмена</button>
+        </div>
+    </div>
+}

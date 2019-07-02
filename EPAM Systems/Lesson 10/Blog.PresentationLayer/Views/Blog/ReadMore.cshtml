@@ -1,0 +1,24 @@
+﻿@model Blog.PresentationLayer.Models.ArticleViewModel
+
+@{ string tagName; ViewBag.Title = "Article"; }
+
+<div class="content">
+    <div class="content-header">
+        <h3 class="article-content-header">@Model.ArticleName</h3>
+        <time>@Model.PublicationDate.ToShortDateString()</time>
+    </div>
+    <div class="content-text">
+        <p>@Model.ArticleContent</p>
+        @if (ViewBag.Count > 0)
+        {
+            <h4><i class="fa fa-tags"></i> Tags</h4>
+            <div class="tags">
+                @foreach (var t in ViewBag.Tags)
+                {
+                    tagName = t.TagName;
+                    @Html.ActionLink(tagName, "Index", new { tagId = t.TagId })
+                }
+            </div>
+        }
+    </div>
+</div>

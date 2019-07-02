@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Отправка и чтение JSON</title>
+    </head>
+    <body>
+        <form name="form">
+            <label>Имя:</label>
+            <input type="text" name="name"/>
+            <label>Возраст:</label>
+            <input type="number" name="age"/>
+            <button type="submit" id="submit">Отправить</button>
+        </form>
+        <script>
+            document.getElementById("submit").addEventListener("click", function (e)
+            {
+                let form, name, age, data, request;
+                e.preventDefault();
+                form = document.forms["form"];
+                name = form.elements["name"].value;
+                age = form.elements["age"].value;
+                data = JSON.stringify({ name: name, age: age });
+                request = new XMLHttpRequest();
+                request.open("POST", "/data", true);
+                request.setRequestHeader("Content-Type", "application/json");
+                request.addEventListener("load", function ()
+                {
+                    let receivedData = JSON.parse(request.response);
+                    alert(receivedData.name + " - " + receivedData.age);
+                });
+                request.send(data);
+            });
+        </script>
+    </body>
+</html>

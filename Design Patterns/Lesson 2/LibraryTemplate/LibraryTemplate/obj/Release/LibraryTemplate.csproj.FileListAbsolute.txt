@@ -1,0 +1,5 @@
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\bin\Release\LibraryTemplate.exe.config
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\bin\Release\LibraryTemplate.exe
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\bin\Release\LibraryTemplate.pdb
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\obj\Release\LibraryTemplate.exe
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\obj\Release\LibraryTemplate.pdb

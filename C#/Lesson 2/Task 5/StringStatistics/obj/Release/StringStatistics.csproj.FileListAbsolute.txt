@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\bin\Release\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\bin\Release\StringStatistics.pdb
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\obj\Release\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\obj\Release\StringStatistics.pdb
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\bin\Release\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\bin\Release\StringStatistics.pdb
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\obj\Release\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\obj\Release\StringStatistics.pdb

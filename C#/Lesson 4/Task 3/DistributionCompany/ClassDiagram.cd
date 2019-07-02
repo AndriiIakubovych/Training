@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DistributionCompany.Goods" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAQAAAAAAAAAAAAQgAAAECAAAAAABAAAAAwA=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.FoodProduct" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACgAAA=</HashCode>
+      <FileName>FoodProduct.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DistributionCompany.Food" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgACAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.Drink" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.HouseholdChemicals" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA=</HashCode>
+      <FileName>HouseholdChemicals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.HouseGoods" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAACAAAAAAAAAA=</HashCode>
+      <FileName>HouseGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.Dish" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Dish.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DistributionCompany.TobaccoProduct" Collapsed="true">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAFAAAAAQgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TobaccoProduct.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DistributionCompany.NonalcoholicDrinks" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAgAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>NonalcoholicDrinks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.AlcoholicDrink" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAEAAAAACgAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlcoholicDrink.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DistributionCompany.SafeChemicals" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SafeChemicals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.FlammableChemicals" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlammableChemicals.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DistributionCompany.SetDataImpossibilityException" Collapsed="true">
+    <Position X="7" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SetDataImpossibilityException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.WrongValueException" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WrongValueException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.NotAvailableException" Collapsed="true">
+    <Position X="6" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotAvailableException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.DefectiveGoodsException" Collapsed="true">
+    <Position X="8.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefectiveGoodsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DistributionCompany.ExpiredGoodsException" Collapsed="true">
+    <Position X="11" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpiredGoodsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

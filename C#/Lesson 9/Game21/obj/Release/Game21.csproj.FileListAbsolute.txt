@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 9\Game21\bin\Release\Game21.exe
+C:\Подготовка\C#\Lesson 9\Game21\bin\Release\Game21.pdb
+C:\Подготовка\C#\Lesson 9\Game21\obj\Release\Game21.exe
+C:\Подготовка\C#\Lesson 9\Game21\obj\Release\Game21.pdb

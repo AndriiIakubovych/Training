@@ -1,0 +1,15 @@
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\bin\Debug\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\bin\Debug\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\obj\Debug\RequestsAccounting.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\obj\Debug\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\obj\Debug\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\bin\Debug\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\bin\Debug\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\obj\Debug\RequestsAccounting.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\obj\Debug\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\obj\Debug\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\Task 2\RequestsAccounting\bin\Debug\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\Task 2\RequestsAccounting\bin\Debug\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\Task 2\RequestsAccounting\obj\Debug\RequestsAccounting.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 5\Task 2\RequestsAccounting\obj\Debug\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\Task 2\RequestsAccounting\obj\Debug\RequestsAccounting.pdb

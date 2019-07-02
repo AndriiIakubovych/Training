@@ -1,0 +1,14 @@
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\bin\Release\WorkingDays.exe
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\bin\Release\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Release\WorkingDays.MainForm.resources
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Release\WorkingDays.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Release\WorkingDays.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Release\WorkingDays.exe
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Release\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Release\WorkingDays.exe
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Release\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\bin\Release\WorkingDays.exe
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\bin\Release\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Release\WorkingDays.MainForm.resources
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Release\WorkingDays.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Release\WorkingDays.csproj.GenerateResource.Cache

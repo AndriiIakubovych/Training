@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\bin\Debug\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\bin\Debug\ColumnsSwapping.pdb
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\obj\Debug\ColumnsSwapping.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\obj\Debug\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\ColumnsSwapping\ColumnsSwapping\obj\Debug\ColumnsSwapping.pdb
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\bin\Debug\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\bin\Debug\ColumnsSwapping.pdb
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\obj\Debug\ColumnsSwapping.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\obj\Debug\ColumnsSwapping.exe
+C:\Подготовка\C#\Lesson 2\Task 4\ColumnsSwapping\obj\Debug\ColumnsSwapping.pdb

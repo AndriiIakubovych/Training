@@ -1,0 +1,34 @@
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\bin\Debug\CompanyEmployeesOperating.exe.config
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\bin\Debug\CompanyEmployeesOperating.exe
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\bin\Debug\CompanyEmployeesOperating.pdb
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.g.resources
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.exe
+C:\Подготовка\WPF\Lesson 3\CompanyEmployeesOperating\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.pdb
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\bin\Debug\CompanyEmployeesOperating.exe.config
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.exe
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.pdb
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\bin\Debug\CompanyEmployeesOperating.exe
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\bin\Debug\CompanyEmployeesOperating.pdb
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.g.resources
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\CompanyEmployeesOperating.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\AddEmployeeWindow.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\AddEmployeeWindow.baml
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\EditEmployeeWindow.g.cs
+C:\Подготовка\WPF\Lesson 3\Task 2\CompanyEmployeesOperating\obj\Debug\EditEmployeeWindow.baml

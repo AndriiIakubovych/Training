@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\bin\Debug\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\bin\Debug\SevenWorldWonders.pdb
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\obj\Debug\SevenWorldWonders.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\obj\Debug\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\SevenWorldWonders\SevenWorldWonders\obj\Debug\SevenWorldWonders.pdb
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\bin\Debug\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\bin\Debug\SevenWorldWonders.pdb
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\obj\Debug\SevenWorldWonders.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\obj\Debug\SevenWorldWonders.exe
+C:\Подготовка\C#\Lesson 3\Task 4\SevenWorldWonders\obj\Debug\SevenWorldWonders.pdb

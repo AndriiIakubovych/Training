@@ -1,0 +1,81 @@
+﻿@Scripts.Render("~/bundles/jquery-validate")
+
+@model ProductsListControl.Models.Product
+
+@{ int maxWarranty = 24; List<int> warrantiesList = new List<int>(); for (int i = 0; i <= maxWarranty; i++) { warrantiesList.Add(i); } }
+
+@using (Ajax.BeginForm("EditProduct", null, new AjaxOptions { OnSuccess = "onEditProductSuccess" }, new { enctype = "multipart/form-data" }))
+{
+    <div class="modal-content">
+        <div class="modal-header">
+            <span>Редактирование товара</span>
+            <button class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+            @Html.HiddenFor(model => model.ProductId)
+            <div class="edit-name">
+                @Html.LabelFor(model => model.ProductName, "Название товара *:")
+                @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+            @Html.ValidationMessageFor(model => model.ProductName)
+            @Html.LabelFor(model => model.ManufactureDate, "Дата изготовления *:")
+            @Html.EditorFor(model => model.ManufactureDate, new { htmlAttributes = new { id = "edit-manufacture-date", @class = "form-control", @readonly = "true" } })
+            @Html.ValidationMessageFor(model => model.ManufactureDate)
+            @Html.LabelFor(model => model.Price, "Цена (грн.) *:")
+            @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Price)
+            @if (ViewBag.Settings.HasDescription)
+            {
+                @Html.LabelFor(model => model.Description, "Описание:")
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", @min = "0" } })
+            }
+            else
+            {
+                @Html.HiddenFor(model => model.Description)
+            }
+            @if (ViewBag.Settings.HasWarranty)
+            {
+                @Html.LabelFor(model => model.Warranty, "Срок гарантии (мес.):")
+                @Html.DropDownListFor(model => model.Warranty, new SelectList(@warrantiesList), new { @class = "form-control" })
+            }
+            else
+            {
+                @Html.HiddenFor(model => model.Warranty)
+            }
+            @if (ViewBag.Settings.HasDiscount)
+            {
+                @Html.LabelFor(model => model.Discount, "Скидка (%):")
+                @Html.EditorFor(model => model.Discount, new { htmlAttributes = new { @class = "form-control", @min = "0", @max = "100" } })
+                @Html.ValidationMessageFor(model => model.Discount)
+            }
+            else
+            {
+                @Html.HiddenFor(model => model.Discount)
+            }
+            @if (ViewBag.Settings.HasWarehouseAvailability)
+            {
+                <div class="availability">@Html.EditorFor(model => model.WarehouseAvailability, new { htmlAttributes = new { @class = "form-control" } })<span>Наличие на складе</span></div>
+            }
+            else
+            {
+                @Html.HiddenFor(model => model.WarehouseAvailability)
+            }
+            @if (ViewBag.Settings.HasPhoto)
+            {
+                <div class="choose-file">
+                    @Html.LabelFor(model => model.Photo, "Путь к фотографии:")
+                    @Html.HiddenFor(model => model.Photo)
+                    <input name="file" type="file" accept="image/*"/>
+                </div>
+            }
+            else
+            {
+                @Html.HiddenFor(model => model.Photo)
+            }
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-success ok" type="submit"><i class="fa fa-check"></i> Подтвердить</button>
+            <button class="btn btn-danger" data-dismiss="modal"><i class="fa fa-close"></i> Отмена</button>
+        </div>
+    </div>
+}

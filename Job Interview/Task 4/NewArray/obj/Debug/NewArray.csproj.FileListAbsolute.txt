@@ -1,0 +1,7 @@
+C:\Подготовка\Job Interview\NewArray\NewArray\bin\Debug\NewArray.exe.config
+C:\Подготовка\Job Interview\Task 4\NewArray\bin\Debug\NewArray.exe.config
+C:\Подготовка\Job Interview\Task 4\NewArray\bin\Debug\NewArray.exe
+C:\Подготовка\Job Interview\Task 4\NewArray\bin\Debug\NewArray.pdb
+C:\Подготовка\Job Interview\Task 4\NewArray\obj\Debug\NewArray.csprojResolveAssemblyReference.cache
+C:\Подготовка\Job Interview\Task 4\NewArray\obj\Debug\NewArray.exe
+C:\Подготовка\Job Interview\Task 4\NewArray\obj\Debug\NewArray.pdb

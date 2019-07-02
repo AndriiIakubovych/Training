@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\bin\Release\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\bin\Release\StudentDescription.pdb
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\obj\Release\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\obj\Release\StudentDescription.pdb
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\bin\Release\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\bin\Release\StudentDescription.pdb
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\obj\Release\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\obj\Release\StudentDescription.pdb

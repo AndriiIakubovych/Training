@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\obj\Debug\DistributionCompany.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\bin\Debug\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\bin\Debug\DistributionCompany.pdb
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\obj\Debug\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\obj\Debug\DistributionCompany.pdb
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\bin\Debug\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\bin\Debug\DistributionCompany.pdb
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\obj\Debug\DistributionCompany.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\obj\Debug\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\obj\Debug\DistributionCompany.pdb

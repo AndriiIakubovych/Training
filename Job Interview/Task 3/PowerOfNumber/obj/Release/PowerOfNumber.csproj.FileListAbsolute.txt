@@ -1,0 +1,12 @@
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\bin\Release\PowerOfNumber.exe.config
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\bin\Release\PowerOfNumber.exe
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\bin\Release\PowerOfNumber.pdb
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\obj\Release\PowerOfNumber.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\obj\Release\PowerOfNumber.exe
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\obj\Release\PowerOfNumber.pdb
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\bin\Release\PowerOfNumber.exe.config
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\obj\Release\PowerOfNumber.exe
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\obj\Release\PowerOfNumber.pdb
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\bin\Release\PowerOfNumber.exe
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\bin\Release\PowerOfNumber.pdb
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\obj\Release\PowerOfNumber.csprojResolveAssemblyReference.cache

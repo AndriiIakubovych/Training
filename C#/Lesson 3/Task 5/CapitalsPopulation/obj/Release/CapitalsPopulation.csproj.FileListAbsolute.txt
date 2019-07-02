@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\bin\Release\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\bin\Release\CapitalsPopulation.pdb
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\obj\Release\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\CapitalsPopulation\CapitalsPopulation\obj\Release\CapitalsPopulation.pdb
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\bin\Release\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\bin\Release\CapitalsPopulation.pdb
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\obj\Release\CapitalsPopulation.exe
+C:\Подготовка\C#\Lesson 3\Task 5\CapitalsPopulation\obj\Release\CapitalsPopulation.pdb

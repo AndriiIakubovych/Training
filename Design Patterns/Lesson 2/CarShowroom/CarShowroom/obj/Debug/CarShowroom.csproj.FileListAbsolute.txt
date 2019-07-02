@@ -1,0 +1,52 @@
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\CarShowroom.exe.config
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\CarShowroom.exe
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\CarShowroom.pdb
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\EntityFramework.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\Mono.Security.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\Npgsql.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\Npgsql.EntityFramework.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\EntityFramework.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\Npgsql.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\Npgsql.EntityFramework.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\de\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\es\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\fi\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\fr\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\ja\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.exe
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.pdb
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.MainForm.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.AddCarForm.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom\CarShowroom\obj\Debug\CarShowroom.EditCarForm.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\CarShowroom.exe.config
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.exe
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.pdb
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\CarShowroom.exe
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\CarShowroom.pdb
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\EntityFramework.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\Mono.Security.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\Npgsql.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\Npgsql.EntityFramework.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\EntityFramework.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\Npgsql.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\Npgsql.EntityFramework.xml
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\de\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\es\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\fi\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\fr\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\ja\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.EditCarForm.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.AddCarForm.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.MainForm.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 33\CarShowroom — копия\CarShowroom\obj\Debug\CarShowroom.csproj.GenerateResource.Cache

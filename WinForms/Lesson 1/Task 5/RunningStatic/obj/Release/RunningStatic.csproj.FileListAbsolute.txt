@@ -1,0 +1,14 @@
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\bin\Release\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\bin\Release\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Release\RunningStatic.MainForm.resources
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Release\RunningStatic.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Release\RunningStatic.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Release\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Release\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Release\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Release\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\bin\Release\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\bin\Release\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Release\RunningStatic.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Release\RunningStatic.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Release\RunningStatic.csproj.GenerateResource.Cache

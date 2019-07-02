@@ -1,0 +1,59 @@
+﻿form
+{
+    width: 228px;
+    border-top: 5px solid #bfbfbf;
+    border-bottom: 5px solid #5a5a5a;
+    border-left: 5px solid #bfbfbf;
+    border-right: 5px solid #5a5a5a;
+    margin: 50px auto 0 auto;
+}
+
+table
+{
+    border: 1px solid #c0c0c0;
+}
+
+table td:first-child
+{
+    padding: 1px;
+}
+
+table td
+{
+    border-top: 1px solid #656565;
+    border-bottom: 1px solid #c0c0c0;
+    border-left: 1px solid #656565;
+    border-right: 1px solid #c0c0c0;
+    text-align: center;
+    padding: 3px 1px 3px 1px;
+}
+
+table td input[type="text"]
+{
+    width: 210px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: blue;
+    text-align: right;
+    outline: none;
+    margin: 0;
+    padding: 0 2px 0 2px;
+}
+
+table td input[type="button"]
+{
+    width: 35px;
+    height: 26px;
+    background-image: linear-gradient(to top, #cdcdcd, #f1f1f1);
+    border: 1px solid #777777;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 500;
+    color: blue;
+}
+
+table td input[type="button"]:active
+{
+    background-image: linear-gradient(#cdcdcd, #f1f1f1);
+}

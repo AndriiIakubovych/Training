@@ -1,0 +1,59 @@
+﻿<Window x:Class="TextFilesViewing.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:TextFilesViewing" mc:Ignorable="d" Title="Просмотр текстовых файлов" Width="780" Height="550" WindowStartupLocation="CenterScreen" Icon="icon.ico">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:CommandsContainer.Open" Executed="Open_Executed"/>
+        <CommandBinding Command="local:CommandsContainer.Exit" Executed="Exit_Executed"/>
+        <CommandBinding Command="local:CommandsContainer.ShowToolBar" Executed="ShowToolBar_Executed"/>
+        <CommandBinding Command="local:CommandsContainer.ShowStatusBar" Executed="ShowStatusBar_Executed"/>
+    </Window.CommandBindings>
+    <Window.InputBindings>
+        <KeyBinding Key="O" Modifiers="Ctrl" Command="local:CommandsContainer.Open"/>
+        <KeyBinding Key="F4" Modifiers="Alt" Command="local:CommandsContainer.Exit"/>
+    </Window.InputBindings>
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Name="open" Header="Открыть" InputGestureText="Ctrl+O" Command="local:CommandsContainer.Open">
+                    <MenuItem.Icon>
+                        <Image Source="open.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Name="exit" Header="Выход" InputGestureText="Alt+F4" Command="local:CommandsContainer.Exit">
+                    <MenuItem.Icon>
+                        <Image Source="exit.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Вид">
+                <MenuItem Name="showToolBar" Header="Панель инструментов" IsCheckable="True" IsChecked="True" Command="local:CommandsContainer.ShowToolBar"/>
+                <MenuItem Name="showStatusBar" Header="Строка состояния" IsCheckable="True" IsChecked="True" Command="local:CommandsContainer.ShowStatusBar"/>
+                <Separator/>
+                <MenuItem Name="showKeywordsItem" Header="Выделять ключевые слова" IsCheckable="True" IsChecked="True"/>
+                <MenuItem Name="showHyperlinksItem" Header="Выделять ссылки" IsCheckable="True" IsChecked="True"/>
+            </MenuItem>
+        </Menu>
+        <ToolBar Name="toolBar" DockPanel.Dock="Top">
+            <Button Width="24" Height="24" ToolTip="Открыть" Command="local:CommandsContainer.Open">
+                <Image Source="open.png"/>
+            </Button>
+            <Separator/>
+            <TextBox Name="keywords" Width="300" Foreground="Gray" Text="Введите ключевые слова через пробел" GotFocus="Keywords_GotFocus" LostFocus="Keywords_LostFocus"/>
+            <ToggleButton Name="showKeywords" Width="24" Height="24" IsChecked="{ Binding ElementName=showKeywordsItem, Path=IsChecked }" ToolTip="Выделять ключевые слова">
+                <Image Source="show-keywords.png"/>
+            </ToggleButton>
+            <ToggleButton Name="showHyperlinks" Width="24" Height="24" IsChecked="{ Binding ElementName=showHyperlinksItem, Path=IsChecked }" ToolTip="Выделять ссылки">
+                <Image Source="show-hyperlinks.png"/>
+            </ToggleButton>
+            <Separator/>
+            <Button Width="24" Height="24" ToolTip="Выход" Command="local:CommandsContainer.Exit">
+                <Image Source="exit.png"/>
+            </Button>
+        </ToolBar>
+        <StatusBar Name="statusBar" DockPanel.Dock="Bottom">
+            <TextBlock Name="statusBarText" Text="Готово"/>
+        </StatusBar>
+        <FlowDocumentReader Name="documentReader">
+            <FlowDocument/>
+        </FlowDocumentReader>
+    </DockPanel>
+</Window>

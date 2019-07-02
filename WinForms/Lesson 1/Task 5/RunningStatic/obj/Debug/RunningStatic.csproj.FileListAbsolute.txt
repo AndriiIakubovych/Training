@@ -1,0 +1,16 @@
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\bin\Debug\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\bin\Debug\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Debug\RunningStatic.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Debug\RunningStatic.MainForm.resources
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Debug\RunningStatic.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Debug\RunningStatic.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Debug\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\RunningStatic\RunningStatic\obj\Debug\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Debug\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Debug\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\bin\Debug\RunningStatic.exe
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\bin\Debug\RunningStatic.pdb
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Debug\RunningStatic.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Debug\RunningStatic.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Debug\RunningStatic.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 5\RunningStatic\obj\Debug\RunningStatic.csproj.GenerateResource.Cache

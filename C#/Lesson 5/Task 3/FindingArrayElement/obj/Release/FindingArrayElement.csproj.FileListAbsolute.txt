@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\bin\Release\FindingArrayElement.exe
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\bin\Release\FindingArrayElement.pdb
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\obj\Release\FindingArrayElement.exe
+C:\Подготовка\C#\Lesson 5\FindingArrayElement\FindingArrayElement\obj\Release\FindingArrayElement.pdb

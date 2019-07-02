@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="js/main.js"></script>
+        <title>Лошади</title>
+    </head>
+    <body>
+        <div class="horse-info invisible">
+            <h4>Лошадь по имени</h4>
+            <img src="images/horse.png" alt="Лошадь"/>
+            <form>
+                <input type="button" value="Бежать" onclick="runHorse()"/>
+                <input type="button" value="Пробег" onclick="getHorseMileage()"/>
+            </form>
+        </div>
+        <form id="total">
+            <input type="button" value="Создать лошадь" onclick="createHorse()"/>
+            <input type="button" value="Общий пробег" onclick="getHorsesTotalMileage()"/>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,41 @@
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.pdb
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.pdb
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Подготовка\EPAM Systems\Blog2\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.pdb
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.dll
+C:\Подготовка\EPAM Systems\Blog2 — копия\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.pdb
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.pdb
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.dll
+C:\Подготовка\EPAM Systems\Lesson 10\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.pdb

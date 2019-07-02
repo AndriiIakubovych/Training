@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\bin\Release\CountriesDictionary.exe
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\bin\Release\CountriesDictionary.pdb
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\obj\Release\CountriesDictionary.exe
+C:\Подготовка\C#\Lesson 6\CountriesDictionary\CountriesDictionary\obj\Release\CountriesDictionary.pdb

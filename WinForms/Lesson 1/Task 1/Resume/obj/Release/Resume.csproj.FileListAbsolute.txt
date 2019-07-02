@@ -1,0 +1,12 @@
+C:\Подготовка\C#\Lesson 10\Resume\Resume\bin\Release\Resume.exe
+C:\Подготовка\C#\Lesson 10\Resume\Resume\bin\Release\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Release\Resume.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Release\Resume.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Release\Resume.exe
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Release\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Release\Resume.exe
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Release\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\bin\Release\Resume.exe
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\bin\Release\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Release\Resume.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Release\Resume.csproj.GenerateResource.Cache

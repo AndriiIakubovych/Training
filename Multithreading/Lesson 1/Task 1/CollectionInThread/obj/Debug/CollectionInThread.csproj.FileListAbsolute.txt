@@ -1,0 +1,15 @@
+C:\Подготовка\C#\Lesson 36\CollectionInThread\CollectionInThread\bin\Debug\CollectionInThread.exe.config
+C:\Подготовка\C#\Lesson 36\CollectionInThread\CollectionInThread\bin\Debug\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 36\CollectionInThread\CollectionInThread\bin\Debug\CollectionInThread.pdb
+C:\Подготовка\C#\Lesson 36\CollectionInThread\CollectionInThread\obj\Debug\CollectionInThread.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 36\CollectionInThread\CollectionInThread\obj\Debug\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 36\CollectionInThread\CollectionInThread\obj\Debug\CollectionInThread.pdb
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\bin\Debug\CollectionInThread.exe.config
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\obj\Debug\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\obj\Debug\CollectionInThread.pdb
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\bin\Debug\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\bin\Debug\CollectionInThread.pdb
+C:\Подготовка\C#\Lesson 36\Task 1\CollectionInThread\obj\Debug\CollectionInThread.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\Task 1\CollectionInThread\bin\Debug\CollectionInThread.exe.config
+C:\Подготовка\C#\Lesson 26\Task 1\CollectionInThread\obj\Debug\CollectionInThread.exe
+C:\Подготовка\C#\Lesson 26\Task 1\CollectionInThread\obj\Debug\CollectionInThread.pdb

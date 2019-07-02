@@ -1,0 +1,8 @@
+SELECT Books.Press_id, Press_name, SUM(Pages_count) AS Pages_count_sum FROM Books, Press WHERE Books.Press_id = Press.Press_id GROUP BY Books.Press_id, Press.Press_name;
+SELECT COUNT(Book_id) AS Faculty_books_count FROM StudentsCards, Students, Groups, Faculties WHERE Faculty_name = 'Программирования' AND StudentsCards.Student_id = Students.Student_id AND Students.Group_id = Groups.Group_id AND Groups.Faculty_id = Faculties.Faculty_id;
+SELECT COUNT(Book_id) AS Press_books_count, SUM(Pages_count) AS Pages_sum FROM Books, Press WHERE Press_name IN ('Питер', 'Наука', 'Кудиц-Образ') AND Books.Press_id = Press.Press_id GROUP BY Press_name;
+SELECT * FROM Books WHERE Pages_count = (SELECT MAX(Pages_count) FROM Books, Themes WHERE Theme_name = 'Программирование' AND Books.Theme_id = Themes.Theme_id);
+SELECT COUNT(Book_id) AS Department_taken_books_count, Department_name FROM TeachersCards, Teachers, Departments WHERE TeachersCards.Teacher_id = Teachers.Teacher_id AND Teachers.Department_id = Departments.Department_id GROUP BY Department_name;
+SELECT Books.Press_id, Press_name, MIN(Press_year) AS The_oldest_book_year FROM Books, Press WHERE Books.Press_id = Press.Press_id GROUP BY Books.Press_id, Press_name;
+SELECT DISTINCT Books.Book_id, Book_name FROM Books, TeachersCards, StudentsCards WHERE TeachersCards.Book_id = Books.Book_id AND StudentsCards.Book_id = Books.Book_id;
+SELECT Book_name FROM Books WHERE Pages_count IN (SELECT MAX(Pages_count) FROM Books GROUP BY Press_id);

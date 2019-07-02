@@ -1,0 +1,17 @@
+C:\Подготовка\C#\Lesson 26\EditorTemplate\EditorTemplate\bin\Debug\EditorTemplate.exe.config
+C:\Подготовка\C#\Lesson 26\EditorTemplate\EditorTemplate\bin\Debug\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 26\EditorTemplate\EditorTemplate\bin\Debug\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 26\EditorTemplate\EditorTemplate\obj\Debug\EditorTemplate.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\EditorTemplate\EditorTemplate\obj\Debug\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 26\EditorTemplate\EditorTemplate\obj\Debug\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\bin\Debug\EditorTemplate.exe.config
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\obj\Debug\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\obj\Debug\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\bin\Debug\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\bin\Debug\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\obj\Debug\EditorTemplate.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\obj\Debug\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\obj\Debug\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\bin\Debug\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\bin\Debug\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\obj\Debug\EditorTemplate.csprojResolveAssemblyReference.cache

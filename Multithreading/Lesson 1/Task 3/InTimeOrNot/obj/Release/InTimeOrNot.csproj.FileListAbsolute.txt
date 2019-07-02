@@ -1,0 +1,5 @@
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\bin\Release\InTimeOrNot.exe.config
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\bin\Release\InTimeOrNot.exe
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\bin\Release\InTimeOrNot.pdb
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\obj\Release\InTimeOrNot.exe
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\obj\Release\InTimeOrNot.pdb

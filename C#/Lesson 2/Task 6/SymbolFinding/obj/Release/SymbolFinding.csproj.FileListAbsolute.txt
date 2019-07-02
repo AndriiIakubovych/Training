@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\bin\Release\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\bin\Release\SymbolFinding.pdb
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\obj\Release\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\obj\Release\SymbolFinding.pdb
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\bin\Release\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\bin\Release\SymbolFinding.pdb
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\obj\Release\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\obj\Release\SymbolFinding.pdb

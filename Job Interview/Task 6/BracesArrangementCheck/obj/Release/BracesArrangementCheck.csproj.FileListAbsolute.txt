@@ -1,0 +1,5 @@
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\bin\Release\BracesArrangementCheck.exe.config
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\bin\Release\BracesArrangementCheck.exe
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\bin\Release\BracesArrangementCheck.pdb
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\obj\Release\BracesArrangementCheck.exe
+C:\Подготовка\Job Interview\BracesArrangementCheck\BracesArrangementCheck\obj\Release\BracesArrangementCheck.pdb

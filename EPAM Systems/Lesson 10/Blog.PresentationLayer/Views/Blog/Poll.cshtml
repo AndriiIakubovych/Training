@@ -1,0 +1,54 @@
+﻿@model Blog.PresentationLayer.Models.VoteViewModel
+
+<div class="poll">
+    <div class="poll-header">
+        <h3>Poll</h3>
+    </div>
+    @using (Ajax.BeginForm("Poll", new AjaxOptions { OnSuccess = "onSuccess" }))
+    {
+        <p class="poll-question">What is the best video card manufacturer?</p>
+        <div class="actions">
+            <div class="poll-variants">
+                <div class="poll-variant">@Html.RadioButtonFor(model => model.VoteName, "Asus", new { @checked = true })<span>Asus</span></div>
+                <div class="poll-variant">@Html.RadioButtonFor(model => model.VoteName, "MSI")<span>MSI</span></div>
+                <div class="poll-variant">@Html.RadioButtonFor(model => model.VoteName, "EVGA Corporation")<span>EVGA Corporation</span></div>
+                <div class="poll-variant">@Html.RadioButtonFor(model => model.VoteName, "Gigabyte")<span>Gigabyte</span></div>
+            </div>
+            <input type="submit" value="Vote"/>
+        </div>
+        <div class="results">
+            <div class="poll-answers">
+                <div>
+                    <p>Asus:</p>
+                    <div class="poll-answer asus-answer">
+                        <div class="line" style="width: @ViewBag.AsusVotesPercent%"></div>
+                        <span>@ViewBag.AsusVotesPercent%</span>
+                    </div>
+                </div>
+                <div>
+                    <p>MSI:</p>
+                    <div class="poll-answer msi-answer">
+                        <div class="line" style="width: @ViewBag.MSIVotesPercent%"></div>
+                        <span>@ViewBag.MSIVotesPercent%</span>
+                    </div>
+                </div>
+                <div>
+                    <p>EVGA Corporation:</p>
+                    <div class="poll-answer evga-answer">
+                        <div class="line" style="width: @ViewBag.EVGAVotesPercent%"></div>
+                        <span>@ViewBag.EVGAVotesPercent%</span>
+                    </div>
+                </div>
+                <div>
+                    <p>Gigabyte:</p>
+                    <div class="poll-answer gigabyte-answer">
+                        <div class="line" style="width: @ViewBag.GigabyteVotesPercent%"></div>
+                        <span>@ViewBag.GigabyteVotesPercent%</span>
+                    </div>
+                </div>
+            </div>
+            <p class="total">Total votes: <span>@ViewContext.Controller.ViewBag.Count</span></p>
+        </div>
+    }
+    <p class="poll-view">View results</p>
+</div>

@@ -1,0 +1,9 @@
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\bin\Release\EditorTemplate.exe.config
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\bin\Release\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\bin\Release\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\obj\Release\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 26\Task 1\EditorTemplate\obj\Release\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\obj\Release\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\obj\Release\EditorTemplate.pdb
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\bin\Release\EditorTemplate.exe
+C:\Подготовка\C#\Lesson 32\Task 1\EditorTemplate\bin\Release\EditorTemplate.pdb

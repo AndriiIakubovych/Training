@@ -1,0 +1,29 @@
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\bin\Debug\GraphicEditorProject.exe.config
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\bin\Debug\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\bin\Debug\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\obj\Debug\GraphicEditorProject.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\obj\Debug\GraphicEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\obj\Debug\GraphicEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\obj\Debug\GraphicEditorProject.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\obj\Debug\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject\GraphicEditorProject\obj\Debug\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\bin\Debug\GraphicEditorProject.exe.config
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\bin\Debug\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\bin\Debug\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 32\GraphicEditorProject — копия\GraphicEditorProject\obj\Debug\GraphicEditorProject.YesNoCancelForm.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\bin\Debug\GraphicEditorProject.exe.config
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\bin\Debug\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\bin\Debug\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.YesNoCancelForm.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Debug\GraphicEditorProject.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\bin\Release\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\bin\Release\ComplexNumber.pdb
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\obj\Release\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\ComplexNumber\ComplexNumber\obj\Release\ComplexNumber.pdb
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\bin\Release\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\bin\Release\ComplexNumber.pdb
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\obj\Release\ComplexNumber.exe
+C:\Подготовка\C#\Lesson 3\Task 6\ComplexNumber\obj\Release\ComplexNumber.pdb

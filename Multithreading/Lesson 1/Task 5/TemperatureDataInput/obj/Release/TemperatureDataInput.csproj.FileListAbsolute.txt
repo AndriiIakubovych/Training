@@ -1,0 +1,9 @@
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\bin\Release\TemperatureDataInput.exe.config
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\bin\Release\TemperatureDataInput.exe
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\bin\Release\TemperatureDataInput.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Release\TemperatureDataInput.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Release\TemperatureDataInput.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Release\TemperatureDataInput.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Release\TemperatureDataInput.exe
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Release\TemperatureDataInput.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureDataInput\obj\Release\TemperatureDataInput.csprojResolveAssemblyReference.cache

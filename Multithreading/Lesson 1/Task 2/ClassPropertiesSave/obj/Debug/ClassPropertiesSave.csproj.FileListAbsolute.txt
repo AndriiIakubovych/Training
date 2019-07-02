@@ -1,0 +1,13 @@
+C:\Подготовка\C#\Lesson 36\ClassPropertiesSave\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.exe.config
+C:\Подготовка\C#\Lesson 36\Task 2\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.exe.config
+C:\Подготовка\C#\Lesson 36\Task 2\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.exe
+C:\Подготовка\C#\Lesson 36\Task 2\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.pdb
+C:\Подготовка\C#\Lesson 36\Task 2\ClassPropertiesSave\obj\Debug\ClassPropertiesSave.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 36\Task 2\ClassPropertiesSave\obj\Debug\ClassPropertiesSave.exe
+C:\Подготовка\C#\Lesson 36\Task 2\ClassPropertiesSave\obj\Debug\ClassPropertiesSave.pdb
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.exe.config
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\obj\Debug\ClassPropertiesSave.exe
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\obj\Debug\ClassPropertiesSave.pdb
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.exe
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\bin\Debug\ClassPropertiesSave.pdb
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\obj\Debug\ClassPropertiesSave.csprojResolveAssemblyReference.cache

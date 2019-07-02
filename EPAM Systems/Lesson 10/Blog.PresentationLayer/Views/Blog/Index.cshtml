@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Blog.PresentationLayer.Models.ArticleViewModel>
+
+@{ int maxContentLength = 200; ViewBag.Title = "Main Page"; }
+
+@if (ViewBag.Tag != null)
+{
+    <p class="tag-name"><i class="fa fa-tag"></i> Tag: @ViewBag.Tag.TagName</p>
+}
+@foreach (var item in Model)
+{
+    <div class="content">
+        <div class="content-header">
+            <h3 class="article-content-header">@item.ArticleName</h3>
+        </div>
+        <div class="content-text">
+            @if (item.ArticleContent.Length <= maxContentLength)
+            {
+                <p>@item.ArticleContent</p>
+            }
+            else
+            {
+                <p>@(item.ArticleContent.Substring(0, maxContentLength - 1) + "...")</p>
+            }
+            <div class="bottom-info">
+                @Html.ActionLink("Read more", "ReadMore", new { articleId = item.ArticleId })
+                <time>@item.PublicationDate.ToShortDateString()</time>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,31 @@
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\bin\Debug\UsersAccounting.exe.config
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\bin\Debug\UsersAccounting.exe
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\bin\Debug\UsersAccounting.pdb
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\obj\Debug\UsersAccounting.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\obj\Debug\UsersAccounting.MainForm.resources
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\obj\Debug\UsersAccounting.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\obj\Debug\UsersAccounting.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\obj\Debug\UsersAccounting.exe
+C:\Подготовка\C#\Lesson 19\UsersAccounting\UsersAccounting\obj\Debug\UsersAccounting.pdb
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\bin\Debug\UsersAccounting.exe.config
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.exe
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.pdb
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\bin\Debug\UsersAccounting.exe
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\bin\Debug\UsersAccounting.pdb
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.AddUserForm.resources
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.MainForm.resources
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 19\Task 1\UsersAccounting\obj\Debug\UsersAccounting.EditUserForm.resources
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\bin\Debug\UsersAccounting.exe.config
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.exe
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.pdb
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\bin\Debug\UsersAccounting.exe
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\bin\Debug\UsersAccounting.pdb
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.AddUserForm.resources
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.EditUserForm.resources
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.MainForm.resources
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 23\Task 1\UsersAccounting\obj\Debug\UsersAccounting.csproj.GenerateResource.Cache

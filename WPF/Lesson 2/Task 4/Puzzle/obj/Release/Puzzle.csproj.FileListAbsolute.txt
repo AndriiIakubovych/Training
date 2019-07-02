@@ -1,0 +1,28 @@
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\bin\Release\Puzzle.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\bin\Release\Puzzle.exe
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\bin\Release\Puzzle.pdb
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle.exe
+C:\Подготовка\WPF\Lesson 2\Task 4 — копия\Puzzle\obj\Release\Puzzle.pdb
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\bin\Release\Puzzle.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle.exe
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle.pdb
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\bin\Release\Puzzle.exe
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\bin\Release\Puzzle.pdb
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 4\Puzzle\obj\Release\Puzzle.csproj.GenerateResource.Cache

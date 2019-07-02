@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 4\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 4\Figures\Figures\bin\Debug\Figures.exe
+C:\Подготовка\C#\Lesson 4\Figures\Figures\bin\Debug\Figures.pdb
+C:\Подготовка\C#\Lesson 4\Figures\Figures\obj\Debug\Figures.exe
+C:\Подготовка\C#\Lesson 4\Figures\Figures\obj\Debug\Figures.pdb
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\bin\Debug\Figures.exe
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\bin\Debug\Figures.pdb
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\obj\Debug\Figures.exe
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\obj\Debug\Figures.pdb

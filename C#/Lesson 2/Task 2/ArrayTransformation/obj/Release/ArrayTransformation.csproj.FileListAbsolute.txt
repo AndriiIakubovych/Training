@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\bin\Release\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\bin\Release\ArrayTransformation.pdb
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\obj\Release\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\ArrayTransformation\ArrayTransformation\obj\Release\ArrayTransformation.pdb
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\bin\Release\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\bin\Release\ArrayTransformation.pdb
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\obj\Release\ArrayTransformation.exe
+C:\Подготовка\C#\Lesson 2\Task 2\ArrayTransformation\obj\Release\ArrayTransformation.pdb

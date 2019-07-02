@@ -1,0 +1,6 @@
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\bin\Release\NumberGuessing.exe
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\bin\Release\NumberGuessing.pdb
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Release\NumberGuessing.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Release\NumberGuessing.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Release\NumberGuessing.exe
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Release\NumberGuessing.pdb

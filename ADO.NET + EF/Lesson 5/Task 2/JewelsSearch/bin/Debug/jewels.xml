@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="jewels.xsd">
+  <jewel>
+    <name>Аквамарин</name>
+    <color>Голубой</color>
+    <transparency>Да</transparency>
+    <type>Полудрагоценный</type>
+    <description>Является разновидностью берилла</description>
+  </jewel>
+  <jewel>
+    <name>Гранат</name>
+    <color>Зелёный</color>
+    <transparency>Нет</transparency>
+    <type>Полудрагоценный</type>
+    <description>Очень ценный минерал, имеющий множество разновидностей</description>
+  </jewel>
+  <jewel>
+    <name>Сардоникс</name>
+    <color>Розовый</color>
+    <transparency>Нет</transparency>
+    <type>Подделочный</type>
+    <description>Является разновидностью агата с характерными белыми или тёмными полосами</description>
+  </jewel>
+  <jewel>
+    <name>Сердолик</name>
+    <color>Красный</color>
+    <transparency>Да</transparency>
+    <type>Полудрагоценный</type>
+    <description>Является разновидностью халцедона</description>
+  </jewel>
+  <jewel>
+    <name>Топаз</name>
+    <color>Голубой</color>
+    <transparency>Да</transparency>
+    <type>Полудрагоценный</type>
+    <description>Прозрачный минерал, имеющий правильно огранённые столбчатые кристаллы</description>
+  </jewel>
+  <jewel>
+    <name>Хризолит</name>
+    <color>Зелёный</color>
+    <transparency>Нет</transparency>
+    <type>Полудрагоценный</type>
+    <description>Минерал вулканического происхождения, с неофициальным названием "рождённый в огне"</description>
+  </jewel>
+  <jewel>
+    <name>Александрит</name>
+    <color>Зелёный</color>
+    <transparency>Нет</transparency>
+    <type>Драгоценный</type>
+    <description>Является разновидностью хризоберилла</description>
+  </jewel>
+  <jewel>
+    <name>Алмаз</name>
+    <color>Зелёный</color>
+    <transparency>Нет</transparency>
+    <type>Драгоценный</type>
+    <description>Является самым твёрдым, блестящим, износостойким и не теряющим со временем своих свойств</description>
+  </jewel>
+  <jewel>
+    <name>Изумруд</name>
+    <color>Зелёный</color>
+    <transparency>Да</transparency>
+    <type>Драгоценный</type>
+    <description>Является прозрачной разновидностью берилла зелёных тонов</description>
+  </jewel>
+  <jewel>
+    <name>Рубин</name>
+    <color>Коричневый</color>
+    <transparency>Да</transparency>
+    <type>Драгоценный</type>
+    <description>Является камнем Солнца и одним из нескольких королей ювелирной промышленности</description>
+  </jewel>
+  <jewel>
+    <name>Турмалин</name>
+    <color>Красный</color>
+    <transparency>Да</transparency>
+    <type>Драгоценный</type>
+    <description>Проявляет свою красоту камень только в дневное время, когда он играет в лучах солнца</description>
+  </jewel>
+  <jewel>
+    <name>Шпинель</name>
+    <color>Красный</color>
+    <transparency>Нет</transparency>
+    <type>Драгоценный</type>
+    <description>Цвет красного минерала связан с присутствием в нём хрома, желтоватый оттенок даёт железо, а лилово-красный – марганец</description>
+  </jewel>
+</data>

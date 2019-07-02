@@ -1,0 +1,5 @@
+SELECT Marks.Student_id, Student_name, COUNT(Marks.Student_id) AS Marks_count FROM Marks, Students WHERE Mark_value = 2 AND Marks.Student_id = Students.Student_id GROUP BY Marks.Student_id, Student_name HAVING COUNT(Marks.Student_id) >= 3;
+CREATE VIEW SecondView AS SELECT Student_id, COUNT(Mark_value) AS Marks_count FROM Marks WHERE Mark_value = 5 GROUP BY Student_id;
+SELECT FirstView.Student_id, SecondView.Marks_count FROM FirstView LEFT JOIN SecondView ON FirstView.Student_id = SecondVIew.Student_id;
+DROP VIEW FirstView;
+DROP VIEW SecondView;

@@ -1,0 +1,6 @@
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\bin\Debug\LibraryTemplate.exe.config
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\bin\Debug\LibraryTemplate.exe
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\bin\Debug\LibraryTemplate.pdb
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\obj\Debug\LibraryTemplate.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\obj\Debug\LibraryTemplate.exe
+C:\Подготовка\C#\Lesson 33\LibraryTemplate\LibraryTemplate\obj\Debug\LibraryTemplate.pdb

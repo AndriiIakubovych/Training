@@ -1,0 +1,14 @@
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\bin\Release\MouseInformation.exe
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\bin\Release\MouseInformation.pdb
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\obj\Release\MouseInformation.MainForm.resources
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\obj\Release\MouseInformation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\obj\Release\MouseInformation.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\obj\Release\MouseInformation.exe
+C:\Подготовка\C#\Lesson 10\MouseInformation\MouseInformation\obj\Release\MouseInformation.pdb
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\obj\Release\MouseInformation.exe
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\obj\Release\MouseInformation.pdb
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\bin\Release\MouseInformation.exe
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\bin\Release\MouseInformation.pdb
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\obj\Release\MouseInformation.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\obj\Release\MouseInformation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 3\MouseInformation\obj\Release\MouseInformation.csproj.GenerateResource.Cache

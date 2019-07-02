@@ -1,0 +1,9 @@
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\bin\Release\GraphicEditorProject.exe.config
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\bin\Release\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\bin\Release\GraphicEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Release\GraphicEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Release\GraphicEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Release\GraphicEditorProject.YesNoCancelForm.resources
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Release\GraphicEditorProject.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Release\GraphicEditorProject.exe
+C:\Подготовка\C#\Lesson 32\Task 3\GraphicEditorProject\obj\Release\GraphicEditorProject.pdb

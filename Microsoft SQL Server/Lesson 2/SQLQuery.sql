@@ -1,0 +1,12 @@
+SELECT * FROM Books WHERE Press_name NOT LIKE 'BHV%' AND Pressrun >= 3000;
+SELECT * FROM Books WHERE New = 1 AND Price < 30;
+SELECT * FROM Books WHERE Book_name LIKE '% % % % %';
+SELECT * FROM Books WHERE Book_name LIKE '%Microsoft%' AND Book_name NOT LIKE '%Windows%';
+SELECT * FROM Books WHERE Price / Pages_count < 0.1 AND Pages_count <> 0;
+DELETE FROM Books WHERE Book_name LIKE '%6%' OR Book_name LIKE '%7%';
+SELECT Book_id, Book_name, Price / 26.48941 AS Dollar_price FROM Books WHERE New = 1;
+UPDATE Books SET Publication_date = DATEADD(year, 4, Publication_date);
+SELECT * FROM Books WHERE YEAR(Publication_date) = 2000 AND Price > 30;
+UPDATE Books SET New = 0;
+INSERT INTO Books (Book_id, Book_code, New, Book_name, Price, Press_name, Pages_count, Format, Publication_date, Pressrun, Theme_name, Category_name) VALUES (768, 4296, 1, 'Понимание SQL', 562.13, 'Лори', 664, '70x100/32', '10/06/2003', 7000, 'Программирование', 'SQL');
+INSERT INTO Books (Book_id, Book_code, New, Book_name, Price, Press_name, Pages_count, Format, Publication_date, Pressrun, Theme_name, Category_name) VALUES (769, 4325, 1, 'Основы ООП', 512.78, 'Лори', 348, '70x100/32', '11/07/2003', 3000, 'Программирование', 'C++');

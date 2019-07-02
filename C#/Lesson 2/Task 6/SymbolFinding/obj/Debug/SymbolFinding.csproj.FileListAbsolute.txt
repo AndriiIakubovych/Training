@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\bin\Debug\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\bin\Debug\SymbolFinding.pdb
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\obj\Debug\SymbolFinding.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\obj\Debug\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\SymbolFinding\SymbolFinding\obj\Debug\SymbolFinding.pdb
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\bin\Debug\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\bin\Debug\SymbolFinding.pdb
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\obj\Debug\SymbolFinding.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\obj\Debug\SymbolFinding.exe
+C:\Подготовка\C#\Lesson 2\Task 6\SymbolFinding\obj\Debug\SymbolFinding.pdb

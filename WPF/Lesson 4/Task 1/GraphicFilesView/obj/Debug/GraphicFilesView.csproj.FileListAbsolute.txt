@@ -1,0 +1,131 @@
+C:\Подготовка\WPF\Lesson 4\GraphicFilesView\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Lesson 1\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\FolderDialog.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\FolderDialog.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\FolderDialog.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\FolderDialog.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\FolderDialog.baml
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\FolderDialog.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\ImagePreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\ImagePreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\ImagePreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\ImagePreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\FolderDialog.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\FolderDialog.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\ImagePreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\ImagePreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2)\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\FolderDialog.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\FolderDialog.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\ImagePreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\ImagePreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe.config
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\bin\Debug\GraphicFilesView.exe
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\bin\Debug\GraphicFilesView.pdb
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\FolderDialog.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\FolderDialog.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\ImagePreviewWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\FullScreenPreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\ImagePreviewWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.g.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 4\Task 1 — копия (2) — копия — копия\GraphicFilesView\obj\Debug\GraphicFilesView.csproj.GenerateResource.Cache

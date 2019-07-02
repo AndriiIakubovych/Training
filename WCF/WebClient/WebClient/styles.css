@@ -1,0 +1,647 @@
+﻿body
+{
+    font-family: Calibri;
+}
+
+button
+{
+    outline: none !important;
+}
+
+.main
+{
+    width: 100%;
+    min-width: 725px;
+    justify-content: center;
+    display: flex;
+}
+
+.content
+{
+    width: 725px;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    display: flex;
+}
+
+.content #Calendar
+{
+    width: 300px;
+    background-color: #0097c4;
+    border: none !important;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.content #Calendar tr
+{
+    background-color: #0097c4;
+}
+
+.content #Calendar tr:first-child
+{
+    color: white;
+}
+
+.content #Calendar tr:first-child td:first-child
+{
+    background-color: #002d35;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.content #Calendar tr:first-child td:nth-child(2)
+{
+    background-color: #002d35;
+    border-left: 1px solid #002d35;
+    border-right: 1px solid #002d35;
+    border-radius: 0;
+    margin: 0;
+}
+
+.content #Calendar tr:first-child td:nth-child(3)
+{
+    background-color: #002d35;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.content #Calendar tr:first-child a
+{
+    color: white !important;
+}
+
+.content #Calendar tr:nth-child(2)
+{
+    background-color: #0097c4;
+    color: white;
+}
+
+.content #Calendar td
+{
+    background-color: white;
+    border-radius: 2px;
+}
+
+.content #Calendar a
+{
+    text-decoration: none;
+}
+
+.content #NotesList
+{
+    width: 411px;
+    border: 1px solid #707070;
+    font-size: 15px;
+    overflow-y: scroll;
+}
+
+.content .operations
+{
+    margin-top: 14px;
+    display: block;
+}
+
+.content .operations #Add
+{
+    width: 300px;
+    height: 30px;
+    background: url(../images/add.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 100px;
+    border: 1px solid #707070;
+    border-radius: 3px;
+    font-size: 14px;
+    outline: none !important;
+    padding-left: 35px;
+    display: block;
+}
+
+.content .operations #NewAdd
+{
+    width: 300px;
+    height: 30px;
+    background: url(../images/disabled-add.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 100px;
+    border: 1px solid #707070;
+    border-radius: 3px;
+    font-size: 14px;
+    padding-left: 35px;
+    outline: none;
+    display: block;
+}
+
+.content .selected #Add:hover
+{
+    border: 1px solid black;
+}
+
+.content .selected #Add:active
+{
+    background-color: #eeeeee;
+}
+
+.content .operations #Edit
+{
+    width: 300px;
+    height: 30px;
+    background: url(../images/edit.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 85px;
+    border: 1px solid #707070;
+    border-radius: 3px;
+    font-size: 14px;
+    margin: 14px 0 14px 0;
+    outline: none !important;
+    padding-left: 35px;
+    display: block;
+}
+
+.content .operations #NewEdit
+{
+    width: 300px;
+    height: 30px;
+    background: url(../images/disabled-edit.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 85px;
+    border: 1px solid #707070;
+    border-radius: 3px;
+    font-size: 14px;
+    margin: 14px 0 14px 0;
+    padding-left: 35px;
+    outline: none;
+    display: block;
+}
+
+.content .selected #Edit:hover
+{
+    border: 1px solid black;
+}
+
+.content .selected #Edit:active
+{
+    background-color: #eeeeee;
+}
+
+.content .operations #Delete
+{
+    width: 300px;
+    height: 30px;
+    background: url(../images/delete.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 105px;
+    border: 1px solid #707070;
+    border-radius: 3px;
+    font-size: 14px;
+    outline: none !important;
+    padding-left: 35px;
+    display: block;
+}
+
+.content .operations #NewDelete
+{
+    width: 300px;
+    height: 30px;
+    background: url(../images/disabled-delete.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 105px;
+    border: 1px solid #707070;
+    border-radius: 3px;
+    font-size: 14px;
+    padding-left: 35px;
+    outline: none;
+    display: block;
+}
+
+.content .selected #Delete:hover
+{
+    border: 1px solid black;
+}
+
+.content .selected #Delete:active
+{
+    background-color: #eeeeee;
+}
+
+.content .info
+{
+    width: 411px;
+    margin-top: 14px;
+    display: block;
+}
+
+.content .info #Done
+{
+    font-size: 14px;
+    margin: 0 5px 10px 0;
+}
+
+.content .info #Description
+{
+    width: 411px;
+    height: 90px !important;
+    border: 1px solid #707070;
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight: normal;
+    resize: none;
+    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+#DataErrorInfo
+{
+    font-size: 18px;
+    color: red;
+    margin-top: 12px;
+    display: block;
+}
+
+#AddWindow .overlay
+{
+    background: black;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+#AddWindow .dialog
+{
+    background: white;
+    border-radius: 7px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    overflow: hidden;
+    margin: -184px 0 0 -129px;
+    z-index: 2;
+}
+
+#AddWindow .dialog .title
+{
+    width: 100%;
+    height: 24px;
+    background-color: #0097c4;
+    padding: 0 8px 0 8px;
+}
+
+#AddWindow .dialog .title span
+{
+    font-size: 18px;
+    color: white;
+}
+
+#AddWindow .dialog #AddNoteNameText
+{
+    margin: 12px 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddNoteName
+{
+    width: 258px;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddBeginningTimeText
+{
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddBeginningTime
+{
+    width: 258px;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddEndTimeText
+{
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddEndTime
+{
+    width: 258px;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddDescriptionText
+{
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddDescription
+{
+    width: 258px;
+    resize: none;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddError
+{
+    color: red;
+    font-size: 14px;
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#AddWindow .dialog #AddOk
+{
+    width: 125px;
+    height: 20px;
+    background: url(../images/ok.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 10px;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    margin: 14px 0 14px 14px;
+    padding-left: 25px;
+    float: left;
+}
+
+#AddWindow .dialog #AddOk:hover
+{
+    border: 1px solid #767676;
+}
+
+#AddWindow .dialog #AddOk:active
+{
+    background-color: #eeeeee;
+}
+
+#AddWindow .dialog #AddCancel
+{
+    width: 125px;
+    height: 20px;
+    background: url(../images/cancel.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 25px;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    margin: 14px 14px 14px 0;
+    padding-left: 20px;
+    float: right;
+}
+
+#AddWindow .dialog #AddCancel:hover
+{
+    border: 1px solid #767676;
+}
+
+#AddWindow .dialog #AddCancel:active
+{
+    background-color: #eeeeee;
+}
+
+#EditWindow .overlay
+{
+    background: black;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+#EditWindow .dialog
+{
+    background: white;
+    border-radius: 7px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    overflow: hidden;
+    margin: -184px 0 0 -129px;
+    z-index: 2;
+}
+
+#EditWindow .dialog .title
+{
+    width: 100%;
+    height: 24px;
+    background-color: #0097c4;
+    padding: 0 8px 0 8px;
+}
+
+#EditWindow .dialog .title span
+{
+    font-size: 18px;
+    color: white;
+}
+
+#EditWindow .dialog #EditNoteNameText
+{
+    margin: 12px 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditNoteName
+{
+    width: 258px;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditBeginningTimeText
+{
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditBeginningTime
+{
+    width: 258px;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditEndTimeText
+{
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditEndTime
+{
+    width: 258px;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditDescriptionText
+{
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditDescription
+{
+    width: 258px;
+    resize: none;
+    margin: 0 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditError
+{
+    color: red;
+    font-size: 12px;
+    margin: 14px 14px 0 14px;
+    display: block;
+}
+
+#EditWindow .dialog #EditOk
+{
+    width: 125px;
+    height: 20px;
+    background: url(../images/ok.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 10px;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    margin: 14px 0 14px 14px;
+    padding-left: 25px;
+    float: left;
+}
+
+#EditWindow .dialog #EditOk:hover
+{
+    border: 1px solid #767676;
+}
+
+#EditWindow .dialog #EditCancel:active
+{
+    background-color: #eeeeee;
+}
+
+#EditWindow .dialog #EditCancel
+{
+    width: 125px;
+    height: 20px;
+    background: url(../images/cancel.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 25px;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    margin: 14px 14px 14px 0;
+    padding-left: 20px;
+    float: right;
+}
+
+#EditWindow .dialog #EditCancel:hover
+{
+    border: 1px solid #767676;
+}
+
+#EditWindow .dialog #EditCancel:active
+{
+    background-color: #eeeeee;
+}
+
+#DeleteWindow .overlay
+{
+    background: black;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+#DeleteWindow .dialog
+{
+    background: white;
+    border-radius: 7px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    overflow: hidden;
+    margin: -51px 0 0 -189px;
+    z-index: 2;
+}
+
+#DeleteWindow .dialog .title
+{
+    width: 100%;
+    height: 24px;
+    background-color: #0097c4;
+    padding: 0 8px 0 8px;
+}
+
+#DeleteWindow .dialog .title span
+{
+    font-size: 18px;
+    color: white;
+}
+
+#DeleteWindow .dialog #DeleteText
+{
+    margin: 12px 14px 0 14px;
+    display: block;
+}
+
+#DeleteWindow .dialog #DeleteYes
+{
+    width: 168px;
+    height: 20px;
+    background: url(../images/ok.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 65px;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    margin: 14px 0 14px 14px;
+    padding-left: 25px;
+    float: left;
+}
+
+#DeleteWindow .dialog #DeleteYes:hover
+{
+    border: 1px solid #767676;
+}
+
+#DeleteWindow .dialog #DeleteNo:active
+{
+    background-color: #eeeeee;
+}
+
+#DeleteWindow .dialog #DeleteNo
+{
+    width: 168px;
+    height: 20px;
+    background: url(../images/cancel.png) no-repeat left;
+    background-color: #e2e2e2;
+    background-position-x: 62px;
+    border: 1px solid #a9a9a9;
+    border-radius: 2px;
+    margin: 14px 14px 14px 0;
+    padding-left: 25px;
+    float: right;
+}
+
+#DeleteWindow .dialog #DeleteNo:hover
+{
+    border: 1px solid #767676;
+}
+
+#DeleteWindow .dialog #DeleteNo:active
+{
+    background-color: #eeeeee;
+}

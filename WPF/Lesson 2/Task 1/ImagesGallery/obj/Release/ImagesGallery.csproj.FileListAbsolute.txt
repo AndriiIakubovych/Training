@@ -1,0 +1,16 @@
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\bin\Release\ImagesGallery.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\bin\Release\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\bin\Release\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ProgressWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ProgressWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Release\ImagesGallery.csprojResolveAssemblyReference.cache

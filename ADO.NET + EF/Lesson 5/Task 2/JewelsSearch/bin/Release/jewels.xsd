@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="boolType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="Да|Нет"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="jewelryType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="Драгоценный|Полудрагоценный|Подделочный"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="data">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="jewel" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="color" type="xs:string"/>
+              <xs:element name="transparency" type="boolType"/>
+              <xs:element name="type" type="jewelryType"/>
+              <xs:element name="description" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

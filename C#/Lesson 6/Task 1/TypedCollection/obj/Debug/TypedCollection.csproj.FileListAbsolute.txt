@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\bin\Debug\TypedCollection.exe
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\bin\Debug\TypedCollection.pdb
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\obj\Debug\TypedCollection.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\obj\Debug\TypedCollection.exe
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\obj\Debug\TypedCollection.pdb
+C:\Подготовка\C#\Lesson 6\Task 1\TypedCollection\obj\Debug\TypedCollection.exe
+C:\Подготовка\C#\Lesson 6\Task 1\TypedCollection\obj\Debug\TypedCollection.pdb

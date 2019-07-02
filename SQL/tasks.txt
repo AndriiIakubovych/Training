@@ -1,0 +1,117 @@
+1.1. CREATE TABLE Customers (cnum INTEGER, cname CHAR(10), city CHAR(10), rating INTEGER, snum INTEGER);
+1.2. ALTER TABLE Customers DROP rating;
+1.3. DROP TABLE Customers CASCADE;
+
+2.1. CREATE TABLE Orders (onum INTEGER NOT NULL PRIMARY KEY, amt DECIMAL, odate DATE NOT NULL, cnum INTEGER NOT NULL, snum INTEGER NOT NULL, UNIQUE (cnum, snum));
+2.2. CREATE TABLE Salespeople (snum INTEGER NOT NULL PRIMARY KEY, sname CHAR(15) NOT NULL, city CHAR(15), comm DECIMAL NOT NULL DEFAULT = 0.1);
+2.3. CREATE TABLE Orders (onum INTEGER NOT NULL PRIMARY KEY, amt DECIMAL, odate DATE, cnum NOT NULL INTEGER, snum NOT NULL INTEGER, CHECK (onum > cnum AND cnum > snum));
+
+3.1. CREATE TABLE CityOrders (onum INTEGER NOT NULL PRIMARY KEY, amt DECIMAL, snum INTEGER, cnum INTEGER, city CHAR(15), FOREIGN KEY (onum, amt, snum) REFERENCES Orders (onum, amt, snum), FOREIGN KEY (cnum, city) REFERENCES Customers (cnum, city));
+3.2. CREATE TABLE Orders (onum INTEGER NOT NULL, amt DECIMAL, odate DATE NOT NULL, cnum INTEGER NOT NULL, snum INTEGER, prev INTEGER, UNIQUE (cnum, onum), FOREIGN KEY (cnum, prev) REFERENCES Orders (cnum, onum));
+3.3. CREATE TABLE Items (inum INTEGER NOT NULL PRIMARY KEY, iname CHAR(15) NOT NULL, price DECIMAL, onum INTEGER NOT NULL REFERENCES Orders);
+3.4. CREATE TABLE Customers (cnum INTEGER NOT NULL PRIMARY KEY, cname CHAR(10) NOT NULL, city CHAR(10), rating INTEGER, snum INTEGER REFERENCES Salespeople ON UPDATE CASCADE ON DELETE SET NULL);
+
+4.1. INSERT INTO Salespeople (city, name, comm, snum) VALUES ('San Jose', 'Blanco', NULL, 1100);
+4.2. DELETE FROM Orders WHERE cnum = 2006;
+4.3. UPDATE Customers SET rating = rating + 100 WHERE city = 'Rome';
+4.4. UPDATE Customers SET snum = 1004 WHERE snum = 1002;
+
+5.1. SELECT onum, amt, odate FROM Orders;
+5.2. SELECT * FROM Customers WHERE snum = 1001;
+5.3. SELECT city, sname, snum, comm FROM Salespeople;
+5.4. SELECT DISTINCT snum FROM Orders;
+5.5. SELECT sname FROM Salespeople WHERE city = 'London' AND comm > 0.1;
+5.6. SELECT * FROM Customers WHERE NOT (rating <= 100 AND city <> 'Rome');
+5.7. 	Номер заказа	Сумма приобретения ($)	Дата приобретения	Номер заказчика	Номер продавца
+	3001		18,69			10.03.2000		2008		1007
+	3003		767,19			10.03.2000		2001		1001
+	3005		5160,45			10.03.2000		2003		1002
+	3007		75,75			10.04.2000		2004		1002
+	3008		4723			10.05.2000		2006		1001
+	3009		1713,23			10.04.2000		2002		1003
+	3010		1309,95			10.06.2000		2004		1002
+	3011		9891,88			10.06.2000		2006		1001
+5.8.	Номер заказа	Сумма приобретения ($)	Дата приобретения	Номер заказчика	Номер продавца
+	3001		18,69			10.03.2000		2008		1007
+	3003		767,19			10.03.2000		2001		1001
+	3006		1098,16			10.03.2000		2008		1007
+	3007		75,75			10.04.2000		2004		1002
+	3008		4723			10.05.2000		2006		1001
+	3009		1713,23			10.04.2000		2002		1003
+	3010		1309,95			10.06.2000		2004		1002
+	3011		9891,88			10.06.2000		2006		1001
+5.9. SELECT * FROM Salespeople;
+
+6.1. SELECT * FROM Orders WHERE odate IN ('10.03.2000', '10.04.2000');
+     SELECT * FROM Orders WHERE odate BETWEEN '10.03.2000' AND '10.04.2000';
+6.2. SELECT * FROM Customers WHERE cname BETWEEN 'A' AND 'GZ';
+6.3. SELECT * FROM Customers WHERE (cname LIKE 'C%') OR (cname LIKE 'c%');
+6.4. SELECT * FROM Orders WHERE amt <> 0 OR (amt IS NOT NULL);
+6.5. SELECT COUNT(*) FROM Orders WHERE odate = '10.03.2000';
+6.6. SELECT COUNT(DISTINCT city) FROM Customers;
+6.7. SELECT cnum, MIN(amt) FROM Orders GROUP BY cnum;
+6.8. SELECT MIN(cname) FROM Customers WHERE cname LIKE 'G%';
+6.9. SELECT city, MAX(rating) FROM Customers GROUP BY city;
+6.10. SELECT odate, COUNT(DISTINCT snum) FROM Orders GROUP BY odate;
+
+7.1. SELECT onum, snum, amt * 0.12 AS ocomm FROM Orders;
+7.2. SELECT 'For the city', city, ', the highest rating is:', MAX(rating) FROM Customers GROUP BY city;
+7.3. SELECT rating, cname, cnum FROM Customers ORDER BY rating DESC;
+7.4. SELECT odate, SUM(amt) FROM Orders GROUP BY odate ORDER BY 2 DESC;
+7.5. SELECT cnum, cname, CASE city WHEN 'London' THEN 'Brussels' ELSE city END FROM Customers;
+7.6. UPDATE Customers SET rating = COALESCE(rating, 0) + 100;
+
+8.1. SELECT onum, cname FROM Orders, Customers WHERE Orders.cnum = Customers.cnum;
+8.2. SELECT cname, sname, comm FROM Customers, Salespeople WHERE Customers.snum = Salespeople.snum AND comm > 0.12;
+8.3. SELECT onum, cname, sname, amt * comm AS ocomm FROM Orders, Customers, Salespeople WHERE rating > 100 AND Orders.cnum = Customers.cnum AND Orders.snum = Salespeople.snum;
+8.4. SELECT a.sname, b.sname FROM Salespeople a, Salespeople b WHERE a.city = b.city AND a.snum < b.snum;
+8.5. SELECT a.cname, a.city FROM Customers a, Customers b WHERE a.rating = b.rating AND b.cnum = 2001;
+8.6. SELECT under.empno, under.name, over.name FROM Employees under LEFT OUTER JOIN Employees over ON under.manager = over.empno;
+8.7. Для исключения комбинаций покупателя с самим собой, а также строк, в которых значения повторяются в обратном порядке.
+
+9.1. SELECT * FROM Orders WHERE cnum = (SELECT cnum FROM Customers WHERE cname = 'Cisneros');
+9.2. SELECT DISTINCT cname, rating FROM Orders, Customers WHERE amt > (SELECT AVG(amt) FROM Orders) AND Orders.cnum = Customers.cnum;
+9.3. SELECT snum, SUM(amt) FROM Orders GROUP BY snum HAVING SUM(amt) > (SELECT MAX(amt) FROM Orders);
+9.4. SELECT cnum, cname FROM Customers a WHERE rating = (SELECT MAX(rating) FROM Customers b WHERE b.city = a.city);
+9.5. SELECT DISTINCT a.snum, sname FROM Salespeople a, Customers b WHERE a.snum <> b.snum AND a.city = b.city;
+     SELECT snum, sname FROM Salespeople a WHERE city IN (SELECT city FROM Customers b WHERE b.snum <> a.snum);
+     Первый способ более элегантен.
+
+10.1. SELECT * FROM Salespeople a WHERE EXISTS (SELECT * FROM Customers b WHERE rating = 300 AND b.snum = a.snum);
+10.2. SELECT Salespeople.snum, sname, Salespeople.city, comm FROM Salespeople, Customers WHERE rating = 300 AND Salespeople.snum = Customers.snum;
+10.3. SELECT * FROM Salespeople a WHERE EXISTS (SELECT * FROM Customers b WHERE b.city = a.city AND b.snum <> a.snum);
+10.4. SELECT * FROM Customers a WHERE EXISTS (SELECT * FROM Orders b WHERE b.cnum <> a.cnum AND b.snum = a.snum);
+10.5. SELECT * FROM Customers WHERE rating >= ANY (SELECT rating FROM Customers WHERE snum = 1002);
+10.6.	Номер заказчика	 Имя заказчика	Город	   Рейтинг	Номер продавца
+	2002		 Giovanni	Rome	   200		1003
+	2003		 Liu		San Jose   200		1002
+	2004		 Grass		Berlin	   300		1002
+	2008		 Cisneros	San Jose   300		1007
+10.7. SELECT * FROM Salespeople WHERE city <> ALL (SELECT city FROM Customers);
+10.8. SELECT * FROM Orders WHERE amt > ALL (SELECT amt FROM Orders a, Customers b WHERE a.cnum = b.cnum AND b.city = 'London');
+10.9. SELECT * FROM Orders WHERE amt > (SELECT MAX(amt) FROM Orders a, Customers b WHERE a.cnum = b.cnum AND b.city = 'London');
+
+11.1. SELECT cname, city, rating, 'High rating' AS position FROM Customers WHERE rating >= 200 UNION SELECT cname, city, rating, 'Low rating' FROM Customers WHERE rating < 200 OR rating IS NULL;
+11.2. SELECT snum, sname FROM Salespeople a WHERE (SELECT COUNT(*) FROM Orders b WHERE b.snum = a.snum) > 1 UNION SELECT cnum, cname FROM Customers a WHERE (SELECT COUNT(*) FROM Orders b WHERE b.cnum = a.snum) > 1 ORDER BY 2;
+11.3. SELECT snum FROM Salespeople WHERE city = 'San Jose' UNION (SELECT cnum FROM Customers WHERE city = 'San Jose' UNION ALL SELECT onum FROM Orders WHERE odate = '10.03.2000');
+11.4. SELECT snum, sname FROM Salespeople WHERE city = 'London' INTERSECT SELECT a.snum, sname FROM Customers a, Salespeople b WHERE city = 'London' AND a.snum = b.snum;
+11.5. SELECT snum, cnum FROM Orders WHERE amt > 1000 EXCEPT a.snum, cnum FROM Salespeople a, Customers b WHERE a.snum = b.snum AND a.city = b.city;
+
+12.1. CREATE VIEW MaxRatings AS SELECT * FROM Customers WHERE rating = (SELECT MAX(rating) FROM Customers);
+12.2. CREATE VIEW SalesCount AS SELECT city, COUNT(*) AS count FROM Salespeople GROUP BY city;
+12.3. CREATE VIEW DailyOrders AS SELECT sname, AVG(amt) AS average, SUM(amt) AS total FROM Salespeople, Orders WHERE Orders.snum = Salespeople.snum GROUP BY sname;
+12.4. CREATE VIEW Multicust AS SELECT * FROM Salespeople a WHERE (SELECT COUNT(*) FROM Customers b WHERE b.snum = a.snum) > 1;
+
+13.1. Представление 4.
+13.2. CREATE VIEW Commissions AS SELECT snum, comm FROM Salespeople WHERE comm BETWEEN 0.10 AND 0.20 WITH CHECK OPTION;
+13.3. CREATE VIEW DateOrders AS SELECT * FROM Orders WHERE odate = '10.03.2000';
+      CREATE VIEW HighDateOrders AS SELECT * FROM DateOrders WHERE amt >= 1000 WITH LOCAL CHECK OPTION;
+13.4. Нет.
+
+14.1. GRANT UPDATE(rating) ON Customers TO Janet;
+14.2. GRANT SELECT ON Orders TO Stephen WITH GRANT OPTION;
+14.3. REVOKE INSERT ON Salespeople FROM Claire CASCADE;
+14.4. CREATE VIEW JerryView AS SELECT * FROM Customers WHERE rating BETWEEN 100 AND 500 WITH CHECK OPTION;
+      GRANT INSERT, UPDATE ON JerryView TO Jerry;
+14.5. CREATE VIEW JanetView AS SELECT * FROM Customers WHERE rating = (SELECT MIN(rating) FROM Customers) WITH CHECK OPTION;
+      GRANT SELECT, UPDATE ON JanetView TO Janet;

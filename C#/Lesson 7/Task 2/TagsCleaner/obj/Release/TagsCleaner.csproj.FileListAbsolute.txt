@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\bin\Release\TagsCleaner.exe
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\bin\Release\TagsCleaner.pdb
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\obj\Release\TagsCleaner.exe
+C:\Подготовка\C#\Lesson 7\TagsCleaner\TagsCleaner\obj\Release\TagsCleaner.pdb

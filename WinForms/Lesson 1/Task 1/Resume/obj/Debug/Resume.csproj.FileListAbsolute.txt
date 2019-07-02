@@ -1,0 +1,14 @@
+C:\Подготовка\C#\Lesson 10\Resume\Resume\bin\Debug\Resume.exe
+C:\Подготовка\C#\Lesson 10\Resume\Resume\bin\Debug\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Debug\Resume.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Debug\Resume.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Debug\Resume.exe
+C:\Подготовка\C#\Lesson 10\Resume\Resume\obj\Debug\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Debug\Resume.exe
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Debug\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\bin\Debug\Resume.exe
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\bin\Debug\Resume.pdb
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Debug\Resume.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 1\Resume\obj\Debug\Resume.csproj.GenerateResource.Cache

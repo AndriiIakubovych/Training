@@ -1,0 +1,10 @@
+﻿.request
+{
+    margin-bottom: 2px;
+    display: block;
+}
+
+input[type="number"]
+{
+    width: 80px;
+}

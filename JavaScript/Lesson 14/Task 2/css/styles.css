@@ -1,0 +1,314 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    min-width: 1100px;
+    height: 100%;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: Arial;
+    margin: 0;
+}
+
+.main
+{
+    width: calc(80% - 20px);
+    height: calc(100% - 10px);
+    background-color: white;
+    box-shadow: 2px 5px 16px 0 rgba(74, 74, 74, 0.17);
+    margin: 0 auto 0 auto;
+    padding: 10px 10px 0 10px;
+}
+
+.main header
+{
+    width: 100%;
+    height: 130px;
+    background-image: url(../images/header-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+}
+
+.main header .left
+{
+    width: 20%;
+}
+
+.main header .left img
+{
+    height: 110px;
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+}
+
+.main header .center
+{
+    width: 60%;
+    text-align: right;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.main header .center h1
+{
+    font-size: 22px;
+    color: white;
+}
+
+.main header .center p
+{
+    font-size: 14px;
+    color: #f8dc16;
+}
+
+.main header .center img
+{
+    margin-left: 20px;
+}
+
+.main header .right
+{
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.main header .right div
+{
+    width: 70px;
+}
+
+.main header .right p
+{
+    font-size: 12px;
+    color: white;
+    line-height: 20px;
+}
+
+.main header .right img
+{
+    width: 100px;
+    height: 110px;
+}
+
+.main .content
+{
+    width: calc(100% - 42px);
+    height: 195px;
+    border: 1px solid #cdedff;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 20px;
+    display: flex;
+}
+
+.main .content .left
+{
+    width: 200px;
+    text-align: center;
+}
+
+.main .content .left .city
+{
+    font-size: 20px;
+    color: #84b322;
+    text-transform: uppercase;
+}
+
+.main .content .left select
+{
+    width: 95px;
+    background: url(../images/arrow.png) 100% / 7px no-repeat white;
+    border: none;
+    color: #3bb3e4;
+    outline: none;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.main .content .left select:-moz-focusring
+{
+    color: transparent;
+    text-shadow: 0 0 0 #3bb3e4;
+}
+
+.main .content .left select::-ms-expand
+{
+    display: none;
+}
+
+.main .content .left select option
+{
+    color: black;
+}
+
+.main .content .left .current-date
+{
+    font-size: 30px;
+    color: #b21e32;
+    margin-top: 12px;
+}
+
+.main .content .left .weather-image img
+{
+    width: 110px;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+.main .content .center
+{
+    width: 200px;
+    text-align: center;
+}
+
+.main .content .center .current-weather
+{
+    color: #3bb3e4;
+}
+
+.main .content .center .current-time
+{
+    font-size: 12px;
+    color: #3bb3e4;
+    margin-top: 5px;
+}
+
+.main .content .center .equal
+{
+    font-size: 35px;
+    color: #90b4c9;
+    margin-top: 12px;
+}
+
+.main .content .center .current-temperature
+{
+    font-size: 28px;
+    color: #00a0e4;
+    margin-top: 5px;
+}
+
+.main .content .center table
+{
+    font-size: 12px;
+    text-align: left;
+    margin: 0 auto 0 auto;
+}
+
+.main .content .center table tr td:last-child
+{
+    padding-left: 10px;
+}
+
+.main .content .center table tr td span
+{
+    font-size: 14px;
+    color: #c4540a;
+}
+
+.main .content .right
+{
+    width: 600px;
+}
+
+.main .content .right table
+{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+
+.main .content .right table tr td
+{
+    border: 1px solid #dbdddf;
+    text-align: center;
+}
+
+.main .content .right table tr td:first-child
+{
+    text-align: left;
+    padding: 0 5px 0 5px;
+}
+
+.main .content .right table tr:first-child td:first-child
+{
+    font-size: 16px;
+    color: #3bb3e4;
+}
+
+.main .content .right table tr .night
+{
+    color: #3bb3e4;
+    text-align: center !important;
+}
+
+.main .content .right table tr .day
+{
+    color: #c4540a;
+}
+
+.main .content .right table tr .dark
+{
+    background-color: #f6fbfe;
+}
+
+.main .content .right table tr td .date
+{
+    font-size: 18px;
+    color: #b21e32;
+}
+
+.main .content .right table tr td .day-name
+{
+    color: #3bb3e4;
+}
+
+.main .content .right table tr td img
+{
+    width: 40px;
+    display: block;
+}
+
+.main .map-header
+{
+    width: 100%;
+    background-image: linear-gradient(to top, #53a3d7, #a4d7f7);
+    text-align: center;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+.main .map-header h2
+{
+    font-size: 16px;
+    color: white;
+}
+
+.main .map
+{
+    height: calc(100% - 429px);
+    background-image: url(../images/map.png);
+    background-repeat: no-repeat;
+    background-size: 75vh 100%;
+    background-position: center;
+}
+
+@media (max-width: 1100px) 
+{
+    body
+    {
+        background-size: 1100px 100%;
+    }
+}

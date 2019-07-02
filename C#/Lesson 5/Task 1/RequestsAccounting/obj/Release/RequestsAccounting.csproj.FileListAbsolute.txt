@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\bin\Release\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\bin\Release\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\obj\Release\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\RequestsAccounting\RequestsAccounting\obj\Release\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\bin\Release\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\bin\Release\RequestsAccounting.pdb
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\obj\Release\RequestsAccounting.exe
+C:\Подготовка\C#\Lesson 5\Task 1\RequestsAccounting\obj\Release\RequestsAccounting.pdb

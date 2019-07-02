@@ -1,0 +1,5 @@
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\bin\Release\ClassPropertiesSave.exe.config
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\bin\Release\ClassPropertiesSave.exe
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\bin\Release\ClassPropertiesSave.pdb
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\obj\Release\ClassPropertiesSave.exe
+C:\Подготовка\C#\Lesson 26\Task 2\ClassPropertiesSave\obj\Release\ClassPropertiesSave.pdb

@@ -1,0 +1,5 @@
+C:\Подготовка\C#\Lesson 5\Task 4\Library\bin\Release\Library.exe.config
+C:\Подготовка\C#\Lesson 5\Task 4\Library\bin\Release\Library.exe
+C:\Подготовка\C#\Lesson 5\Task 4\Library\bin\Release\Library.pdb
+C:\Подготовка\C#\Lesson 5\Task 4\Library\obj\Release\Library.exe
+C:\Подготовка\C#\Lesson 5\Task 4\Library\obj\Release\Library.pdb

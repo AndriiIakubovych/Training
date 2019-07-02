@@ -1,0 +1,5 @@
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\bin\Release\EmployeesSalaryCalculation.exe.config
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\bin\Release\EmployeesSalaryCalculation.exe
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\bin\Release\EmployeesSalaryCalculation.pdb
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\obj\Release\EmployeesSalaryCalculation.exe
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\obj\Release\EmployeesSalaryCalculation.pdb

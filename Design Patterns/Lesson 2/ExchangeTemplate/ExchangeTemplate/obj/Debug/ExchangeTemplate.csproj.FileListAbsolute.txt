@@ -1,0 +1,6 @@
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\bin\Debug\ExchangeTemplate.exe.config
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\bin\Debug\ExchangeTemplate.exe
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\bin\Debug\ExchangeTemplate.pdb
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\obj\Debug\ExchangeTemplate.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\obj\Debug\ExchangeTemplate.exe
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\obj\Debug\ExchangeTemplate.pdb

@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\bin\Release\TypedCollection.exe
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\bin\Release\TypedCollection.pdb
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\obj\Release\TypedCollection.exe
+C:\Подготовка\C#\Lesson 6\TypedCollection\TypedCollection\obj\Release\TypedCollection.pdb

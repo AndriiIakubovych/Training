@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\bin\Debug\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\bin\Debug\FractionOperations.pdb
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\obj\Debug\FractionOperations.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\obj\Debug\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\obj\Debug\FractionOperations.pdb
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\bin\Debug\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\bin\Debug\FractionOperations.pdb
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\obj\Debug\FractionOperations.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\obj\Debug\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\obj\Debug\FractionOperations.pdb

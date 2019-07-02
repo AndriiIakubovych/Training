@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jquery-validate")
+        @Scripts.Render("~/bundles/custom")
+        <title>@ViewBag.Title</title>
+    </head>
+    <body>
+        <header id="top">
+            <a href="@Url.Action("Index")"><img src="../../Content/Images/logo.png" alt="Logo"/></a>
+            <a href="@Url.Action("Index")">
+                <div class="logo">
+                    <h1 class="logo-text">Software<span class="gray">Blog</span></h1>
+                    <h2 class="slogan">The latest news about computer technology</h2>
+                </div>
+            </a>
+        </header>
+        <main>
+            <content class="main-body">
+                @RenderBody()
+                @RenderSection("scripts", required: false)
+            </content>
+            <div class="right-sidebar">
+                <menu>
+                    <div class="menu-header">
+                        <h3>Menu</h3>
+                    </div>
+                    <div class="menu-list">
+                        <ul>
+                            <li>@Html.ActionLink("Main page", "Index")</li>
+                            <li>@Html.ActionLink("Guest page", "Guest")</li>
+                            <li>@Html.ActionLink("Questionnaire", "Questionnaire")</li>
+                        </ul>
+                    </div>
+                </menu>
+                @{ var controllerName = string.Empty; var actionName = string.Empty; object controllerObject, actionObject; if (ViewContext.RouteData.Values.TryGetValue("controller", out controllerObject)) { controllerName = controllerObject.ToString(); } if (ViewContext.RouteData.Values.TryGetValue("action", out actionObject)) { actionName = actionObject.ToString(); } }
+                @if (controllerName == "Blog" && actionName == "Index")
+                {
+                    @Html.Action("Poll", "Blog")
+                }
+            </div>
+        </main>
+        <footer>
+            <p>&copy; 2017 Software Development Inc.</p>
+            <a class="scroll" href="#top">Back to Top &uarr;</a>
+        </footer>
+    </body>
+</html>

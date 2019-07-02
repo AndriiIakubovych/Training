@@ -1,0 +1,14 @@
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Подготовка\C#\Lesson 10\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Debug\NumberGuessing.pdb
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Debug\NumberGuessing.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Debug\NumberGuessing.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 2\NumberGuessing\obj\Debug\NumberGuessing.csproj.GenerateResource.Cache

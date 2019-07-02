@@ -1,0 +1,16 @@
+C:\Подготовка\C#\Lesson 10\Statics\Statics\bin\Debug\Statics.exe
+C:\Подготовка\C#\Lesson 10\Statics\Statics\bin\Debug\Statics.pdb
+C:\Подготовка\C#\Lesson 10\Statics\Statics\obj\Debug\Statics.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Statics\Statics\obj\Debug\Statics.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Statics\Statics\obj\Debug\Statics.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Statics\Statics\obj\Debug\Statics.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\Statics\Statics\obj\Debug\Statics.exe
+C:\Подготовка\C#\Lesson 10\Statics\Statics\obj\Debug\Statics.pdb
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Debug\Statics.exe
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Debug\Statics.pdb
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\bin\Debug\Statics.exe
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\bin\Debug\Statics.pdb
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Debug\Statics.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Debug\Statics.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Debug\Statics.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 4\Statics\obj\Debug\Statics.csproj.GenerateResource.Cache

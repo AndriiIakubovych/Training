@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\bin\Debug\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\bin\Debug\NumberInArray.pdb
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\obj\Debug\NumberInArray.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\obj\Debug\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\NumberInArray\NumberInArray\obj\Debug\NumberInArray.pdb
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\bin\Debug\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\bin\Debug\NumberInArray.pdb
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\obj\Debug\NumberInArray.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\obj\Debug\NumberInArray.exe
+C:\Подготовка\C#\Lesson 2\Task 3\NumberInArray\obj\Debug\NumberInArray.pdb

@@ -1,0 +1,5 @@
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\bin\Release\ExchangeTemplate.exe.config
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\bin\Release\ExchangeTemplate.exe
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\bin\Release\ExchangeTemplate.pdb
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\obj\Release\ExchangeTemplate.exe
+C:\Подготовка\C#\Lesson 33\ExchangeTemplate\ExchangeTemplate\obj\Release\ExchangeTemplate.pdb

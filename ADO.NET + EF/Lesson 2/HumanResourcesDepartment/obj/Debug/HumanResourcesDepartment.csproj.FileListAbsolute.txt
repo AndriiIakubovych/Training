@@ -1,0 +1,33 @@
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.MainForm.resources
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.Properties.Resources.resources
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.csproj.GenerateResource.Cache
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\bin\Debug\HumanResourcesDepartment.exe
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\bin\Debug\HumanResourcesDepartment.pdb
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.exe
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.pdb
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.AddEmployeeForm.resources
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.EditEmployeeForm.resources
+C:\Подготовка\C#\HumanResourcesDepartment\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.UsersRightsForm.resources
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\bin\Debug\HumanResourcesDepartment.exe
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\bin\Debug\HumanResourcesDepartment.pdb
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.AddEmployeeForm.resources
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.EditEmployeeForm.resources
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.MainForm.resources
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.UsersRightsForm.resources
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.exe
+C:\Подготовка\C#\Lesson 17\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.pdb
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.exe
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.pdb
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\bin\Debug\HumanResourcesDepartment.exe
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\bin\Debug\HumanResourcesDepartment.pdb
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.AddEmployeeForm.resources
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.EditEmployeeForm.resources
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.MainForm.resources
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.UsersRightsForm.resources
+C:\Подготовка\C#\Lesson 21\HumanResourcesDepartment\obj\Debug\HumanResourcesDepartment.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\bin\Release\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\bin\Release\FractionOperations.pdb
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\obj\Release\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\FractionOperations\FractionOperations\obj\Release\FractionOperations.pdb
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\bin\Release\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\bin\Release\FractionOperations.pdb
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\obj\Release\FractionOperations.exe
+C:\Подготовка\C#\Lesson 3\Task 7\FractionOperations\obj\Release\FractionOperations.pdb

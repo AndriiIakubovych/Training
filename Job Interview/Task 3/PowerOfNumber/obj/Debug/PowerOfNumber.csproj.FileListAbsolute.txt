@@ -1,0 +1,16 @@
+C:\Подготовка\C#\PowerOfNumber\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Подготовка\C#\Test Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
+C:\Подготовка\C#\Job Interview\Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Подготовка\C#\Job Interview\Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Подготовка\C#\Job Interview\Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+C:\Подготовка\Job Interview\Task 3\PowerOfNumber\obj\Debug\PowerOfNumber.csprojResolveAssemblyReference.cache

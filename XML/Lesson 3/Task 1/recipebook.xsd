@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:annotation>
+    <xs:documentation xml:lang="ru">
+      Данная схема предназначена для описания структуры XML-документа, содержащего данные о рецептах
+      Автор Якубович А. В.
+    </xs:documentation>
+  </xs:annotation>
+  <xs:element name="recipes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="recipe" maxOccurs="unbounded">
+          <xs:annotation>
+            <xs:documentation xml:lang="ru">Описание рецепта</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="title" type="xs:string"/>
+              <xs:element name="photo" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+              <xs:element name="ingredients">
+                <xs:annotation>
+                  <xs:documentation xml:lang="ru">Список ингредиентов</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ingredient" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="item" type="xs:string"/>
+                          <xs:element name="quantity">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:float">
+                                  <xs:attribute name="unit" type="xs:string" use="required"/>
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element ref="recipes" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="preparation">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="complexity" type="xs:string" use="optional"/>
+                      <xs:attribute name="preparation-time" type="xs:integer" use="optional"/>
+                      <xs:attribute name="additional-characteristics" type="xs:string" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="serving" type="xs:integer" minOccurs="0"/>
+              <xs:element name="energy" minOccurs="0">
+                <xs:annotation>
+                  <xs:documentation xml:lang="ru">Информация о калорийности блюда</xs:documentation>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:all>
+                    <xs:element name="proteins" type="xs:float"/>
+                    <xs:element name="fats" type="xs:float"/>
+                    <xs:element name="carbs" type="xs:float"/>
+                    <xs:element ref="recipes" minOccurs="0"/>
+                  </xs:all>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

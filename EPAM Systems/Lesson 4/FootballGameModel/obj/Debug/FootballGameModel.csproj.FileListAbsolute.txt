@@ -1,0 +1,7 @@
+C:\Подготовка\EPAM Systems\FootballGameModel\FootballGameModel\bin\Debug\FootballGameModel.exe.config
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\bin\Debug\FootballGameModel.exe.config
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\bin\Debug\FootballGameModel.exe
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\bin\Debug\FootballGameModel.pdb
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\obj\Debug\FootballGameModel.csprojResolveAssemblyReference.cache
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\obj\Debug\FootballGameModel.exe
+C:\Подготовка\EPAM Systems\Lesson 4\FootballGameModel\obj\Debug\FootballGameModel.pdb

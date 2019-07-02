@@ -1,0 +1,12 @@
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\bin\Release\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\bin\Release\SquaresInRectangle.pdb
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\obj\Release\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\SquaresInRectangle\SquaresInRectangle\obj\Release\SquaresInRectangle.pdb
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Release\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Release\SquaresInRectangle.pdb
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Release\SquaresInRectangle.exe
+C:\Подготовка\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Release\SquaresInRectangle.pdb
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Release\SquaresInRectangle.exe
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\obj\Release\SquaresInRectangle.pdb
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Release\SquaresInRectangle.exe
+E:\Подготовка2\C#\Lesson 1\Task 1\SquaresInRectangle\bin\Release\SquaresInRectangle.pdb

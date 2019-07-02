@@ -1,0 +1,15 @@
+C:\Подготовка\C#\EmployeesSalaryCalculation\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.exe.config
+C:\Подготовка\C#\EmployeesSalaryCalculation\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.exe
+C:\Подготовка\C#\EmployeesSalaryCalculation\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.pdb
+C:\Подготовка\C#\EmployeesSalaryCalculation\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\EmployeesSalaryCalculation\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.exe
+C:\Подготовка\C#\EmployeesSalaryCalculation\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.pdb
+C:\Подготовка\C#\Test Task 1\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.exe.config
+C:\Подготовка\C#\Test Task 1\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.exe
+C:\Подготовка\C#\Test Task 1\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.pdb
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.exe.config
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.exe
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.pdb
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.exe
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\bin\Debug\EmployeesSalaryCalculation.pdb
+C:\Подготовка\Job Interview\Task 1\EmployeesSalaryCalculation\obj\Debug\EmployeesSalaryCalculation.csprojResolveAssemblyReference.cache

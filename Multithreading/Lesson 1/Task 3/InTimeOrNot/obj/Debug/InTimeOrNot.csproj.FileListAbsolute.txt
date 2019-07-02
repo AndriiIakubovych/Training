@@ -1,0 +1,12 @@
+C:\Подготовка\C#\Lesson 36\InTimeOrNot\InTimeOrNot\bin\Debug\InTimeOrNot.exe.config
+C:\Подготовка\C#\Lesson 36\InTimeOrNot\InTimeOrNot\bin\Debug\InTimeOrNot.exe
+C:\Подготовка\C#\Lesson 36\InTimeOrNot\InTimeOrNot\bin\Debug\InTimeOrNot.pdb
+C:\Подготовка\C#\Lesson 36\InTimeOrNot\InTimeOrNot\obj\Debug\InTimeOrNot.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 36\InTimeOrNot\InTimeOrNot\obj\Debug\InTimeOrNot.exe
+C:\Подготовка\C#\Lesson 36\InTimeOrNot\InTimeOrNot\obj\Debug\InTimeOrNot.pdb
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\bin\Debug\InTimeOrNot.exe.config
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\obj\Debug\InTimeOrNot.exe
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\obj\Debug\InTimeOrNot.pdb
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\bin\Debug\InTimeOrNot.exe
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\bin\Debug\InTimeOrNot.pdb
+C:\Подготовка\C#\Lesson 26\Task 3\InTimeOrNot\obj\Debug\InTimeOrNot.csprojResolveAssemblyReference.cache

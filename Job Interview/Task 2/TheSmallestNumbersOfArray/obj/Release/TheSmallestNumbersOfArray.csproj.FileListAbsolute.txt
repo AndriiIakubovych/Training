@@ -1,0 +1,15 @@
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\obj\Release\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\obj\Release\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Release\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Release\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Release\TheSmallestNumbersOfArray.exe
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Release\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.exe
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Release\TheSmallestNumbersOfArray.pdb

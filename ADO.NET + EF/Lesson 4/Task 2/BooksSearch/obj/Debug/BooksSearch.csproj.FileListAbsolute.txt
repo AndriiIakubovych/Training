@@ -1,0 +1,19 @@
+C:\Подготовка\C#\Lesson 19\BooksSearch\BooksSearch\bin\Debug\BooksSearch.exe.config
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\bin\Debug\BooksSearch.exe.config
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\bin\Debug\BooksSearch.exe
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\bin\Debug\BooksSearch.pdb
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\obj\Debug\BooksSearch.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\obj\Debug\BooksSearch.MainForm.resources
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\obj\Debug\BooksSearch.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\obj\Debug\BooksSearch.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\obj\Debug\BooksSearch.exe
+C:\Подготовка\C#\Lesson 19\Task 2\BooksSearch\obj\Debug\BooksSearch.pdb
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\bin\Debug\BooksSearch.exe.config
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\obj\Debug\BooksSearch.exe
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\obj\Debug\BooksSearch.pdb
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\bin\Debug\BooksSearch.exe
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\bin\Debug\BooksSearch.pdb
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\obj\Debug\BooksSearch.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\obj\Debug\BooksSearch.MainForm.resources
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\obj\Debug\BooksSearch.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 23\Task 2\BooksSearch\obj\Debug\BooksSearch.csproj.GenerateResource.Cache

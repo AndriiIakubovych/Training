@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 3\Equation\Equation\bin\Debug\Equation.exe
+C:\Подготовка\C#\Lesson 3\Equation\Equation\bin\Debug\Equation.pdb
+C:\Подготовка\C#\Lesson 3\Equation\Equation\obj\Debug\Equation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Equation\Equation\obj\Debug\Equation.exe
+C:\Подготовка\C#\Lesson 3\Equation\Equation\obj\Debug\Equation.pdb
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\bin\Debug\Equation.exe
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\bin\Debug\Equation.pdb
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\obj\Debug\Equation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\obj\Debug\Equation.exe
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\obj\Debug\Equation.pdb

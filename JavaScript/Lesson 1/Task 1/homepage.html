@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+        <script type="text/javascript" src="js/main.js"></script>
+        <title>Операции с переменными</title>
+    </head>
+    <body>
+        <form>
+            <label>Для трёх переменных:</label>
+            <input name="first-number" type="number" value="0" step="0.0001"/>
+            <input name="second-number" type="number" value="0" step="0.0001"/>
+            <input name="third-number" type="number" value="0" step="0.0001"/>
+            <input type="button" value="Вычислить" onclick="calculateForThreeNumbers()"/>
+            <p id="first-result"></p>
+        </form>
+        <form>
+            <label>Для четырёх переменных:</label>
+            <input name="fourth-number" type="number" value="0" step="0.0001"/>
+            <input name="fifth-number" type="number" value="0" step="0.0001"/>
+            <input name="sixth-number" type="number" value="0" step="0.0001"/>
+            <input name="seventh-number" type="number" value="0" step="0.0001"/>
+            <input type="button" value="Вычислить" onclick="calculateForFourNumbers()"/>
+            <p id="second-result"></p>
+        </form>
+        <form>
+            <label>Для пяти переменных:</label>
+            <input name="eighth-number" type="number" value="0" step="0.0001"/>
+            <input name="ninth-number" type="number" value="0" step="0.0001"/>
+            <input name="tenth-number" type="number" value="0" step="0.0001"/>
+            <input name="eleventh-number" type="number" value="0" step="0.0001"/>
+            <input name="twelfth-number" type="number" value="0" step="0.0001"/>
+            <input type="button" value="Вычислить" onclick="calculateForFiveNumbers()"/>
+            <p id="third-result"></p>
+        </form>
+    </body>
+</html>

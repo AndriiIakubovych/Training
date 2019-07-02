@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\bin\Debug\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\bin\Debug\StudentDescription.pdb
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\obj\Debug\StudentDescription.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\obj\Debug\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\StudentDescription\StudentDescription\obj\Debug\StudentDescription.pdb
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\bin\Debug\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\bin\Debug\StudentDescription.pdb
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\obj\Debug\StudentDescription.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\obj\Debug\StudentDescription.exe
+C:\Подготовка\C#\Lesson 2\Task 7\StudentDescription\obj\Debug\StudentDescription.pdb

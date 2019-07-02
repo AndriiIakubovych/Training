@@ -1,0 +1,25 @@
+﻿@model ProductsListControl.Models.Setting
+
+@{ ViewBag.Title = "Панель управления"; }
+
+<main>
+    <div class="control-panel">
+        <div class="panel-caption">
+            <h1>Панель управления</h1>
+        </div>
+        @using (Ajax.BeginForm("ControlPanel", null, new AjaxOptions { OnSuccess = "onChangeSettingSuccess" }, new { enctype = "multipart/form-data" }))
+        {
+            @Html.HiddenFor(model => model.SettingId)
+            <div class="has-field">@Html.EditorFor(model => model.HasDescription, new { htmlAttributes = new { @class = "has-description form-control" } })<span>Описание</span></div>
+            <div class="has-field">@Html.EditorFor(model => model.HasWarranty, new { htmlAttributes = new { @class = "has-warranty form-control" } })<span>Гарантия</span></div>
+            <div class="has-field">@Html.EditorFor(model => model.HasDiscount, new { htmlAttributes = new { @class = "has-discount form-control" } })<span>Скидка</span></div>
+            <div class="has-field">@Html.EditorFor(model => model.HasWarehouseAvailability, new { htmlAttributes = new { @class = "has-warehouse-availability form-control" } })<span>Наличие на складе</span></div>
+            <div class="has-field">@Html.EditorFor(model => model.HasPhoto, new { htmlAttributes = new { @class = "has-photo form-control" } })<span>Фото</span></div>
+            <div class="operations">
+                <input class="btn btn-success" type="submit" value="Сохранить"/>
+                <input class="default-settings btn btn-info" type="button" value="По умолчанию"/>
+            </div>
+        }
+    </div>
+</main>
+<div class="alert alert-success"><i class="fa fa-check"></i> Данные успешно обновлены!</div>

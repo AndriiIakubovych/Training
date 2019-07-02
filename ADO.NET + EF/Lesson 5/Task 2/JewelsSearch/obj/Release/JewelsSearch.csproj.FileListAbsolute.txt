@@ -1,0 +1,16 @@
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\bin\Release\JewelsSearch.exe.config
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\bin\Release\JewelsSearch.exe
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\bin\Release\JewelsSearch.pdb
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\obj\Release\JewelsSearch.MainForm.resources
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\obj\Release\JewelsSearch.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\obj\Release\JewelsSearch.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\obj\Release\JewelsSearch.exe
+C:\Подготовка\C#\Lesson 20\Task 2\JewelsSearch\obj\Release\JewelsSearch.pdb
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\bin\Release\JewelsSearch.exe.config
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\obj\Release\JewelsSearch.exe
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\obj\Release\JewelsSearch.pdb
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\bin\Release\JewelsSearch.exe
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\bin\Release\JewelsSearch.pdb
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\obj\Release\JewelsSearch.MainForm.resources
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\obj\Release\JewelsSearch.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 24\Task 2\JewelsSearch\obj\Release\JewelsSearch.csproj.GenerateResource.Cache

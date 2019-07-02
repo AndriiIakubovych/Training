@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\bin\Debug\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\bin\Debug\OrdersInformation.pdb
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\obj\Debug\OrdersInformation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\obj\Debug\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\obj\Debug\OrdersInformation.pdb
+C:\Подготовка\C#\Lesson 8\Task 3\OrdersInformation\bin\Debug\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\Task 3\OrdersInformation\bin\Debug\OrdersInformation.pdb
+C:\Подготовка\C#\Lesson 8\Task 3\OrdersInformation\obj\Debug\OrdersInformation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 8\Task 3\OrdersInformation\obj\Debug\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\Task 3\OrdersInformation\obj\Debug\OrdersInformation.pdb

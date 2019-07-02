@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\bin\Debug\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\bin\Debug\StringStatistics.pdb
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\obj\Debug\StringStatistics.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\obj\Debug\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\StringStatistics\StringStatistics\obj\Debug\StringStatistics.pdb
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\bin\Debug\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\bin\Debug\StringStatistics.pdb
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\obj\Debug\StringStatistics.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\obj\Debug\StringStatistics.exe
+C:\Подготовка\C#\Lesson 2\Task 5\StringStatistics\obj\Debug\StringStatistics.pdb

@@ -1,0 +1,18 @@
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\bin\Debug\TemperatureGraphView.exe.config
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\bin\Debug\TemperatureGraphView.exe
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\bin\Debug\TemperatureGraphView.pdb
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\obj\Debug\TemperatureGraphView.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\obj\Debug\TemperatureGraphView.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\obj\Debug\TemperatureGraphView.exe
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\obj\Debug\TemperatureGraphView.pdb
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\obj\Debug\TemperatureGraphView.MainForm.resources
+C:\Подготовка\C#\Lesson 26\AirTemperatureChange\TemperatureGraphView\obj\Debug\TemperatureGraphView.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\bin\Debug\TemperatureGraphView.exe.config
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\bin\Debug\TemperatureGraphView.exe
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\bin\Debug\TemperatureGraphView.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\obj\Debug\TemperatureGraphView.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\obj\Debug\TemperatureGraphView.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\obj\Debug\TemperatureGraphView.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\obj\Debug\TemperatureGraphView.exe
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\obj\Debug\TemperatureGraphView.pdb
+C:\Подготовка\C#\Lesson 26\Task 5\TemperatureGraphView\obj\Debug\TemperatureGraphView.csprojResolveAssemblyReference.cache

@@ -1,0 +1,29 @@
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.exe.config
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.exe
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.pdb
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.MainForm.resources
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.Properties.Resources.resources
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.ScreenForm.resources
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.csproj.GenerateResource.Cache
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.exe
+C:\Подготовка\Work\ObjectsMeasurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.pdb
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.exe.config
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.exe
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.pdb
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.exe
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.pdb
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.MainForm.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.Properties.Resources.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.ScreenForm.resources
+C:\Подготовка\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.csproj.GenerateResource.Cache
+F:\Work\Objects Measurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.exe.config
+F:\Work\Objects Measurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.exe
+F:\Work\Objects Measurement\ObjectsMeasurement\bin\Release\ObjectsMeasurement.pdb
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.csprojAssemblyReference.cache
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.MainForm.resources
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.Properties.Resources.resources
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.ScreenForm.resources
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.csproj.GenerateResource.cache
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.csproj.CoreCompileInputs.cache
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.exe
+F:\Work\Objects Measurement\ObjectsMeasurement\obj\Release\ObjectsMeasurement.pdb

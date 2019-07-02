@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 3\Equation\Equation\bin\Release\Equation.exe
+C:\Подготовка\C#\Lesson 3\Equation\Equation\bin\Release\Equation.pdb
+C:\Подготовка\C#\Lesson 3\Equation\Equation\obj\Release\Equation.exe
+C:\Подготовка\C#\Lesson 3\Equation\Equation\obj\Release\Equation.pdb
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\bin\Release\Equation.exe
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\bin\Release\Equation.pdb
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\obj\Release\Equation.exe
+C:\Подготовка\C#\Lesson 3\Task 2\Equation\obj\Release\Equation.pdb

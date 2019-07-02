@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;tableChoiceText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableChoiceText.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tableViewText.Name" xml:space="preserve">
+    <value>tableViewText</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="dataGridView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 77</value>
+  </data>
+  <data name="tableChoice.Items1" xml:space="preserve">
+    <value>Продавцы</value>
+  </data>
+  <data name="&gt;&gt;tableChoiceText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAoAAAATAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAA
+        ABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAA
+        ABYAAAAWAAAAEwAAAAoAAAACAAAAAAAAAAAAAAAKAAAAJAAAADwAAABDAAAAQwAAAEMAAABDAAAAQwAA
+        AEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAA
+        AEMAAABDAAAAQwAAAEMAAAA8AAAAJAAAAAoAAAAAAAAAAAAAABOEXhKEtn4O/7R7Cf+0egf/tHoH/7R6
+        B/+0egf/tHoH/7R6CP+0ewj/tHoI/7R6B/+0egf/tHoH/7R6CP+0ewj/tHoI/7R6B/+0egf/tHoH/7R6
+        CP+0ewj/tHoI/7R6B/+0egf/tHsJ/7Z+Dv+FXxKEAAAAEgAAAAAAAAAAAAAAFrZ+Dv//////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        /////////////////////////////////////////////7V+DvsAAAAWAAAAAAAAAAAAAAAWtHsJ////
+        ////////////////////////////////////////3cmz////////////////////////////3cmz////
+        ////////////////////////3cmz////////////////////////////tHsJ/wAAABYAAAAAAAAAAAAA
+        ABa0egf////////////////////////////////////////////dybP/////////////////////////
+        ///dybP////////////////////////////dybP///////////////////////////+0egf/AAAAFgAA
+        AAAAAAAAAAAAFrR6CP///////////////////////////////////////////97Ltv//////////////
+        /////////////97Ltv///////////////////////////97Ltv///////////////////////////7R6
+        CP8AAAAWAAAAAAAAAAAAAAAWtHsI///////dybP/3ciy/93Js//dybP/3cmz/93Js//ey7b/4M25/97L
+        tv/dybP/3cmz/93Js//ey7b/4M25/97Ltv/dybP/3cmz/93Js//ey7b/4M25/97Ltv/dybP/3ciy/93J
+        s///////tHsI/wAAABYAAAAAAAAAAAAAABa0egj/////////////////////////////////////////
+        ///ey7b////////////////////////////ey7b////////////////////////////ey7b/////////
+        //////////////////+0egj/AAAAFgAAAAAAAAAAAAAAFrR6B///////////////////////////////
+        /////////////93Js////////////////////////////93Js////////////////////////////93J
+        s////////////////////////////7R6B/8AAAAWAAAAAAAAAAAAAAAWtHoH///////////////9////
+        /f////3////9/////v//////3ciy//////////7////9/////v//////3ciy//////////7////9////
+        /v//////3ciy//////////7////9////////////tHoH/wAAABYAAAAAAAAAAAAAABa0egj/////////
+        //////3////9/////f////3////+///////dybH//////////v////3////+///////dybH/////////
+        /v////3////+///////dybH//////////v////3///////////+0egj/AAAAFgAAAAAAAAAAAAAAFrR7
+        CP//////28Sq/9vFqv/bxar/28Wq/9vFqv/bxav/3Meu/97JsP/cx67/28Wr/9vFqv/bxav/3Meu/97J
+        sP/cx67/28Wr/9vFqv/bxav/3Meu/97JsP/cx67/28Wr/9vFqv/bxKr//////7R7CP8AAAAWAAAAAAAA
+        AAAAAAAWtHoI/////////PT///zz///88////PP///zz///99P////f/3MWq////9////fT///zz///9
+        9P////f/3MWq////9////fT///zz///99P////f/3MWq////9////fT///zz///89P//////tHoI/wAA
+        ABYAAAAAAAAAAAAAABa0egj///////346//89+n//Pfq//z36v/89+r//fjr///67//awqT///rv//34
+        6//89+r//fjr///67//awqT///rv//346//89+r//fjr///67//awqT///rv//346//89+n//fjr////
+        //+0egj/AAAAFgAAAAAAAAAAAAAAFrR6B////////fbn//z15v/89eb//PXm//z15v/89uf//vnr/9nA
+        oP/++ev//Pbn//v15v/89uf//vjr/9nAoP/++Ov//Pbn//v15v/89uf//vjr/9nAoP/++Ov//Pbn//v1
+        5f/89uf//////7R6CP8AAAAWAAAAAwAAAAwAAAAltnoD////////+eb///jl///45f//+OX///jl///5
+        5v//++n/3MOg///56f/+9+X//vbl//735f//+en/2sKg///56f/+9+X//vbl//735f//+en/2sKg///5
+        6f/+9+X//vXk//715P//////tHoI/wAAABYAAAAMAAAAKQAAAESynHL/sKyl/6eilv+moZX/pqGV/6ah
+        lf+nopb/q6WX/7munP/SvKD/3cGe/9m9m//YvJr/2L2a/9m+nP/bwJ//2b6c/9i9mv/YvJr/2L2a/9m+
+        nP/bwJ//2b6c/9i9mv/YvJj/2LqX//////+0ewn/AAAAFgAAABSZlYyxtLCn/8S/tv/TysL/39bN/+fd
+        1f/u49z/6t/Y/+HX0P/VzMP/w720/66qn//Rybr///Tf//zy3P/88dz//vPf/9i8mv/+89///PHc//vx
+        3P/88dz//vPf/9i8mv/+89///PHc//vw2//78Nr//////7R7CP8AAAAWAAAAFrGrn//Iwbb/z8e//9XM
+        xf/c08r/5NnS/+vg2f/m3NT/3tTM/9fOxf/RycD/x8C3/6ikmf//8df/++3U//rt1P/879f/17qT//zv
+        1//67dT/+ezT//rt1P/879f/17qT//zv1//67dT/+evS//rr0v//////tHsI/wAAABYAAAAUsKue/8fA
+        tv/NxLv/08rC/9rRyP/i18//7OHa/+Ta0f/c0sr/1czD/8/Hvf/JwLj/qaSa///v0v/668//+evP//vt
+        0v/YuJH/++3S//nrz//46s7/+evP//vt0v/YuJH/++3S//nrz//46c3/+enM//////+0ewj/AAAAFgAA
+        ABCwqp7/ysO5/+rl3f/38+v///v0//368//9+fL//fnz///69P/48+z/6+Td/8rDuv+ppZr//+/O//zs
+        zP/87Mz//e7P/9m4j//97s///OzM//zry//87Mz//e7P/9m4j//97s///OzM//vqyv/66cj//////7R7
+        Cf8AAAAWAAAAEJ2XjbX58+3/2NHJ/8K4sP+/tq7/xbqy/8i+tf/Gu7P/wLev/8O6sv/X0cn/+fTs/8Ku
+        kv/luoT/5LiD/+S4g//iuYb/4bqK/+K5hv/kuIP/5LeC/+S4g//iuYb/4bqK/+K5hv/kuIP/47eB/9+0
+        f///////tXsJ/wAAABYAAAAUm5aLuKOaj/+6sqf/ysG4/97VzP/l29P/7OHa/+fe1f/g1s7/zMK6/7yy
+        qf+mm4//lbbG/2XL//9nyf//Z8n//2HK///pt33/Ycr//2fJ//9nyf//Z8n//2HK///pt33/Ycr//2fJ
+        //9myP//XsX///////+2ewj/AAAAFgAAABaxq5//ycK5/8/Hv//VzMT/3NPK/+PZ0f/q39j/5dzT/97U
+        zP/Yz8X/0srA/8zDuf+0p5X/ZMn//2XG//9lxv//YMb//+axc/9gxv//Zcb//2bG//9lxv//YMb//+ax
+        c/9gxv//Zcb//2TF//9dw////////7Z8Cf8AAAAVAAAAFrCrnv/HwLb/zMS7/9PJwf/a0Mf/4dfP/+vh
+        2v/k2dH/3NHJ/9XMwv/Oxr3/ysG4/6+nm///////////////////////////////////////////////
+        ////////////////////////////////////////tn4O/wAAAA0AAAAWr6qd/8jBt//o49v/9fDo//34
+        8v/8+PH/+/fw//z38f/8+PH/9vDq/+ni2//Jw7v/raqk/7h6AP+2ewb/tnsH/7Z7CP+1ewj/tnsI/7Z7
+        B/+2ewf/tnsH/7Z7CP+1ewj/tnsI/7Z7B/+2ewf/tnwJ/7Z+Dv+1gRizAAAABAAAABSuqJz/+/Xv/+7n
+        3v/g2M7/3dXM/93Uy//d1Mv/3dTL/93VzP/g187/7ebe//v38f+trKj/AAAAFAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADK+p
+        nf/h2M7/4dfO/9/WzP/f1cv/39XL/9/Vy//f1cv/39XL/9/WzP/h187/4djP/66tqP8AAAAMAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAADqqSZn7awpP/Wz8T/5t7V/+/n3f/u5tz/7ubc/+7m3P/v593/5t7V/9bPxP+2sKT/qqafnwAA
+        AAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAABoZyROK2nm8CuqZz/rqic/66onP+uqJz/rqic/66onP+uqZz/raebwKGc
+        kTgAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA/////8AAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAA
+        AADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAB//8AAf//AAH//4AD//8=
+</value>
+  </data>
+  <data name="tableChoiceText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 13</value>
+  </data>
+  <data name="tableChoiceText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 9</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tableViewText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;dataGridView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>804, 244</value>
+  </data>
+  <data name="tableViewText.Text" xml:space="preserve">
+    <value>Содержимое выбранной таблицы:</value>
+  </data>
+  <data name="&gt;&gt;tableViewText.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tableChoiceText.Text" xml:space="preserve">
+    <value>Выберите таблицу:</value>
+  </data>
+  <data name="&gt;&gt;tableChoice.Name" xml:space="preserve">
+    <value>tableChoice</value>
+  </data>
+  <data name="tableViewText.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tableChoice.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tableChoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 21</value>
+  </data>
+  <data name="&gt;&gt;tableViewText.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="tableViewText.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 13</value>
+  </data>
+  <data name="tableChoice.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 25</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableChoice.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableViewText.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 61</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="dataGridView.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tableChoice.Items" xml:space="preserve">
+    <value>Покупатели</value>
+  </data>
+  <data name="tableChoiceText.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="tableChoice.Items2" xml:space="preserve">
+    <value>Продажи</value>
+  </data>
+  <data name="tableChoiceText.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableViewText.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView.Name" xml:space="preserve">
+    <value>dataGridView</value>
+  </data>
+  <data name="&gt;&gt;tableChoice.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="dataGridView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 155</value>
+  </data>
+  <data name="&gt;&gt;dataGridView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableChoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableChoiceText.Name" xml:space="preserve">
+    <value>tableChoiceText</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Продажи</value>
+  </data>
+  <data name="&gt;&gt;dataGridView.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

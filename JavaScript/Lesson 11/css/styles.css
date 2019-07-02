@@ -1,0 +1,58 @@
+﻿body
+{
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+input[type="button"]
+{
+    width: 202px;
+    background-color: #103cc1;
+    border: 1px solid #226a92;
+    font-size: 12px;
+    color: white;
+    line-height: 20px;
+    outline: none;
+}
+
+input[type="button"]:hover
+{
+    color: red;
+}
+
+#arrow-down
+{
+    display: none;
+}
+
+#arrow-up
+{
+    display: none;
+}
+
+#list
+{
+    width: 200px;
+    border-left: 1px solid #226a92;
+    border-right: 1px solid #226a92;
+    list-style: none;
+    margin: 0 0 0 5px;
+    padding: 0;
+    display: none;
+}
+
+#list li
+{
+    background-color: #3b9cd3;
+    border-bottom: 1px solid #226a92;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+    cursor: default;
+}
+
+#list li:hover
+{
+    background-color: #74c1d3;
+    color: #103cc1;
+}

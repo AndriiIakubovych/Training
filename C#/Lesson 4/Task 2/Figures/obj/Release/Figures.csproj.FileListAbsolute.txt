@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 4\Figures\Figures\bin\Release\Figures.exe
+C:\Подготовка\C#\Lesson 4\Figures\Figures\bin\Release\Figures.pdb
+C:\Подготовка\C#\Lesson 4\Figures\Figures\obj\Release\Figures.exe
+C:\Подготовка\C#\Lesson 4\Figures\Figures\obj\Release\Figures.pdb
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\bin\Release\Figures.exe
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\bin\Release\Figures.pdb
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\obj\Release\Figures.exe
+C:\Подготовка\C#\Lesson 4\Task 2\Figures\obj\Release\Figures.pdb

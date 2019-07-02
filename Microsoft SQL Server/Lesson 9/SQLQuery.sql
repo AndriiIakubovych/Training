@@ -1,0 +1,11 @@
+EXECUTE sp_addumpdevice 'disk', 'ShopBackup', 'D:\Shop\ShopBackup.bak';
+EXECUTE sp_addumpdevice 'disk', 'ShopBackup_log', 'D:\Shop\ShopBackup_log.bak';
+EXECUTE sp_helpdevice;
+DBCC CHECKDB ('Shop') WITH ALL_ERRORMSGS;
+BACKUP DATABASE Shop TO ShopBackup WITH INIT;
+BACKUP DATABASE Shop TO ShopBackup WITH DIFFERENTIAL;
+BACKUP LOG Shop TO ShopBackup_log;
+RESTORE VERIFYONLY from ShopBackup; 
+RESTORE VERIFYONLY from ShopBackup_log;
+RESTORE DATABASE Shop FROM ShopBackup WITH REPLACE, NORECOVERY;
+RESTORE LOG Shop FROM ShopBackup_log WITH FILE = 1, RECOVERY;

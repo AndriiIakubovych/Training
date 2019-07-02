@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 1\Deposit\Deposit\bin\Debug\Deposit.exe
+C:\Подготовка\C#\Lesson 1\Deposit\Deposit\bin\Debug\Deposit.pdb
+C:\Подготовка\C#\Lesson 1\Deposit\Deposit\obj\Debug\Deposit.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\Deposit\Deposit\obj\Debug\Deposit.exe
+C:\Подготовка\C#\Lesson 1\Deposit\Deposit\obj\Debug\Deposit.pdb
+C:\Подготовка\C#\Lesson 1\Task 2\Deposit\bin\Debug\Deposit.exe
+C:\Подготовка\C#\Lesson 1\Task 2\Deposit\bin\Debug\Deposit.pdb
+C:\Подготовка\C#\Lesson 1\Task 2\Deposit\obj\Debug\Deposit.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\Task 2\Deposit\obj\Debug\Deposit.exe
+C:\Подготовка\C#\Lesson 1\Task 2\Deposit\obj\Debug\Deposit.pdb

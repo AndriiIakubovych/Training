@@ -1,0 +1,16 @@
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\bin\Debug\WorkingDays.exe
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\bin\Debug\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Debug\WorkingDays.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Debug\WorkingDays.MainForm.resources
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Debug\WorkingDays.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Debug\WorkingDays.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Debug\WorkingDays.exe
+C:\Подготовка\C#\Lesson 20\Task 1\WorkingDays\obj\Debug\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Debug\WorkingDays.exe
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Debug\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\bin\Debug\WorkingDays.exe
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\bin\Debug\WorkingDays.pdb
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Debug\WorkingDays.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Debug\WorkingDays.MainForm.resources
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Debug\WorkingDays.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 24\Task 1\WorkingDays\obj\Debug\WorkingDays.csproj.GenerateResource.Cache

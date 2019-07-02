@@ -1,0 +1,10 @@
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\bin\Debug\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\bin\Debug\IntegersInRange.pdb
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\obj\Debug\IntegersInRange.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\obj\Debug\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\IntegersInRange\IntegersInRange\obj\Debug\IntegersInRange.pdb
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\bin\Debug\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\bin\Debug\IntegersInRange.pdb
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\obj\Debug\IntegersInRange.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\obj\Debug\IntegersInRange.exe
+C:\Подготовка\C#\Lesson 1\Task 3\IntegersInRange\obj\Debug\IntegersInRange.pdb

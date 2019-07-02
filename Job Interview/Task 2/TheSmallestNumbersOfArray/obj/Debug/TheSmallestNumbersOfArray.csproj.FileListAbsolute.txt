@@ -1,0 +1,24 @@
+C:\Подготовка\C#\TheSmallestNumbersOfArray\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\C#\TheSmallestNumbersOfArray\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\TheSmallestNumbersOfArray\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\TheSmallestNumbersOfArray\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\TheSmallestNumbersOfArray\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\TheSmallestNumbersOfArray\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Test Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\C#\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.csprojResolveAssemblyReference.cache
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe.config
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.exe
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\bin\Debug\TheSmallestNumbersOfArray.pdb
+C:\Подготовка\Job Interview\Task 2\TheSmallestNumbersOfArray\obj\Debug\TheSmallestNumbersOfArray.csprojResolveAssemblyReference.cache

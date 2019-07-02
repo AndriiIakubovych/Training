@@ -1,0 +1,390 @@
+﻿body, h4, ul, p
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+ul
+{
+    list-style: none;
+    padding: 0;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+img
+{
+    border-style: none;
+}
+
+#wrapper
+{
+    width: 100%;
+    min-width: 767px;
+    position: relative;
+    display: block;
+}
+
+header
+{
+    width: 100%;
+    background-color: #2d2d2d;
+    padding: 36px 0 9px 0;
+    display: block;
+}
+
+.layout
+{
+    width: 767px;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+header nav ul
+{
+    width: 100%;
+    display: block;
+}
+
+header nav ul li
+{
+    display: inline-block;
+}
+
+header nav ul li a
+{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    margin-right: 32px;
+    display: block;
+}
+
+header nav ul li a:hover
+{
+    color: #fccf3a;
+}
+
+header nav ul li a:focus
+{
+    background-color: transparent;
+}
+
+#main
+{
+    width: 100%;
+    background-color: #63baa9;
+    padding-bottom: 64px;
+    display: block;
+}
+
+#main .banner
+{
+    width: 100%;
+    height: 464px;
+    display: block;
+}
+
+#main .banner img
+{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#main .title
+{
+    width: 100%;
+    display: block;
+}
+
+#main .title h3
+{
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    margin: 55px 0 71px 0;
+    display: block;
+}
+
+#main .title h3::after
+{
+    content: "";
+    width: 72%;
+    height: 3px;
+    background-color: white;
+    vertical-align: middle;
+    margin-left: 7%;
+    display: inline-block;
+}
+
+#main .content
+{
+    width: 100%;
+    overflow: hidden;
+    display: block;
+}
+
+#main .content li
+{
+    width: 249px;
+    height: 122px;
+    background-color: white;
+    margin: 0 10px 10px 0;
+    position: relative;
+    float: left;
+}
+
+#main .content li:first-child
+{
+    width: 508px;
+    height: 246px;
+    background-color: #f7671d;
+    text-align: justify;
+}
+
+#main .content li:nth-child(2)
+{
+    height: 246px;
+}
+
+#main .content li:nth-child(3n + 2)
+{
+    margin-right: 0;
+}
+
+#main .content li a
+{
+    position: absolute;
+    bottom: 0;
+    margin: 0 18px 24px 20px;
+    display: block;
+}
+
+#main .content li a h4
+{
+    font-size: 24px;
+    font-weight: lighter;
+    color: #d1751a;
+    text-transform: uppercase;
+    display: block;
+}
+
+#main .content li:first-child a h4
+{
+    font-size: 18px;
+    color: white;
+}
+
+#main .content li a p
+{
+    font-size: 12px;
+    font-weight: lighter;
+    color: #4e4d4d;
+    display: block;
+}
+
+#main .content li:first-child a p
+{
+    color: white;
+    line-height: 1.4;
+    margin-top: 24px;
+}
+
+footer
+{
+    width: 100%;
+    height: 393px;
+    background-color: #303646;
+    position: relative;
+    display: block;
+}
+
+footer .laptop
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+}
+
+footer .title
+{
+    width: 100%;
+    display: block;
+}
+
+footer .title h3
+{
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    margin: 0;
+    padding: 62px 0 43px 0;
+    display: block;
+}
+
+footer .title h3::after
+{
+    content: "";
+    width: 75%;
+    height: 4px;
+    background-color: white;
+    vertical-align: middle;
+    margin-left: 62px;
+    display: inline-block;
+}
+
+footer .write
+{
+    width: 60%;
+    margin-right: 26px;
+    float: left;
+}
+
+footer .write .title
+{
+    height: 41px;
+}
+
+footer .write .title h4
+{
+    font-size: 14px;
+    font-weight: 300;
+    color: #d1751a;
+    display: block;
+}
+
+footer .title h4::after
+{
+    content: "";
+    width: 73%;
+    height: 1px;
+    background-color: #4e4d4d;
+    vertical-align: middle;
+    margin-left: 32px;
+    display: inline-block;
+}
+
+footer .write .text-us label
+{
+    font-size: 12px;
+    color: #868686;
+    display: block;
+}
+
+footer .text-us .block input
+{
+    width: 228px;
+    height: 16px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+footer .text-us .block textarea
+{
+    width: 454px;
+    height: 68px;
+    resize: none;
+    overflow: auto;
+    display: block;
+}
+
+footer .text-us .block input[type="submit"]
+{
+    width: 78px;
+    height: 20px;
+    background-color: #f7671d;
+    border: 1px solid #f7671d;
+    border-radius: 4px;
+    font-size: 12px;
+    color: white;
+    margin-top: 7px;
+    outline: none;
+    float: right;
+}
+
+footer .communication
+{
+    width: 36%;
+    float: right;
+}
+
+footer .communication .title
+{
+    height: 32px;
+    display: block;
+}
+
+footer .communication .title h4
+{
+    font-size: 14px;
+    font-weight: 300;
+    color: black;
+    margin: 0;
+    display: block;
+}
+
+footer .communication .title h4::after
+{
+    width: 54%;
+    margin-left: 31px;
+}
+
+footer .communication .networks
+{
+    width: 100%;
+    margin-bottom: 23px;
+    display: block;
+}
+
+footer .communication .networks li
+{
+    display: inline-block;
+}
+
+footer .communication .networks li a
+{
+    margin-right: 10px;
+    display: block;
+}
+
+footer .communication .info h4::after
+{
+    width: 30%;
+    margin-left: 29px;
+}
+
+footer .communication .contacts li:first-child
+{
+    background-image: url(../images/icon-atilog.png);
+    text-transform: uppercase;
+}
+
+footer .communication .contacts li:nth-child(2)
+{
+    background-image: url(../images/icon-phone.png);
+}
+
+footer .communication .contacts li:nth-child(3)
+{
+    background-image: url(../images/icon-map.png);
+}
+
+footer .communication .contacts li:nth-child(4)
+{
+    background-image: url(../images/icon-mail.png);
+}
+
+footer .communication .contacts li
+{
+    background-repeat: no-repeat;
+    font-size: 12px;
+    color: #4e4d4d;
+    line-height: 27px;
+    margin-bottom: 5px;
+    padding-left: 40px;
+}

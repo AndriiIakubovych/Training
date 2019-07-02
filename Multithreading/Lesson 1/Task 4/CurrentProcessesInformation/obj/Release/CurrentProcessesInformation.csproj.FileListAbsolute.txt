@@ -1,0 +1,9 @@
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\bin\Release\CurrentProcessesInformation.exe.config
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\bin\Release\CurrentProcessesInformation.exe
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\bin\Release\CurrentProcessesInformation.pdb
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Release\CurrentProcessesInformation.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Release\CurrentProcessesInformation.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Release\CurrentProcessesInformation.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Release\CurrentProcessesInformation.exe
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Release\CurrentProcessesInformation.pdb
+C:\Подготовка\C#\Lesson 26\Task 4\CurrentProcessesInformation\obj\Release\CurrentProcessesInformation.csprojResolveAssemblyReference.cache

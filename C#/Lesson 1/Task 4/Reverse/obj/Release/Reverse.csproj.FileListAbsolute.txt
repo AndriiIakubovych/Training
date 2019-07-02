@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\bin\Release\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\bin\Release\Reverse.pdb
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\obj\Release\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Reverse\Reverse\obj\Release\Reverse.pdb
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\bin\Release\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\bin\Release\Reverse.pdb
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\obj\Release\Reverse.exe
+C:\Подготовка\C#\Lesson 1\Task 4\Reverse\obj\Release\Reverse.pdb

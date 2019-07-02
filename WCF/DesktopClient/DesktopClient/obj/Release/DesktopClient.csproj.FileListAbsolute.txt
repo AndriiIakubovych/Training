@@ -1,0 +1,12 @@
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Release\DesktopClient.exe.config
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Release\DesktopClient.exe
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Release\DesktopClient.pdb
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\bin\Release\WindowsFormsCalendar.dll
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.AddNoteForm.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.EditNoteForm.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.MainForm.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.exe
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.pdb
+C:\Подготовка\C#\Lesson 29\DesktopClient\DesktopClient\obj\Release\DesktopClient.csprojResolveAssemblyReference.cache

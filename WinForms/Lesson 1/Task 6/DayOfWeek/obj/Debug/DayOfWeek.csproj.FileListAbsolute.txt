@@ -1,0 +1,16 @@
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.MainForm.resources
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Подготовка\C#\Lesson 10\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.pdb
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\obj\Debug\DayOfWeek.pdb
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\obj\Debug\DayOfWeek.MainForm.resources
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\obj\Debug\DayOfWeek.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 10\Task 6\DayOfWeek\obj\Debug\DayOfWeek.csproj.GenerateResource.Cache

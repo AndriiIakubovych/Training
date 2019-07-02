@@ -1,0 +1,126 @@
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\bin\Debug\EducationalInstitution.exe.config
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\bin\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\bin\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\obj\Debug\EducationalInstitution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\obj\Debug\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\obj\Debug\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\obj\Debug\EducationalInstitution.csproj.GenerateResource.Cache
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\obj\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\EducationalInstitution\EducationalInstitution\obj\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\bin\Debug\EducationalInstitution.exe.config
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\bin\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\bin\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.SubjectsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddSubjectForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditSubjectForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.TeachersForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddTeacherForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditTeacherForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.StudentsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddStudentForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditStudentForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.GroupsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddGroupForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditGroupForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.GroupsSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.TeachersSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.CurriculumsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.SpecialtiesForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\bin\Debug\EducationalInstitution.exe.config
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\bin\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\bin\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddAudienceForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddGroupForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddRingForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddStudentForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddSubjectForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddTeacherForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AddTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.AudiencesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.CurriculumsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditAudienceForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditCurriculumForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditGroupForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditRingForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditStudentForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditSubjectForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditTeacherForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.EditTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.GroupsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.GroupsSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.RingsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.SpecialtiesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.StudentsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.SubjectsForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.TeachersForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.TeachersSchedulesForm.resources
+C:\Подготовка\C#\Lesson 18 — копия\EducationalInstitution\obj\Debug\EducationalInstitution.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AddBellForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.AuditoriumsForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.EditBellForm.resources
+C:\Подготовка\C#\Lesson 18\EducationalInstitution\obj\Debug\EducationalInstitution.BellsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\bin\Debug\EducationalInstitution.exe.config
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\bin\Debug\EducationalInstitution.exe
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\bin\Debug\EducationalInstitution.pdb
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddCurriculumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddGroupForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddBellForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddStudentForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddSubjectForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddTeacherForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AddTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.AuditoriumsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.CurriculumsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditAuditoriumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditCurriculumForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditGroupForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditGroupScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditBellForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditSpecialtyForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditStudentForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditSubjectForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditTeacherForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.EditTeacherScheduleForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.GroupsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.GroupsSchedulesForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.MainForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.BellsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.SpecialtiesForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.StudentsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.SubjectsForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.TeachersForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.TeachersSchedulesForm.resources
+C:\Подготовка\C#\Lesson 22\EducationalInstitution\obj\Debug\EducationalInstitution.csproj.GenerateResource.Cache

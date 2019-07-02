@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShopDataSet xmlns="http://tempuri.org/ShopDataSet.xsd">
+  <products>
+    <id>1</id>
+    <name>SAMSUNG RB-31 FSRNDSA</name>
+    <photo>SAMSUNG_RB-31_FSRNDSA.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Сверху</carrangement>
+    <width>60</width>
+    <height>185</height>
+    <depth>66</depth>
+    <rvolume>212</rvolume>
+    <fvolume>98</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>6</power>
+    <noise>37</noise>
+    <price>9252</price>
+    <count>16</count>
+  </products>
+  <products>
+    <id>2</id>
+    <name>ATLANT XM-6025-100</name>
+    <photo>ATLANT_XM-6025-100.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>205</height>
+    <depth>63</depth>
+    <rvolume>230</rvolume>
+    <fvolume>154</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>4</power>
+    <noise>32</noise>
+    <price>7888</price>
+    <count>12</count>
+  </products>
+  <products>
+    <id>3</id>
+    <name>BOSH KGN 39 XL 35</name>
+    <photo>BOSH_KGN_39_XL_35.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A++</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>203</height>
+    <depth>66</depth>
+    <rvolume>279</rvolume>
+    <fvolume>87</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>4</power>
+    <noise>36</noise>
+    <price>12180</price>
+    <count>5</count>
+  </products>
+  <products>
+    <id>4</id>
+    <name>WHIRLPOOL BSNF 8101 W</name>
+    <photo>WHIRLPOOL_BSNF_8101_W.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>59.5</width>
+    <height>65.5</height>
+    <depth>188.5</depth>
+    <rvolume>222</rvolume>
+    <fvolume>97</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>3</power>
+    <noise>30</noise>
+    <price>8570</price>
+    <count>13</count>
+  </products>
+  <products>
+    <id>5</id>
+    <name>GORENJE RK 6191 AX</name>
+    <photo>GORENJE_RK_6191_AW.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>185</height>
+    <depth>64</depth>
+    <rvolume>225</rvolume>
+    <fvolume>96</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>5</power>
+    <noise>31</noise>
+    <price>7224</price>
+    <count>8</count>
+  </products>
+  <products>
+    <id>6</id>
+    <name>WHIRLPOOL BLF 8121 OX</name>
+    <photo>WHIRLPOOL_BLF_8121_OX.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>59.5</width>
+    <height>188.5</height>
+    <depth>65.5</depth>
+    <rvolume>228</rvolume>
+    <fvolume>111</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>5</power>
+    <noise>37</noise>
+    <price>7647</price>
+    <count>7</count>
+  </products>
+  <products>
+    <id>7</id>
+    <name>ELECTROLUX ERT 1501 FOW3</name>
+    <photo>ELECTROLUX_ERT_1501_FOW3.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>1</cameras>
+    <carrangement>Сверху</carrangement>
+    <width>55</width>
+    <height>85</height>
+    <depth>61.2</depth>
+    <rvolume>118</rvolume>
+    <fvolume>18</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>5</power>
+    <noise>38</noise>
+    <price>5034</price>
+    <count>11</count>
+  </products>
+  <products>
+    <id>8</id>
+    <name>SAMSUNG RB-37 J5000SA</name>
+    <photo>SAMSUNG_RB-37_J5000SA.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>59.5</width>
+    <height>201</height>
+    <depth>67.5</depth>
+    <rvolume>269</rvolume>
+    <fvolume>58</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>3</power>
+    <noise>30</noise>
+    <price>10220</price>
+    <count>16</count>
+  </products>
+  <products>
+    <id>9</id>
+    <name>ELECTROLUX EUT 1040 AOW</name>
+    <photo>ELECTROLUX_EUT_1040_AOW.png</photo>
+    <type>Морозильник-шкаф</type>
+    <category>Отдельностоящий</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>1</cameras>
+    <carrangement>Нет</carrangement>
+    <width>59.5</width>
+    <height>85</height>
+    <depth>63</depth>
+    <fvolume>80</fvolume>
+    <rdefrosting>Нет</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>5</power>
+    <noise>32</noise>
+    <price>6910</price>
+    <count>10</count>
+  </products>
+  <products>
+    <id>10</id>
+    <name>ELECTROLUX EJ 2801 AOW2</name>
+    <photo>ELECTROLUX_EJ_2801_AOW2.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Встраиваемый</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Сверху</carrangement>
+    <width>54.5</width>
+    <height>60.5</height>
+    <depth>159</depth>
+    <rvolume>215</rvolume>
+    <fvolume>50</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>4</power>
+    <noise>32</noise>
+    <price>6186</price>
+    <count>10</count>
+  </products>
+  <products>
+    <id>11</id>
+    <name>GORENJE NRK 6202 MX</name>
+    <photo>GORENJE_NRK_6202 MX.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A++</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>64</height>
+    <depth>200</depth>
+    <rvolume>254</rvolume>
+    <fvolume>85</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>4</power>
+    <noise>34</noise>
+    <price>13980</price>
+    <count>8</count>
+  </products>
+  <products>
+    <id>12</id>
+    <name>WHIRLPOOL ART 9811 SF</name>
+    <photo>WHIRLPOOL_ART_9811_SF.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Встраиваемый</category>
+    <control>Электронное</control>
+    <consumption>A++</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>54</width>
+    <height>193.5</height>
+    <depth>54.5</depth>
+    <rvolume>228</rvolume>
+    <fvolume>80</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>4</power>
+    <noise>30</noise>
+    <price>14710</price>
+    <count>14</count>
+  </products>
+  <products>
+    <id>13</id>
+    <name>BOSCH KGV 39VW31</name>
+    <photo>BOSCH_KGV_39VW31.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>201</height>
+    <depth>65</depth>
+    <rvolume>250</rvolume>
+    <fvolume>54</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>7</power>
+    <noise>33</noise>
+    <price>10774</price>
+    <count>15</count>
+  </products>
+  <products>
+    <id>14</id>
+    <name>WHIRLPOOL BLF 8121 W</name>
+    <photo>WHIRLPOOL_BLF_8121_W.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>59.5</width>
+    <height>188.5</height>
+    <depth>65.5</depth>
+    <rvolume>339</rvolume>
+    <fvolume>228</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>5</power>
+    <noise>37</noise>
+    <price>7247</price>
+    <count>16</count>
+  </products>
+  <products>
+    <id>15</id>
+    <name>GORENJE NRK 621 CLI</name>
+    <photo>GORENJE_NRK_621_CLI.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>200</height>
+    <depth>64</depth>
+    <rvolume>254</rvolume>
+    <fvolume>85</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>5</power>
+    <noise>35</noise>
+    <price>16139</price>
+    <count>11</count>
+  </products>
+  <products>
+    <id>16</id>
+    <name>ZANUSSI ZFU 19400 WA</name>
+    <photo>ZANUSSI_ZFU_19400_WA.png</photo>
+    <type>Морозильник-шкаф</type>
+    <category>Отдельностоящий</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>1</cameras>
+    <carrangement>Нет</carrangement>
+    <width>54.5</width>
+    <height>125</height>
+    <depth>64</depth>
+    <fvolume>168</fvolume>
+    <rdefrosting>Нет</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>18</power>
+    <noise>34</noise>
+    <price>6139</price>
+    <count>18</count>
+  </products>
+  <products>
+    <id>17</id>
+    <name>SAMSUNG RS-7527 THCSR</name>
+    <photo>SAMSUNG_RS-7527_THCSR.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Сбоку</carrangement>
+    <width>92.2</width>
+    <height>178.9</height>
+    <depth>75.4</depth>
+    <rvolume>261</rvolume>
+    <fvolume>211</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>4</power>
+    <noise>36</noise>
+    <price>18916</price>
+    <count>15</count>
+  </products>
+  <products>
+    <id>18</id>
+    <name>BOSCH KGN 39LB35</name>
+    <photo>BOSCH_KGN_39LB35.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A++</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>203</height>
+    <depth>66</depth>
+    <rvolume>279</rvolume>
+    <fvolume>87</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>14</power>
+    <noise>36</noise>
+    <price>20600</price>
+    <count>3</count>
+  </products>
+  <products>
+    <id>19</id>
+    <name>SIEMENS KI 39FP60</name>
+    <photo>SIEMENS_KI_39FP60.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Встраиваемый</category>
+    <control>Электронное</control>
+    <consumption>A++</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>56</width>
+    <height>177</height>
+    <depth>55</depth>
+    <rvolume>132</rvolume>
+    <fvolume>62</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>12</power>
+    <noise>32</noise>
+    <price>31893</price>
+    <count>20</count>
+  </products>
+  <products>
+    <id>20</id>
+    <name>BOSCH KSV 36VL30</name>
+    <photo>BOSCH_KSV_36VL30.png</photo>
+    <type>Холодильник без морозильника</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A++</consumption>
+    <cameras>1</cameras>
+    <carrangement>Нет</carrangement>
+    <width>60</width>
+    <height>185</height>
+    <depth>65</depth>
+    <rvolume>346</rvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Нет</fdefrosting>
+    <power>1</power>
+    <noise>39</noise>
+    <price>20989</price>
+    <count>18</count>
+  </products>
+  <products>
+    <id>21</id>
+    <name>SAMSUNG RS-57 K4000SA</name>
+    <photo>SAMSUNG_RS-57_K4000SA.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Сбоку</carrangement>
+    <width>91.2</width>
+    <height>178.9</height>
+    <depth>74.7</depth>
+    <rvolume>361</rvolume>
+    <fvolume>208</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>13</power>
+    <noise>35</noise>
+    <price>19475</price>
+    <count>14</count>
+  </products>
+  <products>
+    <id>22</id>
+    <name>SIEMENS KG 49NAI22</name>
+    <photo>SIEMENS_KG_49NAI22.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>70</width>
+    <height>200</height>
+    <depth>65</depth>
+    <rvolume>307</rvolume>
+    <fvolume>82</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>18</power>
+    <noise>32</noise>
+    <price>17357</price>
+    <count>11</count>
+  </products>
+  <products>
+    <id>23</id>
+    <name>ELECTROLUX ENN 93111 AW</name>
+    <photo>ELECTROLUX_ENN_93111_AW.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электромеханическое</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>54</width>
+    <height>184.2</height>
+    <depth>55.2</depth>
+    <rvolume>228</rvolume>
+    <fvolume>75</fvolume>
+    <rdefrosting>Капельное</rdefrosting>
+    <fdefrosting>Ручное</fdefrosting>
+    <power>4</power>
+    <noise>31</noise>
+    <price>17891</price>
+    <count>8</count>
+  </products>
+  <products>
+    <id>24</id>
+    <name>SAMSUNG RB-33 J3320EF</name>
+    <photo>SAMSUNG_RB-33_J3320EF.png</photo>
+    <type>Холодильник с морозильником</type>
+    <category>Отдельностоящий</category>
+    <control>Электронное</control>
+    <consumption>A+</consumption>
+    <cameras>2</cameras>
+    <carrangement>Снизу</carrangement>
+    <width>60</width>
+    <height>185</height>
+    <depth>70</depth>
+    <rvolume>230</rvolume>
+    <fvolume>98</fvolume>
+    <rdefrosting>No Frost</rdefrosting>
+    <fdefrosting>No Frost</fdefrosting>
+    <power>12</power>
+    <noise>37</noise>
+    <price>14899</price>
+    <count>17</count>
+  </products>
+  <sellers>
+    <id>1</id>
+    <name>Иванов Андрей Петрович</name>
+    <address>ул. Спортивная, 32, кв. 67</address>
+    <telephone>+38 (067) 883-12-96</telephone>
+  </sellers>
+  <sellers>
+    <id>2</id>
+    <name>Головко Виктор Сергеевич</name>
+    <address>ул. Ярослава Мудрого, 21, кв. 78</address>
+    <telephone>+38 (067) 995-24-98</telephone>
+  </sellers>
+  <sellers>
+    <id>3</id>
+    <name>Николаев Игорь Владимирович</name>
+    <address>ул. Пушкинская, 141, кв. 55</address>
+    <telephone>+38 (067) 324-61-33</telephone>
+  </sellers>
+  <sellers>
+    <id>4</id>
+    <name>Гаврилов Владимир Петрович</name>
+    <address>ул. Новгородская, 51А, кв. 89</address>
+    <telephone>+38 (095) 435-72-11</telephone>
+  </sellers>
+  <sellers>
+    <id>5</id>
+    <name>Сидорский Олег Евгеньевич</name>
+    <address>пр. Ленина, 96, кв. 45</address>
+    <telephone>+38 (097) 732-44-19</telephone>
+  </sellers>
+  <sellers>
+    <id>6</id>
+    <name>Петрунов Евгений Максимович</name>
+    <address>ул. 23-го Августа, 14, кв. 85</address>
+    <telephone>+38 (097) 546-26-78</telephone>
+  </sellers>
+  <sellers>
+    <id>7</id>
+    <name>Николаенко Алексей Петрович</name>
+    <address>ул. Сумская, 90, кв. 17</address>
+    <telephone>+38 (093) 234-12-11</telephone>
+  </sellers>
+  <buyers>
+    <id>1</id>
+    <name>Алексеенко Игорь Андреевич</name>
+    <address>ул. Комсомольская, 103, кв. 72</address>
+    <telephone>+38 (067) 213-34-55</telephone>
+  </buyers>
+  <buyers>
+    <id>2</id>
+    <name>Юхименко Алексей Игоревич</name>
+    <address>пр. Героев Сталинграда, 192, кв. 43</address>
+    <telephone>+38 (067) 564-81-90</telephone>
+  </buyers>
+  <buyers>
+    <id>3</id>
+    <name>Поляков Павел Викторович</name>
+    <address>ул. Клочковская, 8Б, кв. 76</address>
+    <telephone>+38 (097) 232-33-23</telephone>
+  </buyers>
+  <buyers>
+    <id>4</id>
+    <name>Пенкин Олег Петрович</name>
+    <address>ул. Танкопия, 14, кв. 54</address>
+    <telephone>+38 (093) 343-24-04</telephone>
+  </buyers>
+  <buyers>
+    <id>5</id>
+    <name>Платонова Елена Олеговна</name>
+    <address>ул. Клочковская, 98, кв. 21</address>
+    <telephone>+38 (097) 435-21-21</telephone>
+  </buyers>
+  <buyers>
+    <id>6</id>
+    <name>Королёва Анна Сергеевна</name>
+    <address>ул. Сумская, 19, кв. 45</address>
+    <telephone>+38 (067) 293-82-01</telephone>
+  </buyers>
+  <buyers>
+    <id>7</id>
+    <name>Яворская Ольга Дмитриевна</name>
+    <address>ул. Байрона, 35, кв. 16</address>
+    <telephone>+38 (098) 238-72-68</telephone>
+  </buyers>
+</ShopDataSet>

@@ -1,0 +1,5 @@
+C:\Подготовка\Job Interview\Task 4\NewArray\bin\Release\NewArray.exe.config
+C:\Подготовка\Job Interview\Task 4\NewArray\bin\Release\NewArray.exe
+C:\Подготовка\Job Interview\Task 4\NewArray\bin\Release\NewArray.pdb
+C:\Подготовка\Job Interview\Task 4\NewArray\obj\Release\NewArray.exe
+C:\Подготовка\Job Interview\Task 4\NewArray\obj\Release\NewArray.pdb

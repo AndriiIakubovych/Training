@@ -1,0 +1,46 @@
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\bin\Debug\ImagesGallery.exe.config
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\bin\Debug\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\bin\Debug\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery.g.resources
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\ImagesGallery\ImagesGallery\obj\Debug\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\bin\Debug\ImagesGallery.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\bin\Debug\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\bin\Debug\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\bin\Debug\ImagesGallery.exe.config
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\bin\Debug\ImagesGallery.exe
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\bin\Debug\ImagesGallery.pdb
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\MainWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\App.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery_MarkupCompile.cache
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery_MarkupCompile.lref
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\MainWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery.g.resources
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery.Properties.Resources.resources
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ImagesGallery.csproj.GenerateResource.Cache
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ImagesGallery.csprojResolveAssemblyReference.cache
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ProgressWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1 — копия\ImagesGallery\obj\Debug\ProgressWindow.baml
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ProgressWindow.g.cs
+C:\Подготовка\WPF\Lesson 2\Task 1\ImagesGallery\obj\Debug\ProgressWindow.baml

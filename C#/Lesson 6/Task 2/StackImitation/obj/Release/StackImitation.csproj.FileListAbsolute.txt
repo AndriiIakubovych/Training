@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\bin\Release\StackImitation.exe
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\bin\Release\StackImitation.pdb
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\obj\Release\StackImitation.exe
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\obj\Release\StackImitation.pdb

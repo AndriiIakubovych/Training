@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\bin\Release\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\bin\Release\OrdersInformation.pdb
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\obj\Release\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\OrdersInformation\OrdersInformation\obj\Release\OrdersInformation.pdb
+C:\Подготовка\C#\Lesson 8\Task 1\OrdersInformation\bin\Release\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\Task 1\OrdersInformation\bin\Release\OrdersInformation.pdb
+C:\Подготовка\C#\Lesson 8\Task 1\OrdersInformation\obj\Release\OrdersInformation.exe
+C:\Подготовка\C#\Lesson 8\Task 1\OrdersInformation\obj\Release\OrdersInformation.pdb

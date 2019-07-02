@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<process xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="education.xsd">
+  <groups>
+    <group name="EI-2-3">
+      <student>Maryam Abbas</student>
+      <student>Carrie Abbey</student>
+      <student>Jessica Abbott</student>
+      <student>Aaron Abshire</student>
+      <student>Paul Bendel</student>
+      <student>Carrie Abbey</student>
+      <student>Jason Berg</student>
+      <student>Kevin Carlson</student>
+      <student>John Carty</student>
+      <student>Tamara Davis</student>
+      <student>Christopher Dean</student>
+      <student>Colin Edwards</student>
+      <student>Tammy Gress</student>
+      <student>Chrissy Guerra</student>
+      <student>Matthew Haltom</student>
+      <student>Lisa Montez</student>
+      <student>Anthony Stokes</student>
+      <student>Sean Sullivan</student>
+      <student>John Taylor</student>
+      <student>Jeremy Warn</student>
+    </group>
+    <group name="MM-1-4">
+      <student>Daniel Amadi</student>
+      <student>Faris Amra</student>
+      <student>Philip Andrews</student>
+      <student>Jordan Baird</student>
+      <student>Melissa Barrie</student>
+      <student>Gordon Carey</student>
+      <student>Charles Carpenter</student>
+      <student>Thomas Chandler</student>
+      <student>Glenn Daniels</student>
+      <student>Chad Davis</student>
+      <student>Mary Kennedy</student>
+      <student>Sam Khashman</student>
+      <student>Shea Laravie</student>
+      <student>Rachel Myers</student>
+      <student>Megan Ormonde</student>
+      <student>Tammy Parlett</student>
+      <student>Marshall Pierce</student>
+      <student>Jessica Tines</student>
+      <student>Natalie Weber</student>
+      <student>Theodore Whitmore</student>
+    </group>
+    <group name="FC-2-1">
+      <student>Jane Andrashie</student>
+      <student>Nancy Artz</student>
+      <student>Courtney Barfield</student>
+      <student>Dustin Bartlett</student>
+      <student>Ricardo Chavez</student>
+      <student>Patrick Chong</student>
+      <student>Jewell Day</student>
+      <student>Rachel Drake</student>
+      <student>Alex Ellison</student>
+      <student>Kyle Ericksen</student>
+      <student>Stephen Frey</student>
+      <student>Carl Gibson</student>
+      <student>Lauren Greenwald</student>
+      <student>Evelyn Hernandez</student>
+      <student>Samantha Huber</student>
+      <student>Grace Olson</student>
+      <student>Lauren Patrick</student>
+      <student>Adam Stevenson</student>
+      <student>Chris Vlamis</student>
+      <student>Joseph Webb</student>
+    </group>
+    <group name="BD-3-4">
+      <student>Marshall Armstrong</student>
+      <student>Luke Backes</student>
+      <student>Shantel Barragan</student>
+      <student>Tom Cisco</student>
+      <student>Ray Clark</student>
+      <student>Sean Conwell</student>
+      <student>Rebecca Conway</student>
+      <student>Julie Crim</student>
+      <student>Mariah Delaney</student>
+      <student>Nichole Dooley</student>
+      <student>James Goodwin</student>
+      <student>Corina Grimes</student>
+      <student>Jerica Hardin</student>
+      <student>Katrina Moore</student>
+      <student>Rodney Morse</student>
+      <student>Andrew Neill</student>
+      <student>Dennis Ortiz</student>
+      <student>Samuel Vasquez</student>
+      <student>April White</student>
+      <student>Angela Zullinger</student>
+    </group>
+  </groups>
+  <subjects>
+    <subject>Physics</subject>
+    <subject>Сhemistry</subject>
+    <subject>Higher mathematics</subject>
+    <subject>Programming</subject>
+    <subject>Administration</subject>
+    <subject>Web-design</subject>
+  </subjects>
+  <teachers>
+    <teacher>Doris Wilson</teacher>
+    <teacher>Amy Smith</teacher>
+    <teacher>Lotus Jacob</teacher>
+    <teacher>Jack Turner</teacher>
+    <teacher>Daisy Bridgford</teacher>
+    <teacher>John Carpenter</teacher>
+    <teacher>Ruth Emmons</teacher>
+  </teachers>
+  <classes> 
+    <class>
+      <group>EI-2-3</group>
+      <subject>Higher mathematics</subject>
+      <teacher>Jack Turner</teacher>
+    </class>
+    <class>
+      <group>EI-2-3</group>
+      <subject>Physics</subject>
+      <teacher>Ruth Emmons</teacher>
+    </class>
+    <class>
+      <group>EI-2-3</group>
+      <subject>Сhemistry</subject>
+      <teacher>Jack Turner</teacher>
+    </class>
+    <class>
+      <group>MM-1-4</group>
+      <subject>Administration</subject>
+      <teacher>John Carpenter</teacher>
+    </class>
+    <class>
+      <group>MM-1-4</group>
+      <subject>Web-design</subject>
+      <teacher>Lotus Jacob</teacher>
+    </class>
+    <class>
+      <group>FC-2-1</group>
+      <subject>Physics</subject>
+      <teacher>Ruth Emmons</teacher>
+    </class>
+    <class>
+      <group>FC-2-1</group>
+      <subject>Programming</subject>
+      <teacher>Lotus Jacob</teacher>
+    </class>
+    <class>
+      <group>BD-3-4</group>
+      <subject>Web-design</subject>
+      <teacher>Daisy Bridgford</teacher>
+    </class>
+  </classes> 
+</process>

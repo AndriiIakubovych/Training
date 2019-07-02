@@ -1,0 +1,47 @@
+﻿@model Blog.PresentationLayer.Models.CommentViewModel
+
+@{ ViewBag.Title = "Guest Page"; }
+
+<div class="content">
+    <div class="content-header">
+        <h3 class="comments-content-header">Comments (@ViewBag.Count)</h3>
+    </div>
+    @foreach (var c in ViewBag.Comments)
+    {
+        <div class="content-text">
+            <div class="top-info">
+                <span>@c.AuthorName</span>
+                <time>@c.CommentDate.ToString("dd.MM.yyyy hh:mm:ss")</time>
+            </div>
+            <p>@c.CommentText</p>
+        </div>
+    }
+</div>
+@if (@ViewBag.Count == 0)
+{
+    <div class="space"></div>
+}
+<div class="content">
+    <div class="content-header">
+        <h3 class="leave-comment-content-header">Leave a comment</h3>
+    </div>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <div>
+            @Html.LabelFor(model => model.AuthorName, "Enter your name:")
+        </div>
+        <div>
+            @Html.EditorFor(model => model.AuthorName, new { htmlAttributes = new { maxlength = 50 } })
+            @Html.ValidationMessageFor(model => model.AuthorName)
+        </div>
+        <div>
+            @Html.LabelFor(model => model.CommentText, "Enter the comment text:")
+        </div>
+        <div>
+            @Html.TextAreaFor(model => model.CommentText)
+            @Html.ValidationMessageFor(model => model.CommentText)
+        </div>
+        <input type="submit" value="Send"/>
+    }
+</div>

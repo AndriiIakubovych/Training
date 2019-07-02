@@ -1,0 +1,7 @@
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\bin\Debug\StackImitation.exe
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\bin\Debug\StackImitation.pdb
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\obj\Debug\StackImitation.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\obj\Debug\StackImitation.exe
+C:\Подготовка\C#\Lesson 6\StackImitation\StackImitation\obj\Debug\StackImitation.pdb
+C:\Подготовка\C#\Lesson 6\Task 2\StackImitation\obj\Debug\StackImitation.exe
+C:\Подготовка\C#\Lesson 6\Task 2\StackImitation\obj\Debug\StackImitation.pdb

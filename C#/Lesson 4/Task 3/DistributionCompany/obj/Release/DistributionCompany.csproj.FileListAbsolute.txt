@@ -1,0 +1,8 @@
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\bin\Release\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\bin\Release\DistributionCompany.pdb
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\obj\Release\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\DistributionCompany\DistributionCompany\obj\Release\DistributionCompany.pdb
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\bin\Release\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\bin\Release\DistributionCompany.pdb
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\obj\Release\DistributionCompany.exe
+C:\Подготовка\C#\Lesson 4\Task 3\DistributionCompany\obj\Release\DistributionCompany.pdb

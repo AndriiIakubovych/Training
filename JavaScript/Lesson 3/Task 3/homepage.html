@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <script type="text/javascript" src="js/main.js"></script>
+        <title>Строковый буфер</title>
+    </head>
+    <body>
+        <form>
+            <input name="data" type="text"/>
+            <input type="button" value="Добавить" onclick="buffer(data.value); data.value = ''"/>
+            <input type="button" value="Получить" onclick="alert(buffer())"/>
+            <input type="button" value="Очистить" onclick="buffer.clean()"/>
+        </form>
+    </body>
+</html>

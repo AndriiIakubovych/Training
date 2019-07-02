@@ -1,0 +1,27 @@
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\bin\Debug\TextEditorProject.exe
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\bin\Debug\TextEditorProject.pdb
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.exe
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.pdb
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.YesNoCancelForm.resources
+C:\Подготовка\C#\Lesson 26\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.exe
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.pdb
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\bin\Debug\TextEditorProject.exe
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\bin\Debug\TextEditorProject.pdb
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.YesNoCancelForm.resources
+C:\Подготовка\C#\Lesson 26\Task 2\TextEditorProject\obj\Debug\TextEditorProject.csproj.GenerateResource.Cache
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.exe
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\bin\Debug\TextEditorProject.exe
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\bin\Debug\TextEditorProject.pdb
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.csprojResolveAssemblyReference.cache
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.MainForm.resources
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.Properties.Resources.resources
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.YesNoCancelForm.resources
+C:\Подготовка\C#\Lesson 32\Task 2\TextEditorProject\obj\Debug\TextEditorProject.csproj.GenerateResource.Cache

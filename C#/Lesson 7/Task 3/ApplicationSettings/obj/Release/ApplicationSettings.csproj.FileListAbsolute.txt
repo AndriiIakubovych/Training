@@ -1,0 +1,4 @@
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\bin\Release\ApplicationSettings.exe
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\bin\Release\ApplicationSettings.pdb
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\obj\Release\ApplicationSettings.exe
+C:\Подготовка\C#\Lesson 7\ApplicationSettings\ApplicationSettings\obj\Release\ApplicationSettings.pdb
