@@ -1,0 +1,6 @@
+C:\Training\Job Interview\StringSort\StringSort\bin\Debug\StringSort.exe.config
+C:\Training\Job Interview\StringSort\StringSort\bin\Debug\StringSort.exe
+C:\Training\Job Interview\StringSort\StringSort\bin\Debug\StringSort.pdb
+C:\Training\Job Interview\StringSort\StringSort\obj\Debug\StringSort.csprojResolveAssemblyReference.cache
+C:\Training\Job Interview\StringSort\StringSort\obj\Debug\StringSort.exe
+C:\Training\Job Interview\StringSort\StringSort\obj\Debug\StringSort.pdb
