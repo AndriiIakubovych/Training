@@ -1,5 +1,5 @@
-GO
-CREATE VIEW PressProgrammBooks AS SELECT Press_id, COUNT(Press_id) AS Press_programm_books_count FROM Books, Themes WHERE Theme_name LIKE '%программирование%' AND Books.Theme_id = Themes.Theme_id GROUP BY Press_id;
+п»їGO
+CREATE VIEW PressProgrammBooks AS SELECT Press_id, COUNT(Press_id) AS Press_programm_books_count FROM Books, Themes WHERE Theme_name LIKE '%РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ%' AND Books.Theme_id = Themes.Theme_id GROUP BY Press_id;
 GO
 SELECT PressProgrammBooks.Press_id, Press_name, Press_programm_books_count FROM PressProgrammBooks, Press WHERE Press_programm_books_count = (SELECT MAX(Press_programm_books_count) FROM PressProgrammBooks) AND PressProgrammBooks.Press_id = Press.Press_id;
 DROP VIEW PressProgrammBooks;

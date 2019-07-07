@@ -1,4 +1,4 @@
-GO
+п»їGO
 CREATE PROCEDURE GetWithBooksStudents
 AS
 SELECT StudentsCards.Student_id, Student_first_name, Student_last_name FROM StudentsCards, Students, Books WHERE In_date IS NULL AND StudentsCards.Student_id = Students.Student_id AND StudentsCards.Book_id = Books.Book_id;
@@ -102,7 +102,7 @@ RETURNS TABLE
 AS
 RETURN (SELECT Book_id, Book_name, Pages_count, Press_year FROM Books, Authors, Themes, Categories WHERE Author_first_name = @authorFirstName AND Author_last_name = @authorLastName AND Theme_name = @theme AND Category_name = @category AND Books.Author_id = Authors.Author_id AND Books.Theme_id = Themes.Theme_id AND Books.Category_id = Categories.Category_id);
 GO
-SELECT * FROM GetBooksList('Джеймс', 'Грофф', 'Базы данных', 'Язык SQL');
+SELECT * FROM GetBooksList('Р”Р¶РµР№РјСЃ', 'Р“СЂРѕС„С„', 'Р‘Р°Р·С‹ РґР°РЅРЅС‹С…', 'РЇР·С‹Рє SQL');
 GO
 CREATE FUNCTION GetGivenBooksCount()
 RETURNS @librarians TABLE (Librarian_id INT, Librarian_name VARCHAR(50), Books_count INT)
@@ -178,7 +178,7 @@ DECLARE @bookId INT;
 SELECT @bookId = Book_id FROM Books WHERE Books_count = 0;
 IF (EXISTS(SELECT * FROM inserted WHERE Book_id = @bookId))
 BEGIN
-raiserror('Данная книга отсутствует в библиотеке!', 0, 1);
+raiserror('Р”Р°РЅРЅР°СЏ РєРЅРёРіР° РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ РІ Р±РёР±Р»РёРѕС‚РµРєРµ!', 0, 1);
 ROLLBACK TRANSACTION;
 END
 GO
@@ -190,7 +190,7 @@ DECLARE @bookId INT;
 SELECT @bookId = Book_id FROM Books WHERE Books_count = 0;
 IF (EXISTS(SELECT * FROM inserted WHERE Book_id = @bookId))
 BEGIN
-raiserror('Данная книга отсутствует в библиотеке!', 0, 1);
+raiserror('Р”Р°РЅРЅР°СЏ РєРЅРёРіР° РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ РІ Р±РёР±Р»РёРѕС‚РµРєРµ!', 0, 1);
 ROLLBACK TRANSACTION;
 END
 GO
@@ -202,7 +202,7 @@ DECLARE @bookId INT;
 SELECT @bookId = Book_id FROM Books WHERE Books_count = 0;
 IF (EXISTS(SELECT * FROM inserted WHERE Book_id = @bookId))
 BEGIN
-raiserror('Данная книга отсутствует в библиотеке!', 0, 1);
+raiserror('Р”Р°РЅРЅР°СЏ РєРЅРёРіР° РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ РІ Р±РёР±Р»РёРѕС‚РµРєРµ!', 0, 1);
 ROLLBACK TRANSACTION;
 END
 GO
@@ -214,7 +214,7 @@ DECLARE @bookId INT;
 SELECT @bookId = Book_id FROM Books WHERE Books_count = 0;
 IF (EXISTS(SELECT * FROM inserted WHERE Book_id = @bookId))
 BEGIN
-raiserror('Данная книга отсутствует в библиотеке!', 0, 1);
+raiserror('Р”Р°РЅРЅР°СЏ РєРЅРёРіР° РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ РІ Р±РёР±Р»РёРѕС‚РµРєРµ!', 0, 1);
 ROLLBACK TRANSACTION;
 END
 GO
@@ -227,7 +227,7 @@ SELECT @studentId = Student_id FROM inserted;
 SELECT @studentsCount = COUNT(Student_id) FROM StudentsCards WHERE Student_id = @studentId GROUP BY Student_id;
 IF (@studentsCount >= 3)
 BEGIN
-raiserror('Нельзя выдать более трёх книг одному студенту!', 0, 1);
+raiserror('РќРµР»СЊР·СЏ РІС‹РґР°С‚СЊ Р±РѕР»РµРµ С‚СЂС‘С… РєРЅРёРі РѕРґРЅРѕРјСѓ СЃС‚СѓРґРµРЅС‚Сѓ!', 0, 1);
 ROLLBACK TRANSACTION;
 END
 GO
@@ -240,7 +240,7 @@ SELECT @studentId = Student_id FROM inserted;
 SELECT @studentsCount = COUNT(Student_id) FROM StudentsCards WHERE Student_id = @studentId GROUP BY Student_id;
 IF (@studentsCount >= 3)
 BEGIN
-raiserror('Нельзя выдать более трёх книг одному студенту!', 0, 1);
+raiserror('РќРµР»СЊР·СЏ РІС‹РґР°С‚СЊ Р±РѕР»РµРµ С‚СЂС‘С… РєРЅРёРі РѕРґРЅРѕРјСѓ СЃС‚СѓРґРµРЅС‚Сѓ!', 0, 1);
 ROLLBACK TRANSACTION;
 END
 GO

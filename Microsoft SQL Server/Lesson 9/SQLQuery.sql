@@ -1,4 +1,4 @@
-EXECUTE sp_addumpdevice 'disk', 'ShopBackup', 'D:\Shop\ShopBackup.bak';
+﻿EXECUTE sp_addumpdevice 'disk', 'ShopBackup', 'D:\Shop\ShopBackup.bak';
 EXECUTE sp_addumpdevice 'disk', 'ShopBackup_log', 'D:\Shop\ShopBackup_log.bak';
 EXECUTE sp_helpdevice;
 DBCC CHECKDB ('Shop') WITH ALL_ERRORMSGS;
