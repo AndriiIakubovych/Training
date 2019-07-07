@@ -1,8 +1,8 @@
-≈ÒÚ¸ Ó·˙ÂÍÚ˚:
+Ôªø–ï—Å—Ç—å –æ–±—ä–µ–∫—Ç—ã:
 
 var head = { glasses: 1 };
 var table = { pen: 3 };
 var bed = { sheet: 1, pillow: 2 };
 var pockets = { money: 2000 };
 
-œËÒ‚ÓËÚ¸ Ó·˙ÂÍÚ‡Ï ÒÒ˚ÎÍË __proto__ Ú‡Í, ˜ÚÓ·˚ Î˛·ÓÈ ÔÓËÒÍ ˜Â„Ó-ÎË·Ó ¯∏Î ÔÓ ‡Î„ÓËÚÏÛ pockets -> bed -> table -> head. “Ó ÂÒÚ¸ pockets.pen == 3, bed.glasses == 1, ÌÓ table.money == undefined. ŒÔÂ‰ÂÎËÚ¸, Í‡Í ·˚ÒÚÂÂ ËÒÍ‡Ú¸ glasses: Ó·‡˘ÂÌËÂÏ Í pockets.glasses ËÎË head.glasses.
+–ü—Ä–∏—Å–≤–æ–∏—Ç—å –æ–±—ä–µ–∫—Ç–∞–º —Å—Å—ã–ª–∫–∏ __proto__ —Ç–∞–∫, —á—Ç–æ–±—ã –ª—é–±–æ–π –ø–æ–∏—Å–∫ —á–µ–≥–æ-–ª–∏–±–æ —à—ë–ª –ø–æ –∞–ª–≥–æ—Ä–∏—Ç–º—É pockets -> bed -> table -> head. –¢–æ –µ—Å—Ç—å pockets.pen == 3, bed.glasses == 1, –Ω–æ table.money == undefined. –û–ø—Ä–µ–¥–µ–ª–∏—Ç—å, –∫–∞–∫ –±—ã—Å—Ç—Ä–µ–µ –∏—Å–∫–∞—Ç—å glasses: –æ–±—Ä–∞—â–µ–Ω–∏–µ–º –∫ pockets.glasses –∏–ª–∏ head.glasses.
