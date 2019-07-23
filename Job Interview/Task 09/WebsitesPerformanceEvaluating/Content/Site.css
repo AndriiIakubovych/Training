@@ -1,0 +1,475 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    min-width: 1000px;
+    height: 100%;
+    background-color: #f5f6f5;
+    font-family: Arial, sans-serif;
+    padding: 0;
+}
+
+ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.form-control::-webkit-input-placeholder
+{
+    color: #b0b0b0;
+}
+
+.form-control:-moz-placeholder
+{
+    color: #b0b0b0;
+}
+
+.form-control::-moz-placeholder
+{
+    color: #b0b0b0;
+}
+
+.form-control:-ms-input-placeholder
+{
+    color: #b0b0b0;
+}
+
+header
+{
+    height: 60px;
+    background-color: #e6e6e6;
+    border-bottom: 1px solid #cccccc;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+}
+
+header .logo
+{
+    position: absolute;
+    top: 5px;
+    left: 5%;
+}
+
+header .logo img
+{
+    height: 50px;
+}
+
+header .menu li
+{
+    margin-right: 40px;
+    display: inline-block;
+}
+
+header .menu li:last-child
+{
+    margin-right: 0;
+}
+
+header .menu li a 
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+    text-decoration: none;
+    text-transform: uppercase;
+    outline: none;
+}
+
+header .menu li .item-line
+{
+    height: 2px;
+    background-image: linear-gradient(to left, transparent 50%, #339933 50%);
+    background-size: 200% 100%;
+    background-position: right top;
+    transition: all 0.5s ease;
+}
+
+header .menu .active .item-line
+{
+    background-color: #339933;
+}
+
+header .menu li:hover .item-line
+{
+    background-position: left top;
+}
+
+main
+{
+    min-height: calc(100% - 162px);
+    background-color: #f0f0f0;
+    border: 1px solid #d2d2d2;
+    margin: 30px;
+    padding: 20px;
+}
+
+main h1
+{
+    font-family: Calibri;
+    font-size: 40px;
+    color: #333333;
+    text-align: center;
+    text-shadow: 1px 1px white;
+}
+
+main h1
+{
+    font-family: Calibri;
+    font-size: 40px;
+    color: #333333;
+    text-align: center;
+    text-shadow: 1px 1px white;
+}
+
+main form label
+{
+    font-weight: bold;
+    color: #006699;
+    margin: 0;
+    display: block;
+}
+
+main form .test-data-input
+{
+    justify-content: space-between;
+    display: flex;
+}
+
+main form .test-data-input .url-input
+{
+    width: 100%;
+    height: 37px;
+}
+
+main form .test-data-input .start-test
+{
+    width: 200px;
+    height: 37px;
+    background-color: #28a745 !important;
+    background-image: url(images/speed.png);
+    background-repeat: no-repeat;
+    background-size: 20px 16px;
+    background-position: 20px 10px;
+    border-radius: 4px !important;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0 0 0 15px;
+    padding: 0 0 0 25px;
+}
+
+main form .test-data-input .start-test:hover
+{
+    background-color: #218838 !important;
+}
+
+main form .loading-status
+{
+    margin-top: 10px;
+    display: none;
+}
+
+main form .loading-status .loading-status-spinner
+{
+    width: 15px;
+    height: 15px;
+    border-top-color: #006699;
+    border-bottom-color: #006699;
+    border-left-color: #006699;
+}
+
+main form .loading-status .loading-status-text
+{
+    font-size: 17px;
+    font-weight: bold;
+    color: #006699;
+}
+
+main form .error-status
+{
+    margin-top: 10px;
+    display: none;
+}
+
+main form .error-status .error-status-text
+{
+    font-size: 17px;
+    font-weight: bold;
+    color: #dc3545;
+}
+
+main form .error-validation
+{
+    font-size: 17px;
+    font-weight: bold;
+    color: #dc3545;
+    margin-top: 10px;
+}
+
+main .test
+{
+    background-color: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 20px;
+    visibility: hidden;
+}
+
+main .test .test-table
+{
+    width: 100% !important;
+    border-collapse: initial;
+    border-spacing: 0;
+    border-top-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+    margin-bottom: 0;
+}
+
+main .test .test-table tr th
+{
+    background-color: #006699;
+    border-color: #006699;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+main .test .test-table tr th:first-child
+{
+    border-right: 1px solid #dee2e6;
+    border-top-left-radius: 5px;
+}
+
+main .test .test-table tr th:last-child
+{
+    border-left: 1px solid #dee2e6;
+    border-top-right-radius: 5px;
+}
+
+main .test .test-table tr th:not(:first-child)
+{
+    width: 190px !important;
+}
+
+main .test .test-table tr td
+{
+    border: 1px solid #dee2e6;
+    border-top: none;
+}
+
+main .test .test-table tr td:first-child
+{
+    border-right: none;
+}
+
+main .test .test-table tr td:last-child
+{
+    border-left: none;
+}
+
+main .history
+{
+    background-color: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+main .history .history-table
+{
+    width: 100% !important;
+    margin-bottom: 0;
+}
+
+main .history .history-table tbody tr:hover
+{
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+main .history .history-table tr th
+{
+    background-color: #006699;
+    border-color: #006699;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+main .history .history-table tr th:first-child
+{
+    display: none;
+}
+
+main .history .history-table tr th:nth-child(2)
+{
+    border-top-left-radius: 5px;
+}
+
+main .history .history-table tr th:last-child
+{
+    border-top-right-radius: 5px;
+    text-align: center;
+}
+
+main .history .history-table tr td:first-child
+{
+    display: none;
+}
+
+main .history .history-table tr td:last-child
+{
+    width: 70px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    padding: 0;
+}
+
+main .history .history-table tr td .remove
+{
+    width: 30px;
+    background-color: #dc3545 !important;
+    line-height: 30px;
+    margin: 0 auto 0 auto;
+    padding: 0;
+}
+
+main .history .history-table tr td .remove:hover
+{
+    background-color: #c82333 !important;
+}
+
+main .history .pagination .active a
+{
+    background-color: #006699 !important;
+}
+
+#dialog .modal-dialog
+{
+    width: 400px;
+}
+
+#dialog .modal-content
+{
+    border-radius: 6px;
+}
+
+#dialog .modal-header
+{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#dialog .modal-header .close
+{
+    outline: none;
+}
+
+#dialog .modal-footer button
+{
+    width: 140px;
+    height: 40px;
+    padding: 0;
+}
+
+#dialog .modal-footer .ok
+{
+    background-color: #28a745 !important;
+    border-radius: 4px !important;
+}
+
+#dialog .modal-footer .ok:hover
+{
+    background-color: #218838 !important;
+}
+
+#dialog .modal-footer .cancel
+{
+    background-color: #dc3545 !important;
+    border-radius: 4px !important;
+}
+
+#dialog .modal-footer .cancel:hover
+{
+    background-color: #c82333 !important;
+}
+
+main #testid
+{
+    display: none;
+}
+
+main .graph-results
+{
+    background-color: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+main .graph-results .section-name
+{
+    font-weight: bold;
+    color: #006699;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+main .table-results
+{
+    background-color: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+main .table-results .section-name
+{
+    font-weight: bold;
+    color: #006699;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+main .table-results .results-table
+{
+    margin-bottom: 0;
+}
+
+main .table-results .results-table tr th
+{
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+main .table-results .results-table tr th:not(:first-child)
+{
+    width: 180px !important;
+}
+
+footer
+{
+    height: 40px;
+    background-color: #e6e6e6;
+    border-top: 1px solid #cccccc;
+}
+
+footer p
+{
+    font-size: 14px;
+    text-align: center;
+    line-height: 40px;
+    margin: 0;
+}

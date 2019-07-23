@@ -1,0 +1,31 @@
+﻿@model IEnumerable<WebsitesPerformanceEvaluating.Models.Test>
+
+@{ ViewBag.Title = "History"; }
+
+<h1>Tests results history</h1>
+<section class="history">
+    <table class="table table-striped history-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Website</th>
+                <th>Date and time</th>
+                <th><i class="fa fa-cog"></i></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.HiddenFor(modelItem => item.TestId)</td>
+                    <td>@item.Website</td>
+                    <td>@item.TestDate</td>
+                    <td><a class="btn btn-danger remove" href="@Url.Action("DeleteTest", new { testId = item.TestId })"><i class="fa fa-trash-o"></i></a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
+<div id="dialog" class="modal fade">
+    <div id="content" class="modal-dialog"></div>
+</div>
