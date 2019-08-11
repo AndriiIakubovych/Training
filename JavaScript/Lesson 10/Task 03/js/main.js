@@ -18,4 +18,4 @@
         }
     }
     document.body.appendChild(table);
-}
+};

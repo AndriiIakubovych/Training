@@ -13,4 +13,4 @@ window.onload = function ()
 {
     var beginValue = +prompt("Введите начальное значение:", 1);
     accumulator = new Accumulator(beginValue ? beginValue : 0);
-}
+};

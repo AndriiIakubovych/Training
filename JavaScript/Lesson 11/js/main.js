@@ -3,7 +3,7 @@
 window.onload = function ()
 {
     document.getElementsByName("expact")[0].value = document.getElementById("list").getElementsByTagName("li")[0].innerText + " " + document.getElementById("arrow-down").innerText;
-}
+};
 
 window.onclick = function ()
 {
@@ -14,7 +14,7 @@ window.onclick = function ()
         document.getElementById("list").style.display = "none";
         isVisible = false;
     }
-}
+};
 
 function expactMenu()
 {

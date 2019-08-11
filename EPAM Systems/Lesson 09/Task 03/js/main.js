@@ -9,4 +9,4 @@ function increase()
 window.onload = function ()
 {
     increase();
-}
+};

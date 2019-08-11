@@ -5,6 +5,7 @@
 
 body
 {
+    min-width: 750px;
     height: 100%;
     font-family: Arial;
     justify-content: center;

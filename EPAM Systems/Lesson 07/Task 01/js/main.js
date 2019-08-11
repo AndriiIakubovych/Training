@@ -9,4 +9,4 @@
             alert(userMood + " is the same with me, " + userName + "!");
         }
     }
-}
+};

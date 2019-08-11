@@ -748,7 +748,7 @@
     instance.createStatistisOnPanel("Ваш статус", instance.playerField);
     instance.createStatistisOnPanel("Статус компьютера", instance.computerField);
     window.onresize();
-}
+};
 
 ;(function (ELEMENT)
 {

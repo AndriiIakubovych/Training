@@ -9,4 +9,4 @@ function getClickCount()
 window.onload = function ()
 {
     document.getElementById("click-counter").value = "Pressed " + counter + " times";
-}
+};

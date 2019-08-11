@@ -29,4 +29,4 @@
         alert("Сумма = " + calculator.sum());
         alert("Произведение = " + calculator.mul());
     }
-}
+};

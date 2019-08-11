@@ -5,4 +5,4 @@
     for (var i = 0; i < dayOfWeek.length; i++)
         if (dayOfWeek[i].key === today)
             document.getElementById("day-of-week-name").innerHTML = dayOfWeek[i].name;
-}
+};

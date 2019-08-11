@@ -14,4 +14,4 @@
             urlsList.appendChild(urlsListItems[i]);
         }
     }
-}
+};

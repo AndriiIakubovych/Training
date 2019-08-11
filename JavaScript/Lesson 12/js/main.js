@@ -20,4 +20,4 @@
             position = -maxWidth;
         list.style.marginLeft = position + "px";
     };
-}
+};

@@ -78,4 +78,4 @@
         moveLeft = false;
         moveTop = false;
     }
-}
+};

@@ -132,7 +132,7 @@ window.onload = function ()
             getForecast(cities[i].enName);
             break;
         }
-}
+};
 
 function onCityChange()
 {

@@ -27,4 +27,4 @@
         alert(calculator.sum());
         alert(calculator.mul());
     }
-}
+};

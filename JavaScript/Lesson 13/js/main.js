@@ -178,4 +178,4 @@
         positionCells(tds);
         startAnimation(tds);
     }
-}
+};

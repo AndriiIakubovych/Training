@@ -32,10 +32,12 @@ calc.addMethod("*", function (a, b)
 {
     return a * b;
 });
+
 calc.addMethod("/", function (a, b)
 {
     return a / b;
 });
+
 calc.addMethod("**", function (a, b)
 {
     return Math.pow(a, b);

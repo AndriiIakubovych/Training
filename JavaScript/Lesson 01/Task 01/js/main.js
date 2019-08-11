@@ -3,7 +3,7 @@
     calculateForThreeNumbers();
     calculateForFourNumbers();
     calculateForFiveNumbers();
-}
+};
 
 function calculateForThreeNumbers()
 {

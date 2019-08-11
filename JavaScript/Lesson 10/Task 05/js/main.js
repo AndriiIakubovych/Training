@@ -24,4 +24,4 @@
     }
     str += "</tbody></table>";
     document.body.innerHTML = str;
-}
+};

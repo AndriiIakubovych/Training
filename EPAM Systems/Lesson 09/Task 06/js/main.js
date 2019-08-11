@@ -176,4 +176,4 @@
         }
         document.getElementsByClassName("true-answers-percent")[0].innerHTML = "Percent of true answered questions: " + (trueAnswersCount / questionsArray.length * 100) + "%";
     }
-}
+};
