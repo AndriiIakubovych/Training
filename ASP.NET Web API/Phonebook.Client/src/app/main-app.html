@@ -1,0 +1,50 @@
+﻿<div [style.display]="display">
+    <form class="top-form">
+        <div class="form-group form-inline">
+            Поиск: <input id="search" class="form-control ml-2" name="search" type="text" [(ngModel)]="searchableText" (keyup)="search()"/>
+        </div>
+        <button class="btn btn-lg btn-primary add-button" (click)="openAddModal()">+ Добавить</button>
+    </form>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col" sortable="name" (sort)="onSort($event)">Имя субъекта</th>
+                <th scope="col">Тип</th>
+                <th scope="col">Адрес</th>
+                <th scope="col">Телефон</th>
+                <th scope="col"><i class="fa fa-cog"></i></th>
+            </tr>
+        </thead>
+        <tbody *ngIf="subjectsList.length > 0; else empty">
+            <tr *ngFor="let subject of subjectsList">
+                <td>{{ subject.Name }}</td>
+                <td>{{ subject.Type }}</td>
+                <td>{{ subject.Address }}</td>
+                <td>{{ prefix + subject.Telephone }}</td>
+                <td>
+                    <button class="btn btn-lg btn-success edit-button" (click)="openEditModal(subject)"><i class="fa fa-pencil-square-o"></i></button>
+                    <button class="btn btn-lg btn-danger delete-button" (click)="openDeleteModal(subject)"><i class="fa fa-trash-o"></i></button>
+                </td>
+            </tr>
+        </tbody>
+        <ng-template #empty>
+            <tbody>
+                <tr>
+                    <td colspan="5">Данные отсутствуют!</td>
+                </tr>
+            </tbody>
+        </ng-template>
+    </table>
+    <div class="d-flex justify-content-between p-2">
+        <ngb-pagination [collectionSize]="subjectsCount" [(page)]="page" [pageSize]="pageSize"></ngb-pagination>
+        <select class="custom-select" [(ngModel)]="pageSize">
+            <option [ngValue]="10">10 записей на странице</option>
+            <option [ngValue]="25">25 записей на странице</option>
+            <option [ngValue]="50">50 записей на странице</option>
+            <option [ngValue]="100">100 записей на странице</option>
+        </select>
+    </div>
+    <add-modal #addmodal [subjects]="subjects" [prefix]="prefix" [searchable]="searchableText"></add-modal>
+    <edit-modal #editmodal [subjects]="subjects" [prefix]="prefix"></edit-modal>
+    <delete-modal #deletemodal [subjects]="subjects"></delete-modal>
+</div>

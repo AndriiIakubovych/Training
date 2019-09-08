@@ -1,0 +1,109 @@
+﻿body
+{
+    font-family: Arial;
+    padding: 10px;
+}
+
+.top-form
+{
+    min-width: 700px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.top-form .add-button
+{
+    width: 150px;
+    height: 40px;
+    padding: 0;
+}
+
+table 
+{
+    min-width: 700px;
+}
+
+table tr th:last-child
+{
+    text-align: center;
+}
+
+table tr th[sortable]
+{
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+table tr th[sortable].desc:before, table tr th[sortable].asc:before
+{
+    content: "";
+    width: 22px;
+    height: 22px;
+    background: url(../images/sort.png) no-repeat;
+    background-size: 22px;
+    float: left;
+    margin-left: -22px;
+    display: block;
+}
+
+table tr th[sortable].desc:before 
+{
+    transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+}
+
+table tr td 
+{
+    vertical-align: middle !important;
+}
+
+table tr td:last-child 
+{
+    width: 120px;
+}
+
+.edit-button
+{
+    width: 40px;
+    height: 30px;
+    padding: 0;
+}
+
+.delete-button 
+{
+    width: 40px;
+    height: 30px;
+    margin-left: 10px;
+    padding: 0;
+}
+
+.fade
+{
+    transition: initial !important;
+}
+
+.modal-dialog .form-group input:not(:last-child)
+{
+    margin-bottom: 20px;
+}
+
+.modal-dialog .form-group select
+{
+    margin-bottom: 20px;
+}
+
+.modal-dialog .close 
+{
+    outline: none !important;
+}
+
+.modal-dialog button[type="submit"]
+{
+    width: 100px;
+}
+
+.custom-select
+{
+    width: auto;
+}

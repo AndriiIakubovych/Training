@@ -1,0 +1,28 @@
+﻿<ng-template #content let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title">Редактирование данных</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss()">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+        <form #editform>
+            <div class="form-group">
+                <label for="editname">Имя субъекта:</label>
+                <input id="editname" class="form-control" name="editname" type="text" maxlength="100" [(ngModel)]="subject.Name">
+                <label for="edittype">Тип:</label>
+                <select id="edittype" class="form-control" name="edittype" [(ngModel)]="subject.Type">
+                    <option>Физическое лицо</option>
+                    <option>Юридическое лицо</option>
+                </select>
+                <label for="editaddress">Адрес:</label>
+                <input id="editaddress" class="form-control" name="editaddress" type="text" [(ngModel)]="subject.Address">
+                <label for="edittelephone">Телефон:</label>
+                <input id="edittelephone" class="form-control" name="edittelephone" type="tel" [(ngModel)]="subject.Telephone" prefix="{{ prefix }}" mask="(000) 000-00-00" [showMaskTyped]="true" [dropSpecialCharacters]="false">
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="submit" class="btn btn-outline-dark" [disabled]="!subject.Name || !subject.Address || !subject.Telephone" (click)="modal.close()">Изменить</button>
+    </div>
+</ng-template>

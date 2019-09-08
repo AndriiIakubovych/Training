@@ -1,0 +1,533 @@
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\Work\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\Phonebook\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\Phonebook — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Autofac.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Autofac.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.pdb
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\ASP.NET Web API — копия\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Autofac.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Autofac.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.pdb
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\ASP.NET Web API2\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll.config
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Phonebook.Server.pdb
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.exe.config
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csc.rsp
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.exe.config
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\csi.rsp
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.AppContext.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Collections.Immutable.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Console.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Compression.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.IO.Pipes.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.AccessControl.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Claims.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.ValueTuple.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.exe.config
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\vbc.rsp
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\roslyn\VBCSCompiler.exe.config
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Autofac.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Cors.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Autofac.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.pdb
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Autofac.Integration.WebApi.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\EntityFramework.SqlServer.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.Cors.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Newtonsoft.Json.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Net.Http.Formatting.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\System.Web.Http.WebHost.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csprojAssemblyReference.cache
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CoreCompileInputs.cache
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.csproj.CopyComplete
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.dll
+C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Debug\Phonebook.Server.pdb
