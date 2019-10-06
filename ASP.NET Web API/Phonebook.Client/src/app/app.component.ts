@@ -15,7 +15,6 @@ export interface SortEvent
 }
 
 @Directive({ selector: "th[sortable]", host: { "[class.asc]": "direction === 'asc'", "[class.desc]": "direction === 'desc'", "(click)": "rotate()" } })
-
 export class SortableHeader
 {
     @Input() sortable: string;
@@ -30,7 +29,6 @@ export class SortableHeader
 }
 
 @Component({ selector: "main-app", templateUrl: "main-app.html", providers: [HttpService] })
-
 export class AppComponent
 {
     searchableText: string;

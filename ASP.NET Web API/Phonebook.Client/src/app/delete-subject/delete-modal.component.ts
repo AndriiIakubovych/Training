@@ -4,7 +4,6 @@ import { Subject } from "../subject";
 import { HttpService } from "../http.service";
 
 @Component({ selector: "delete-modal", templateUrl: "delete-modal.html", providers: [HttpService] })
-
 export class DeleteModalComponent
 {
     @Input() subjects: Subject[];

@@ -4,7 +4,6 @@ import { Subject } from "../subject";
 import { HttpService } from "../http.service";
 
 @Component({ selector: "add-modal", templateUrl: "add-modal.html", providers: [HttpService] })
-
 export class AddModalComponent
 {
     subject: Subject;
