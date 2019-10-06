@@ -12,5 +12,4 @@ import { SortableHeader, AppComponent } from "./app.component";
 export let options: Partial<IConfig> | (() => Partial<IConfig>);
 
 @NgModule({ imports: [BrowserModule, FormsModule, NgbModule, HttpClientModule, NgxMaskModule.forRoot(options)], declarations: [AppComponent, SortableHeader, AddModalComponent, EditModalComponent, DeleteModalComponent], exports: [AppComponent, AddModalComponent, EditModalComponent, DeleteModalComponent], bootstrap: [AppComponent, AddModalComponent, EditModalComponent, DeleteModalComponent] })
-
 export class AppModule { }
