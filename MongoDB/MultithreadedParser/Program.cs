@@ -11,11 +11,12 @@ namespace MultithreadedParser
             int maxThreads = 50;
             string text;
             List<Item> itemsList;
-            RegardSpider spider = new RegardSpider(maxThreads);
+            RegardSpider spider;
             Console.Title = "Многопоточный парсер";
             Console.WriteLine("Идёт получение и обработка данных...");
             try
             {
+                spider = new RegardSpider(maxThreads);
                 spider.Encoding = Encoding.GetEncoding(1251);
                 spider.Start();
                 Console.WriteLine("\nИнформация успешно занесена в БД!");
