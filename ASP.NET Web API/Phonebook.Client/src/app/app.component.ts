@@ -28,7 +28,7 @@ export class SortableHeader
     }
 }
 
-@Component({ selector: "main-app", templateUrl: "main-app.html", providers: [HttpService] })
+@Component({ selector: "main-app", templateUrl: "app.component.html", providers: [HttpService] })
 export class AppComponent
 {
     searchableText: string;

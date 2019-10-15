@@ -3,7 +3,7 @@ import { NgbModal } from "@ng-bootstrap/ng-bootstrap";
 import { Subject } from "../subject";
 import { HttpService } from "../http.service";
 
-@Component({ selector: "edit-modal", templateUrl: "edit-modal.html", providers: [HttpService] })
+@Component({ selector: "edit-modal", templateUrl: "edit-modal.component.html", providers: [HttpService] })
 export class EditModalComponent
 {
     subject: Subject;

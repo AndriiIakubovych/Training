@@ -73,7 +73,6 @@ C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Net.
 C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.resources.dll
 C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\bin\ru\System.Web.Http.WebHost.resources.dll
 C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Release\Phonebook.Server.csprojAssemblyReference.cache
-C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Release\Phonebook.Server.csproj.CoreCompileInputs.cache
 C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Release\Phonebook.Server.csproj.CopyComplete
 C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Release\Phonebook.Server.dll
 C:\Training\ASP.NET Web API\Phonebook.Server\Phonebook.Server\obj\Release\Phonebook.Server.pdb

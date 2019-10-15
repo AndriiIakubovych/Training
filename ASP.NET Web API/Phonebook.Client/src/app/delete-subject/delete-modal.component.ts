@@ -3,7 +3,7 @@ import { NgbModal } from "@ng-bootstrap/ng-bootstrap";
 import { Subject } from "../subject";
 import { HttpService } from "../http.service";
 
-@Component({ selector: "delete-modal", templateUrl: "delete-modal.html", providers: [HttpService] })
+@Component({ selector: "delete-modal", templateUrl: "delete-modal.component.html", providers: [HttpService] })
 export class DeleteModalComponent
 {
     @Input() subjects: Subject[];
