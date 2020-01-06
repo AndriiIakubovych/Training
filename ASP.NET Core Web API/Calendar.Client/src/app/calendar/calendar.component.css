@@ -1,0 +1,204 @@
+﻿.main
+{
+    height: 100%;
+}
+
+.main-header
+{
+    height: 70px;
+    border-bottom: 1px solid #e1e1e1;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px 0 30px;
+    display: flex;
+}
+
+.main-header button
+{
+    height: 35px;
+    outline: none;
+}
+
+.main-header .month-change
+{
+    width: 33%;
+    min-width: 400px;
+    display: flex;
+}
+
+.main-header .month-change .today-icon
+{
+    width: 31px;
+    height: 35px;
+    background-image: url(../../images/today.png);
+    color: #5f6368;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    padding-top: 11px;
+}
+
+.main-header .month-change h1
+{
+    font-size: 25px;
+    color: #5f6368;
+    line-height: 36px;
+    cursor: pointer;
+    margin: 0 50px 0 10px !important;
+}
+
+.main-header .month-change button i
+{
+    border: solid #5f6368;
+    border-width: 0 2px 2px 0;
+    padding: 3px;
+    display: inline-block;
+}
+
+.main-header .month-change #back
+{
+    width: 35px;
+    min-width: 35px;
+    min-width: initial;
+    border-radius: 100%;
+    margin-right: 10px;
+    padding: 0;
+}
+
+.main-header .month-change #today
+{
+    min-width: 90px;
+    font-size: 15px;
+}
+
+.main-header .month-change #next
+{
+    width: 35px;
+    min-width: 35px;
+    min-width: initial;
+    border-radius: 100%;
+    margin-left: 10px;
+    padding: 0;
+}
+
+.main-header .month-change #back .left
+{
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    margin: 0 0 1px 3px;
+}
+
+.main-header .month-change #next .right
+{
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    margin: 0 2px 1px 0;
+}
+
+.main-header .date-view
+{
+    width: 33%;
+    text-align: center;
+}
+
+.main-header #dateview
+{
+    font-size: 25px;
+}
+
+.main-header .user-info
+{
+    width: 33%;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+}
+
+.main-header .user-info-text
+{
+    text-align: center;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.main-header .user-info-text #username
+{
+    font-size: 15px;
+    font-weight: 600;
+    color: #5f6368;
+}
+
+.main-header .user-info-text #useremail
+{
+    font-size: 13px;
+    color: #84878b;
+}
+
+.main-header #logout
+{
+    min-width: 70px;
+    font-size: 15px;
+}
+
+.main-content
+{
+    height: calc(100% - 70px);
+    display: flex;
+}
+
+.main-content .left-content
+{
+    width: 250px;
+    border-right: 1px solid #e1e1e1;
+    padding: 20px;
+}
+
+.main-content .left-content .create
+{
+    width: 150px;
+}
+
+.main-content .left-content mat-calendar
+{
+    width: 200px;
+    margin-top: 15px;
+}
+
+.main-content .left-content .events-colors
+{
+    margin-top: 25px;
+}
+
+.main-content .left-content .events-colors .event-color
+{
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+}
+
+.main-content .left-content .events-colors .color-view
+{
+    width: 30px;
+    height: 20px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.main-content .left-content .events-colors .event-type
+{
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.main-content .right-content
+{
+    width: 100%;
+    align-items: center;
+    padding: 0 20px 0 20px;
+    display: flex;
+}
+
+.main-content .right-content mwl-calendar-month-view
+{
+    width: 100%;
+}

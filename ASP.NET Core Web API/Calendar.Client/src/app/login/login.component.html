@@ -1,0 +1,19 @@
+﻿<div class="login">
+    <form (submit)="onSubmit()">
+        <h1>Вход</h1>
+        <label for="logname">Введите имя:</label>
+        <input id="logname" [ngClass]="{ 'form-control': true, 'is-valid': isFormValid, 'is-invalid': errors.Name != undefined && errors.Name.length > 0 }" name="logname" type="text" maxlength="30" [(ngModel)]="user.name">
+        <div class="invalid-feedback" *ngFor="let error of errors.Name">{{ error }}</div>
+        <label for="logpassword">Введите пароль:</label>
+        <input id="logpassword" [ngClass]="{ 'form-control': true, 'is-valid': isFormValid, 'is-invalid': errors.Password != undefined && errors.Password.length > 0 }" name="logpassword" type="password" maxlength="100" [(ngModel)]="user.password">
+        <div class="invalid-feedback" *ngFor="let error of errors.Password">{{ error }}</div>
+        <p id="error" [hidden]="!hasMainError">{{ errors }}</p>
+        <div class="remember-me">
+            <input id="rememberme" type="checkbox" name="rememberme" [(ngModel)]="rememberMe"/><label>Запомнить меня</label>
+        </div>
+        <div class="login-bottom">
+            <a class="create-account" routerLink="/register">Создать аккаунт</a>
+            <button id="logsubmit" class="btn btn-primary" type="submit" [disabled]="!isSubmitEnabled">Войти <span id="logspinner" class="spinner-border spinner-border-sm" [hidden]="isSubmitEnabled"></span></button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,34 @@
+﻿.show-event-form
+{
+    width: 100%;
+}
+
+.show-event-form mat-form-field
+{
+    width: 100%;
+}
+
+.show-event-form mat-form-field .icon-picker
+{
+    background-image: url(../../../images/datetimepicker.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 13px 14px;
+    padding-right: 16px;
+}
+
+.show-event-form mat-form-field .icon-picker:focus
+{
+    background-image: url(../../../images/datetimepicker-selected.png);
+}
+
+.mat-dialog-actions
+{
+    justify-content: flex-end;
+}
+
+.mat-dialog-actions .edit-button:not(:disabled)
+{
+    background-color: #28a745;
+    color: white;
+}

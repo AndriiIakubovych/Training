@@ -1,0 +1,64 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 15px;
+    display: flex;
+}
+
+.wrap
+{
+    width: 30%;
+    height: 100%;
+    box-sizing: border-box;
+    flex-direction: column;
+    padding-right: 15px;
+    display: flex;
+}
+
+.wrap .box-b
+{
+    border: 5px solid black;
+    margin-bottom: 15px;
+    padding-top: calc(100% - 30px);
+    position: relative;
+}
+
+.wrap .box-c
+{
+    border: 5px solid black;
+    flex-grow: 1;
+    position: relative;
+}
+
+.box-a
+{
+    width: 70%;
+    border: 5px solid black;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.box-name
+{
+    font-family: Arial;
+    font-size: 15vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+@media (max-height: 550px)
+{
+    body
+    {
+        min-height: 550px;
+    }
+}

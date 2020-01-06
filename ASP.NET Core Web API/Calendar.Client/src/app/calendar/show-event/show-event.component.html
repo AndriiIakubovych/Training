@@ -1,0 +1,27 @@
+﻿<h1 mat-dialog-title>Просмотр события</h1>
+<div mat-dialog-content>
+    <form class="show-event-form">
+        <mat-form-field>
+            <input matInput name="name" placeholder="Название" [(ngModel)]="event.name"/>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput class="icon-picker" name="datestart" [owlDateTime]="startDateTime" [owlDateTimeTrigger]="startDateTime" placeholder="Дата и время начала" autocomplete="off" [(ngModel)]="event.dateStart"/>
+            <owl-date-time #startDateTime></owl-date-time>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput class="icon-picker" name="dateend" [owlDateTime]="endDateTime" [owlDateTimeTrigger]="endDateTime" placeholder="Дата и время окончания" autocomplete="off" [(ngModel)]="event.dateEnd"/>
+            <owl-date-time #endDateTime></owl-date-time>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput name="location" placeholder="Место" [(ngModel)]="event.location"/>
+        </mat-form-field>
+        <mat-form-field>
+            <textarea matInput name="description" rows="4" placeholder="Описание" [(ngModel)]="event.description"></textarea>
+        </mat-form-field>
+    </form>
+</div>
+<div mat-dialog-actions>
+    <button mat-raised-button (click)="onCancel()"><mat-icon>clear</mat-icon> Отмена</button>
+    <button mat-raised-button color="warn" [mat-dialog-close]="{ id: event.id, delete: true }"><mat-icon>delete</mat-icon> Удалить</button>
+    <button mat-raised-button class="edit-button" [mat-dialog-close]="{ event: event, delete: false }" [disabled]="!event.name || !event.dateStart || !event.dateEnd"><mat-icon>edit</mat-icon> Редактировать</button>
+</div>

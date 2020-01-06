@@ -1,0 +1,126 @@
+C:\Work\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Work\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Work\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Work\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csproj.CoreCompileInputs.cache
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Training\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Training\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Calendar\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Calendar\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Calendar2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Calendar2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Calendar3\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Training\Training\ASP.NET Core Web API2\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.deps.json
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.json
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.runtimeconfig.dev.json
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\bin\Debug\netcoreapp2.2\Calendar.Server.pdb
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.csprojAssemblyReference.cache
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cache
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorAssemblyInfo.cs
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfoInputs.cache
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.AssemblyInfo.cs
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.RazorTargetAssemblyInfo.cache
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.dll
+C:\Work\Training\Training\ASP.NET Core Web API\Calendar.Server\Calendar.Server\obj\Debug\netcoreapp2.2\Calendar.Server.pdb

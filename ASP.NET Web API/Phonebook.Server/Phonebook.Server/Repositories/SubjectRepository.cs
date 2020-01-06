@@ -37,6 +37,9 @@ namespace Phonebook.Server.Repositories
         public Subject Edit(Subject subject)
         {
             Subject newSubject = context.Subjects.Find(subject.Id);
+            newSubject.Name = subject.Name;
+            newSubject.Address = subject.Address;
+            newSubject.Telephone = subject.Telephone;
             context.Entry(newSubject).State = EntityState.Modified;
             context.SaveChanges();
             return subject;
@@ -44,7 +47,7 @@ namespace Phonebook.Server.Repositories
 
         public Subject Delete(int id)
         {
-            Subject subject = context.Subjects.Where(s => s.Id == id).Single();
+            Subject subject = context.Subjects.Find(id);
             context.Entry(subject).State = EntityState.Deleted;
             context.SaveChanges();
             return subject;

@@ -1,0 +1,18 @@
+﻿<div class="register">
+    <form (submit)="onSubmit()">
+        <h1>Создание учётной записи</h1>
+        <label for="regname">Введите имя:</label>
+        <input id="regname" [ngClass]="{ 'form-control': true, 'is-valid': isFormValid, 'is-invalid': errors.Name != undefined && errors.Name.length > 0 }" name="regname" type="text" maxlength="30" [(ngModel)]="user.name">
+        <div class="invalid-feedback" *ngFor="let error of errors.Name">{{ error }}</div>
+        <label for="regemail">Введите почтовый адрес:</label>
+        <input id="regemail" [ngClass]="{ 'form-control': true, 'is-valid': isFormValid, 'is-invalid': errors.Email != undefined && errors.Email.length > 0 }" name="regemeil" type="email" maxlength="50" [(ngModel)]="user.email">
+        <div class="invalid-feedback" *ngFor="let error of errors.Email">{{ error }}</div>
+        <label for="regpassword">Введите пароль:</label>
+        <input id="regpassword" [ngClass]="{ 'form-control': true, 'is-valid': isFormValid, 'is-invalid': errors.Password != undefined && errors.Password.length > 0 }" name="regpassport" type="password" maxlength="100" [(ngModel)]="user.password">
+        <div class="invalid-feedback" *ngFor="let error of errors.Password">{{ error }}</div>
+        <label for="regconfpassword">Подтвердите пароль:</label>
+        <input id="regconfpassword" [ngClass]="{ 'form-control': true, 'is-valid': isFormValid, 'is-invalid': errors.PasswordConfirm != undefined && errors.PasswordConfirm.length > 0 }" name="regconfpassword" type="password" maxlength="100" [(ngModel)]="user.passwordConfirm">
+        <div class="invalid-feedback" *ngFor="let error of errors.PasswordConfirm">{{ error }}</div>
+        <button id="regsubmit" class="btn btn-primary" type="submit" [disabled]="!isSubmitEnabled">Зарегистрировать <span class="spinner-border spinner-border-sm" [hidden]="isSubmitEnabled"></span></button>
+    </form>
+</div>

@@ -1,0 +1,28 @@
+﻿.add-event-form
+{
+    width: 100%;
+}
+
+.add-event-form mat-form-field
+{
+    width: 100%;
+}
+
+.add-event-form mat-form-field .icon-picker
+{
+    background-image: url(../../../images/datetimepicker.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 13px 14px;
+    padding-right: 16px;
+}
+
+.add-event-form mat-form-field .icon-picker:focus
+{
+    background-image: url(../../../images/datetimepicker-selected.png);
+}
+
+.mat-dialog-actions
+{
+    justify-content: flex-end;
+}

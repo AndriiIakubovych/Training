@@ -1,0 +1,38 @@
+﻿<div class="main">
+    <div class="main-header">
+        <div class="month-change">
+            <div class="today-icon">
+                <span id="now">{{ viewDate.getDate() }}</span>
+            </div>
+            <h1>Календарь</h1>
+            <button mwlCalendarPreviousView mat-button id="back" matTooltip="Предыдущий месяц" [view]="view" [(viewDate)]="viewDate"><i class="left"></i></button>
+            <button mwlCalendarToday mat-stroked-button id="today" matTooltip="Текущий месяц" [(viewDate)]="viewDate">Сегодня</button>
+            <button mwlCalendarNextView mat-button id="next" matTooltip="Следующий месяц" [view]="view" [(viewDate)]="viewDate"><i class="right"></i></button>
+        </div>
+        <div class="date-view">
+            <span id="dateview">{{ months[viewDate.getMonth()] }} {{ viewDate.getFullYear() }}</span>
+        </div>
+        <div class="user-info">
+            <div class="user-info-text">
+                <div id="username">{{ user.name }}</div>
+                <div id="useremail">{{ user.email }}</div>
+            </div>
+            <button mat-stroked-button id="logout" matTooltip="Выйти из аккаунта" (click)="logout()">Выйти</button>
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="left-content">
+            <button class="btn btn-primary create" matTooltip="Создать новое событие" color="primary" (click)="openAddDialog()"><i class="fa fa-plus-circle"></i> Создать</button>
+            <mat-calendar #calendar [(selected)]="selectedDate"></mat-calendar>
+            <div class="events-colors">
+                <div class="event-color" *ngFor="let value of eventTypes">
+                    <div class="color-view" [(colorPicker)]="value.color.primary" [style.background]="value.color.primary" (colorPickerSelect)="changeColor(value)"></div>
+                    <div class="event-type">{{ value.name }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="right-content">
+            <mwl-calendar-month-view [weekStartsOn]="1" [viewDate]="viewDate" [events]="calendarEvents" [locale]="locale" [refresh]="refresh" (eventClicked)="handleEvent($event.event)"></mwl-calendar-month-view>
+        </div>
+    </div>
+</div>

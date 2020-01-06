@@ -41,7 +41,6 @@ namespace Blog.DataAccessLayer.EntityFramework
             modelBuilder.Entity<Comment>().Property(c => c.AuthorName).HasMaxLength(50);
             modelBuilder.Entity<Comment>().Property(c => c.AuthorName).IsRequired();
             modelBuilder.Entity<Comment>().Property(c => c.CommentDate).HasColumnName("Publication_date");
-            modelBuilder.Entity<Article>().Property(a => a.PublicationDate).IsRequired();
             modelBuilder.Entity<Comment>().Property(c => c.CommentText).HasColumnName("Comment_text");
             modelBuilder.Entity<Comment>().Property(c => c.CommentText).HasColumnType("text");
             modelBuilder.Entity<Comment>().Property(c => c.CommentText).IsRequired();

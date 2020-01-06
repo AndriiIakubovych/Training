@@ -1,0 +1,71 @@
+﻿.login
+{
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.login form
+{
+    width: 500px;
+    border: 2px solid #dadce0;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.login form h1
+{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.login form label
+{
+    margin: 20px 0 2px 0;
+}
+
+.login form .remember-me
+{
+    align-items: center;
+    margin-top: 20px;
+    display: flex;
+}
+
+.login form .remember-me label
+{
+    margin-top: 3px;
+}
+
+.login form .remember-me input[type="checkbox"]
+{
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+
+.login #error
+{
+    font-size: 13px;
+    color: #dc3545;
+    margin-top: 15px;
+}
+
+.login form .login-bottom
+{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    display: flex;
+}
+
+.login form .login-bottom .create-account
+{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.login form .login-bottom button
+{
+    width: 100px;
+}
