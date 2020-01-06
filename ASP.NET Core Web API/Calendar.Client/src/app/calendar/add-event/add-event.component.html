@@ -2,7 +2,7 @@
 <div mat-dialog-content>
     <form class="add-event-form">
         <mat-form-field>
-            <input matInput name="name" placeholder="Название" [(ngModel)]="event.name"/>
+            <input matInput name="name" placeholder="Название" maxlength="50" [(ngModel)]="event.name"/>
         </mat-form-field>
         <mat-form-field>
             <input matInput class="icon-picker" name="datestart" [owlDateTime]="startDateTime" [owlDateTimeTrigger]="startDateTime" placeholder="Дата и время начала" autocomplete="off" [(ngModel)]="event.dateStart"/>
@@ -13,7 +13,7 @@
             <owl-date-time #endDateTime></owl-date-time>
         </mat-form-field>
         <mat-form-field>
-            <input matInput name="location" placeholder="Место" [(ngModel)]="event.location"/>
+            <input matInput name="location" placeholder="Место" maxlength="100" [(ngModel)]="event.location"/>
         </mat-form-field>
         <mat-form-field>
             <textarea matInput name="description" rows="4" placeholder="Описание" [(ngModel)]="event.description"></textarea>
